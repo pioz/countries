@@ -5,7 +5,7 @@
 [![codecov](https://codecov.io/gh/pioz/countries/branch/master/graph/badge.svg)](https://codecov.io/gh/pioz/countries)
 [![GoReference](https://pkg.go.dev/badge/mod/github.com/pioz/countries)](https://pkg.go.dev/github.com/pioz/countries)
 
-Countries is a port of [Ruby Countries](https://github.com/countries/countries) for GO.
+Countries is a port of [Ruby Countries](https://github.com/countries/countries) for Go.
 
 - Standard ISO3166-1 (countries)
 - Standard ISO3166-2 (states/subdivisions)
