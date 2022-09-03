@@ -44,10 +44,11 @@ c := countries.Get("US")
 fmt.Println(c.ISOLongName)
 fmt.Println(c.ISOShortName)
 fmt.Println(c.UnofficialNames)
-fmt.Println(c.Translation("en"))
-fmt.Println(c.Translation("it"))
-fmt.Println(c.Translation("de"))
+fmt.Println(c.Translations["en"])
+fmt.Println(c.Translations["it"])
+fmt.Println(c.Translations["de"])
 fmt.Println(c.Nationality)
+fmt.Println(c.Capital)
 fmt.Println(c.EmojiFlag())
 // Output:
 // The United States of America
@@ -57,6 +58,7 @@ fmt.Println(c.EmojiFlag())
 // Stati Uniti
 // Vereinigte Staaten
 // American
+// Washington
 // 🇺🇸
 ```
 
