@@ -64,29 +64,185 @@ func TestCountry(t *testing.T) {
 }
 
 func ExampleGet() {
-	us := countries.Get("US")
-	fmt.Println(us.ISOShortName)
+	c := countries.Get("US")
+	fmt.Println(c.ISOShortName)
 	// Output: United States of America
 }
 
-func ExampleGet_fields() {
-	us := countries.Get("US")
-	fmt.Println(us.ISOShortName)
-	fmt.Println(us.Alpha2)
-	fmt.Println(us.Region)
-	fmt.Println(us.PostalCodeFormat)
-	fmt.Println(us.StartOfWeek)
-	fmt.Println(us.Subdivision("CA").Name)
-	fmt.Println(us.Timezones[0])
-	fmt.Println(us.EmojiFlag())
-	// Output: United States of America
+func ExampleGet_readmeIdentificationCodes() {
+	c := countries.Get("US")
+	fmt.Println(c.Number)
+	fmt.Println(c.Alpha2)
+	fmt.Println(c.Alpha3)
+	fmt.Println(c.GEC)
+	// Output:
+	// 840
 	// US
-	// Americas
-	// (\d{5})(?:[ \-](\d{4}))?
-	// sunday
-	// California
-	// America/New_York
+	// USA
+	// US
+}
+
+func ExampleGet_readmeNamesAndTranslations() {
+	c := countries.Get("US")
+	fmt.Println(c.ISOLongName)
+	fmt.Println(c.ISOShortName)
+	fmt.Println(c.UnofficialNames)
+	fmt.Println(c.Translation("en"))
+	fmt.Println(c.Translation("it"))
+	fmt.Println(c.Translation("de"))
+	fmt.Println(c.Nationality)
+	fmt.Println(c.EmojiFlag())
+	// Output:
+	// The United States of America
+	// United States of America
+	// [United States USA Vereinigte Staaten von Amerika États-Unis Estados Unidos アメリカ合衆国 Verenigde Staten Соединенные Штаты Америки]
+	// United States
+	// Stati Uniti
+	// Vereinigte Staaten
+	// American
 	// 🇺🇸
+}
+
+func ExampleGet_readmeSubdivisions() {
+	c := countries.Get("US")
+	ca := c.Subdivision("CA")
+	tx := c.SubdivisionByName("Texas")
+	fmt.Println(len(c.Subdivisions))
+	fmt.Println(ca.Name)
+	fmt.Println(ca.Type)
+	fmt.Println(ca.Translations["de"])
+	fmt.Println(ca.Geo.Latitude)
+	fmt.Println(tx.Code)
+	// Output:
+	// 57
+	// California
+	// state
+	// Kalifornien
+	// 36.778261
+	// TX
+}
+
+func ExampleGet_readmeLocations() {
+	c := countries.Get("US")
+	fmt.Println(c.Geo.Latitude)
+	fmt.Println(c.Geo.Longitude)
+	fmt.Println(c.Region)
+	fmt.Println(c.Subregion)
+	fmt.Println(c.Continent)
+	fmt.Println(c.WorldRegion)
+	// Output:
+	// 37.09024
+	// -95.712891
+	// Americas
+	// Northern America
+	// North America
+	// AMER
+}
+
+func ExampleGet_readmeBoundaryBoxes() {
+	c := countries.Get("US")
+	fmt.Println(c.Geo.MinLatitude)
+	fmt.Println(c.Geo.MaxLatitude)
+	fmt.Println(c.Geo.MinLongitude)
+	fmt.Println(c.Geo.MaxLongitude)
+	fmt.Println(c.Geo.Bounds.Northeast.Lat)
+	fmt.Println(c.Geo.Bounds.Northeast.Lng)
+	fmt.Println(c.Geo.Bounds.Southwest.Lat)
+	fmt.Println(c.Geo.Bounds.Southwest.Lng)
+	// Output:
+	// 18.91619
+	// 71.3577635769
+	// -171.791110603
+	// -66.96466
+	// 71.3577635769
+	// -66.96466
+	// 18.91619
+	// -171.791110603
+}
+
+func ExampleGet_readmeTelephoneRouting() {
+	c := countries.Get("US")
+	fmt.Println(c.CountryCode)
+	fmt.Println(c.NationalDestinationCodeLengths)
+	fmt.Println(c.NationalNumberLengths)
+	fmt.Println(c.InternationalPrefix)
+	fmt.Println(c.NationalPrefix)
+	// Output:
+	// 1
+	// [3]
+	// [10]
+	// 011
+	// 1
+}
+
+func ExampleGet_readmeTimezones() {
+	c := countries.Get("DE")
+	fmt.Println(c.Timezones)
+	// Output: [Europe/Berlin Europe/Busingen]
+}
+
+func ExampleGet_readmeFormattedAddresses() {
+	c := countries.Get("US")
+	fmt.Println(c.AddressFormat)
+	fmt.Println("---")
+	fmt.Println(c.FormatAddress("John Smith", "1084 Nuzum Court", "14214", "Buffalo", "New York"))
+	// Output:
+	// {{recipient}}
+	// {{street}}
+	// {{city}} {{region_short}} {{postalcode}}
+	// {{country}}
+	// ---
+	// John Smith
+	// 1084 Nuzum Court
+	// Buffalo NY 14214
+	// United States of America
+}
+
+func ExampleGet_readmeVATRates() {
+	c := countries.Get("IE")
+	fmt.Println(c.VatRates.Standard)
+	fmt.Println(c.VatRates.Reduced)
+	fmt.Println(c.VatRates.SuperReduced)
+	fmt.Println(c.VatRates.Parking)
+	// Output:
+	// 23
+	// [9 13]
+	// 4
+	// 13
+}
+
+func ExampleGet_readmeEuropeanUnionMembership() {
+	c := countries.Get("IT")
+	fmt.Println(c.EUMember)
+	// Output: true
+}
+
+func ExampleGet_readmeEuropeanEconomicAreaMembership() {
+	c := countries.Get("FR")
+	fmt.Println(c.EEAMember)
+	// Output: true
+}
+
+func ExampleGet_readmeEuropeanSingleMarketMembership() {
+	c := countries.Get("CH")
+	fmt.Println(c.ESMMember)
+	// Output: true
+}
+
+func ExampleGet_readmeCountryFinders() {
+	allCountries := countries.All
+	countriesInEurope := countries.InRegion("Europe")
+	countriesInSouthernAsia := countries.InSubregion("Southern Asia")
+	countriesInEU := countries.InEU()
+	fmt.Println(len(allCountries))
+	fmt.Println(len(countriesInEurope))
+	fmt.Println(len(countriesInSouthernAsia))
+	fmt.Println(len(countriesInEU))
+	// Output:
+	// 249
+	// 51
+	// 9
+	// 27
 }
 
 func TestAll(t *testing.T) {
@@ -150,41 +306,42 @@ func TestSubdivision(t *testing.T) {
 }
 
 func ExampleCountry_Subdivision() {
-	us := countries.Get("US")
-	ca := us.Subdivision("CA")
+	c := countries.Get("US")
+	ca := c.Subdivision("CA")
 	fmt.Println(ca.Name)
 	// Output: California
 }
 
 func TestSubdivisionByName(t *testing.T) {
-	it := countries.Get("IT")
-	subdivision := it.SubdivisionByName("Veneto")
+	c := countries.Get("IT")
+	subdivision := c.SubdivisionByName("Veneto")
 	assert.Equal(t, "34", subdivision.Code)
 	assert.Equal(t, "Veneto", subdivision.Name)
-	subdivision = it.SubdivisionByName("xx")
+	subdivision = c.SubdivisionByName("xx")
 	assert.Equal(t, "", subdivision.Name)
 }
 
 func ExampleCountry_SubdivisionByName() {
-	us := countries.Get("US")
-	ca := us.SubdivisionByName("Texas")
+	c := countries.Get("US")
+	ca := c.SubdivisionByName("Texas")
 	fmt.Println(ca.Code)
 	// Output: TX
 }
 
 func TestTranslation(t *testing.T) {
-	it := countries.Get("IT")
-	assert.Equal(t, "Italy", it.Translation("en"))
-	assert.Equal(t, "Italia", it.Translation("it"))
-	assert.Equal(t, "Italie", it.Translation("fr"))
-	assert.Equal(t, "", it.Translation("xx"))
+	c := countries.Get("IT")
+	assert.Equal(t, "Italy", c.Translation("en"))
+	assert.Equal(t, "Italia", c.Translation("it"))
+	assert.Equal(t, "Italie", c.Translation("fr"))
+	assert.Equal(t, "", c.Translation("xx"))
 }
 
 func ExampleCountry_Translation() {
-	us := countries.Get("US")
-	fmt.Println(us.Translation("fr"))
-	fmt.Println(us.Translation("zh_CN"))
-	// Output: États-Unis
+	c := countries.Get("US")
+	fmt.Println(c.Translation("fr"))
+	fmt.Println(c.Translation("zh_CN"))
+	// Output:
+	// États-Unis
 	// 美国
 }
 
@@ -227,23 +384,24 @@ func TestFormatAddress(t *testing.T) {
 }
 
 func ExampleCountry_FormatAddress() {
-	us := countries.Get("US")
-	fmt.Println(us.FormatAddress("John Smith", "1084 Nuzum Court", "14214", "Buffalo", "New York"))
-	// Output: John Smith
+	c := countries.Get("US")
+	fmt.Println(c.FormatAddress("John Smith", "1084 Nuzum Court", "14214", "Buffalo", "New York"))
+	// Output:
+	// John Smith
 	// 1084 Nuzum Court
 	// Buffalo NY 14214
 	// United States of America
 }
 
 func ExampleCountry_EmojiFlag() {
-	us := countries.Get("US")
-	fmt.Println(us.EmojiFlag())
+	c := countries.Get("US")
+	fmt.Println(c.EmojiFlag())
 	// Output: 🇺🇸
 }
 
 func TestTimezones(t *testing.T) {
-	us := countries.Get("DE")
-	zones := us.Timezones
+	c := countries.Get("DE")
+	zones := c.Timezones
 	assert.Equal(t, 2, len(zones))
 	assert.Equal(t, "Europe/Berlin", zones[0])
 	assert.Equal(t, "Europe/Busingen", zones[1])
