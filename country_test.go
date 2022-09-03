@@ -52,6 +52,8 @@ func TestCountry(t *testing.T) {
 	assert.Equal(t, "monday", c.StartOfWeek)
 	assert.Equal(t, 126, len(c.Subdivisions))
 	assert.Equal(t, "Southern Europe", c.Subregion)
+	assert.Equal(t, 1, len(c.Timezones))
+	assert.Equal(t, "Europe/Rome", c.Timezones[0])
 	assert.Equal(t, "IT", c.UnLocode)
 	assert.Equal(t, []string{"Italy", "Italien", "Italie", "Italia", "イタリア", "Italië"}, c.UnofficialNames)
 	assert.Equal(t, 22, c.VatRates.Standard)
@@ -75,6 +77,7 @@ func ExampleGet_fields() {
 	fmt.Println(us.PostalCodeFormat)
 	fmt.Println(us.StartOfWeek)
 	fmt.Println(us.Subdivision("CA").Name)
+	fmt.Println(us.Timezones[0])
 	fmt.Println(us.EmojiFlag())
 	// Output: United States of America
 	// US
@@ -82,6 +85,7 @@ func ExampleGet_fields() {
 	// (\d{5})(?:[ \-](\d{4}))?
 	// sunday
 	// California
+	// America/New_York
 	// 🇺🇸
 }
 
@@ -235,4 +239,12 @@ func ExampleCountry_EmojiFlag() {
 	us := countries.Get("US")
 	fmt.Println(us.EmojiFlag())
 	// Output: 🇺🇸
+}
+
+func TestTimezones(t *testing.T) {
+	us := countries.Get("DE")
+	zones := us.Timezones
+	assert.Equal(t, 2, len(zones))
+	assert.Equal(t, "Europe/Berlin", zones[0])
+	assert.Equal(t, "Europe/Busingen", zones[1])
 }

@@ -2,6 +2,7 @@ package main
 
 import (
 	"bytes"
+	"encoding/csv"
 	"fmt"
 	"go/format"
 	"log"
@@ -60,11 +61,17 @@ func main() {
 	if err != nil {
 		log.Fatalf("writing output: %s", err)
 	}
-
+	// Load timezones data from csv data file
+	allTimezones := make(map[string][]string)
+	err = loadTimezones(filepath.Join(dataPath, "timezones.csv"), allTimezones)
+	if err != nil {
+		log.Fatalf("writing output: %s", err)
+	}
 	// Build and sort All slice
 	var all []countries.Country
 	for countryAlpha2, c := range allCountries {
 		c.Subdivisions = allSubdivisions[countryAlpha2]
+		c.Timezones = allTimezones[countryAlpha2]
 		all = append(all, c)
 	}
 	sort.Slice(all, func(i, j int) bool {
@@ -177,6 +184,24 @@ func loadTranslations(translationsPath string, out map[string]map[string]string)
 		}
 		locale := filenameToLocale(file.Name())
 		out[locale] = translations
+	}
+	return nil
+}
+
+// CSV file link: https://timezonedb.com/files/timezonedb.csv.zip
+func loadTimezones(timezonesPath string, out map[string][]string) error {
+	f, err := os.Open(timezonesPath)
+	if err != nil {
+		return err
+	}
+	defer f.Close()
+	csvReader := csv.NewReader(f)
+	records, err := csvReader.ReadAll()
+	if err != nil {
+		return err
+	}
+	for _, row := range records {
+		out[row[1]] = append(out[row[1]], row[2])
 	}
 	return nil
 }

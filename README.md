@@ -30,6 +30,7 @@ fmt.Println(us.Region)
 fmt.Println(us.PostalCodeFormat)
 fmt.Println(us.StartOfWeek)
 fmt.Println(us.Subdivision("CA").Name)
+fmt.Println(us.Timezones[0])
 fmt.Println(us.EmojiFlag())
 // Output: United States of America
 // US
@@ -37,6 +38,7 @@ fmt.Println(us.EmojiFlag())
 // (\d{5})(?:[ \-](\d{4}))?
 // sunday
 // California
+// America/New_York
 // 🇺🇸
 
 // Get all countries in Europe

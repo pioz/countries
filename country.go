@@ -69,6 +69,7 @@ type Country struct {
 	StartOfWeek                    string                 `yaml:"start_of_week"`
 	Subdivisions                   map[string]Subdivision `yaml:"-"`
 	Subregion                      string                 `yaml:"subregion"`
+	Timezones                      []string               `yaml:"-"`
 	UnLocode                       string                 `yaml:"un_locode"`
 	UnofficialNames                []string               `yaml:"unofficial_names"`
 	VatRates                       VatRates               `yaml:"vat_rates"`
