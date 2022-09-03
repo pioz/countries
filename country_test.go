@@ -18,6 +18,7 @@ func TestCountry(t *testing.T) {
 	assert.Equal(t, "{{recipient}}\n{{street}}\n{{postalcode}} {{city}} {{region_short}}\n{{country}}", c.AddressFormat)
 	assert.Equal(t, "IT", c.Alpha2)
 	assert.Equal(t, "ITA", c.Alpha3)
+	assert.Equal(t, "Rome", c.Capital)
 	assert.Equal(t, "Europe", c.Continent)
 	assert.Equal(t, "39", c.CountryCode)
 	assert.Equal(t, "EUR", c.CurrencyCode)
@@ -46,7 +47,6 @@ func TestCountry(t *testing.T) {
 	assert.Equal(t, "None", c.NationalPrefix)
 	assert.Equal(t, "Italian", c.Nationality)
 	assert.Equal(t, "380", c.Number)
-	assert.Equal(t, true, c.PostalCode)
 	assert.Equal(t, "\\d{5}", c.PostalCodeFormat)
 	assert.Equal(t, "Europe", c.Region)
 	assert.Equal(t, "monday", c.StartOfWeek)
@@ -87,10 +87,11 @@ func ExampleGet_readmeNamesAndTranslations() {
 	fmt.Println(c.ISOLongName)
 	fmt.Println(c.ISOShortName)
 	fmt.Println(c.UnofficialNames)
-	fmt.Println(c.Translation("en"))
-	fmt.Println(c.Translation("it"))
-	fmt.Println(c.Translation("de"))
+	fmt.Println(c.Translations["en"])
+	fmt.Println(c.Translations["it"])
+	fmt.Println(c.Translations["de"])
 	fmt.Println(c.Nationality)
+	fmt.Println(c.Capital)
 	fmt.Println(c.EmojiFlag())
 	// Output:
 	// The United States of America
@@ -100,6 +101,7 @@ func ExampleGet_readmeNamesAndTranslations() {
 	// Stati Uniti
 	// Vereinigte Staaten
 	// American
+	// Washington
 	// 🇺🇸
 }
 
@@ -270,6 +272,8 @@ func TestRegions(t *testing.T) {
 func TestSubregions(t *testing.T) {
 	subregions := countries.Subregions
 	assert.Equal(t, 22, len(subregions))
+	assert.Equal(t, "Australia and New Zealand", subregions[0])
+	assert.Equal(t, "Western Europe", subregions[21])
 }
 
 func TestInEU(t *testing.T) {
@@ -297,12 +301,14 @@ func TestInSubregion(t *testing.T) {
 
 func TestSubdivision(t *testing.T) {
 	it := countries.Get("IT")
-	subdivision := it.Subdivision("VE")
-	assert.Equal(t, "VE", subdivision.Code)
-	assert.Equal(t, "Venezia", subdivision.Name)
-	assert.Equal(t, 45.4408474, subdivision.Geo.Latitude)
-	assert.Equal(t, "Venice", subdivision.Translations["en"])
+	subdivision := it.Subdivision("RM")
+	assert.Equal(t, "RM", subdivision.Code)
+	assert.Equal(t, "Roma", subdivision.Name)
+	assert.Equal(t, 41.9027835, subdivision.Geo.Latitude)
+	assert.Equal(t, 12.4963655, subdivision.Geo.Longitude)
+	assert.Equal(t, "Rome", subdivision.Translations["en"])
 	assert.Equal(t, "metropolitan_city", subdivision.Type)
+	assert.True(t, subdivision.Capital)
 }
 
 func ExampleCountry_Subdivision() {
@@ -328,21 +334,12 @@ func ExampleCountry_SubdivisionByName() {
 	// Output: TX
 }
 
-func TestTranslation(t *testing.T) {
+func TestTranslations(t *testing.T) {
 	c := countries.Get("IT")
-	assert.Equal(t, "Italy", c.Translation("en"))
-	assert.Equal(t, "Italia", c.Translation("it"))
-	assert.Equal(t, "Italie", c.Translation("fr"))
-	assert.Equal(t, "", c.Translation("xx"))
-}
-
-func ExampleCountry_Translation() {
-	c := countries.Get("US")
-	fmt.Println(c.Translation("fr"))
-	fmt.Println(c.Translation("zh_CN"))
-	// Output:
-	// États-Unis
-	// 美国
+	assert.Equal(t, "Italy", c.Translations["en"])
+	assert.Equal(t, "Italia", c.Translations["it"])
+	assert.Equal(t, "Italie", c.Translations["fr"])
+	assert.Equal(t, "", c.Translations["xx"])
 }
 
 func TestMatchPostalCode(t *testing.T) {

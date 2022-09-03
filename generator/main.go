@@ -50,7 +50,7 @@ func main() {
 		log.Fatalf("writing output: %s", err)
 	}
 	// Load subdivisions data from yaml data files
-	allSubdivisions := make(map[string]map[string]countries.Subdivision)
+	allSubdivisions := make(map[string]map[string]*countries.Subdivision)
 	err = loadSubdivisions(filepath.Join(dataPath, "subdivisions"), allSubdivisions)
 	if err != nil {
 		log.Fatalf("writing output: %s", err)
@@ -58,6 +58,12 @@ func main() {
 	// Load translations data from yaml data files
 	allTranslations := make(map[string]map[string]string)
 	err = loadTranslations(filepath.Join(dataPath, "translations"), allTranslations)
+	if err != nil {
+		log.Fatalf("writing output: %s", err)
+	}
+	// Load capitals data from yaml data files
+	allCapitals := make(map[string]string)
+	err = loadCapitals(filepath.Join(dataPath, "capitals.yaml"), allCapitals)
 	if err != nil {
 		log.Fatalf("writing output: %s", err)
 	}
@@ -70,8 +76,19 @@ func main() {
 	// Build and sort All slice
 	var all []countries.Country
 	for countryAlpha2, c := range allCountries {
-		c.Subdivisions = allSubdivisions[countryAlpha2]
+		c.Capital = allCapitals[countryAlpha2]
+		c.Subdivisions = make(map[string]countries.Subdivision)
+		for code, subdivision := range allSubdivisions[countryAlpha2] {
+			if subdivision.Type == "metropolitan_city" && subdivision.Translations["en"] == c.Capital {
+				subdivision.Capital = true
+			}
+			c.Subdivisions[code] = *subdivision
+		}
 		c.Timezones = allTimezones[countryAlpha2]
+		c.Translations = make(map[string]string)
+		for locale, translations := range allTranslations {
+			c.Translations[locale] = translations[countryAlpha2]
+		}
 		all = append(all, c)
 	}
 	sort.Slice(all, func(i, j int) bool {
@@ -85,6 +102,7 @@ func main() {
 	g.Printf("package countries\n")
 	g.Printf("\n")
 
+	g.Printf("// All is a slice with all countries ordered by alpha2 code.\n")
 	g.Printf("var All = []Country{\n")
 	for _, country := range all {
 		g.Printf("  %s,\n", countryToCodeString(country))
@@ -92,27 +110,27 @@ func main() {
 	g.Printf("}\n")
 
 	g.Printf("\n")
-	g.Printf("var countries = map[string]*Country{\n")
+	g.Printf("// Get returns the country identified by alpha2 code.\n")
+	g.Printf("func Get(alpha2 string) *Country {\n")
+	g.Printf("  switch alpha2 {\n")
 	for i, country := range all {
-		g.Printf("  \"%s\": &All[%d],\n", country.Alpha2, i)
+		g.Printf("  case \"%s\":\n", country.Alpha2)
+		g.Printf("    return &All[%d]\n", i)
 	}
+	g.Printf("  }\n")
+	g.Printf("  return nil\n")
 	g.Printf("}\n")
 
 	g.Printf("\n")
-	g.Printf("var translations = map[string]map[string]string{\n")
-	for locale, translations := range allTranslations {
-		s := translationsToCodeString(translations)
-		g.Printf("  \"%s\": %s,\n", locale, s)
-	}
-	g.Printf("}\n")
-
-	g.Printf("\n")
+	g.Printf("// Alpha2 is a slice with all country alpha2 codes.\n")
 	g.Printf("var Alpha2 = %#v\n", alpha2(all))
 
 	g.Printf("\n")
+	g.Printf("// Regions is a slice with all region names.\n")
 	g.Printf("var Regions = %#v\n", regions(all))
 
 	g.Printf("\n")
+	g.Printf("// Subregions is a slice with all subregion names.\n")
 	g.Printf("var Subregions = %#v\n", subregions(all))
 
 	// Format the output.
@@ -144,13 +162,13 @@ func loadCountries(countriesPath string, out map[string]countries.Country) error
 	return nil
 }
 
-func loadSubdivisions(subdivisionsPath string, out map[string]map[string]countries.Subdivision) error {
+func loadSubdivisions(subdivisionsPath string, out map[string]map[string]*countries.Subdivision) error {
 	files, err := os.ReadDir(subdivisionsPath)
 	if err != nil {
 		return err
 	}
 	for _, file := range files {
-		subdivisions := make(map[string]countries.Subdivision)
+		subdivisions := make(map[string]*countries.Subdivision)
 		path := filepath.Join(subdivisionsPath, file.Name())
 		buf, err := os.ReadFile(path)
 		if err != nil {
@@ -184,6 +202,18 @@ func loadTranslations(translationsPath string, out map[string]map[string]string)
 		}
 		locale := filenameToLocale(file.Name())
 		out[locale] = translations
+	}
+	return nil
+}
+
+func loadCapitals(capitalsPath string, out map[string]string) error {
+	buf, err := os.ReadFile(capitalsPath)
+	if err != nil {
+		return err
+	}
+	err = yaml.Unmarshal(buf, &out)
+	if err != nil {
+		return err
 	}
 	return nil
 }
@@ -254,12 +284,6 @@ func subregions(countries []countries.Country) []string {
 		return result[i] < result[j]
 	})
 	return result
-}
-
-func translationsToCodeString(t map[string]string) string {
-	s := fmt.Sprintf("%#v", t)
-	s = strings.ReplaceAll(s, "map[string]string", "")
-	return s
 }
 
 func filenameToCountryAlpha2(filename string) string {

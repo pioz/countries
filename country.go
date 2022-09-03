@@ -44,6 +44,7 @@ type Country struct {
 	AddressFormat                  string                 `yaml:"address_format"`
 	Alpha2                         string                 `yaml:"alpha2"`
 	Alpha3                         string                 `yaml:"alpha3"`
+	Capital                        string                 `yaml:"capital"`
 	Continent                      string                 `yaml:"continent"`
 	CountryCode                    string                 `yaml:"country_code"`
 	CurrencyCode                   string                 `yaml:"currency_code"`
@@ -63,13 +64,13 @@ type Country struct {
 	NationalPrefix                 string                 `yaml:"national_prefix"`
 	Nationality                    string                 `yaml:"nationality"`
 	Number                         string                 `yaml:"number"`
-	PostalCode                     bool                   `yaml:"postal_code"`
 	PostalCodeFormat               string                 `yaml:"postal_code_format"`
 	Region                         string                 `yaml:"region"`
 	StartOfWeek                    string                 `yaml:"start_of_week"`
 	Subdivisions                   map[string]Subdivision `yaml:"-"`
 	Subregion                      string                 `yaml:"subregion"`
 	Timezones                      []string               `yaml:"-"`
+	Translations                   map[string]string      `yaml:"-"`
 	UnLocode                       string                 `yaml:"un_locode"`
 	UnofficialNames                []string               `yaml:"unofficial_names"`
 	VatRates                       VatRates               `yaml:"vat_rates"`
@@ -81,9 +82,10 @@ type Country struct {
 type Subdivision struct {
 	Name         string            `yaml:"name"`
 	Code         string            `yaml:"code"`
+	Type         string            `yaml:"type"`
+	Capital      bool              `yaml:"capital"`
 	Geo          Geo               `yaml:"geo"`
 	Translations map[string]string `yaml:"translations"`
-	Type         string            `yaml:"type"`
 }
 
 // InEU returns all countries that are members of the European Union.
@@ -119,11 +121,6 @@ func InSubregion(subregion string) []Country {
 	return result
 }
 
-// Get returns the country identified by alpha2 code.
-func Get(alpha2 string) *Country {
-	return countries[alpha2]
-}
-
 // Subdivision returns the country's subdivision identified by code. If the code
 // is not valid or not found returns a zero value Subdivision.
 func (c *Country) Subdivision(code string) Subdivision {
@@ -141,17 +138,9 @@ func (c *Country) SubdivisionByName(name string) Subdivision {
 	return Subdivision{}
 }
 
-// Translation returns the country translation name.
-func (c *Country) Translation(locale string) string {
-	return translations[locale][c.Alpha2]
-}
-
 // MatchPostalCode returns true if postalCode has a valid format for the
 // country. If the country does not have a postal code, returns false.
 func (c *Country) MatchPostalCode(postalCode string) bool {
-	if !c.PostalCode {
-		return false
-	}
 	if c.PostalCodeFormat == "" {
 		return false
 	}
