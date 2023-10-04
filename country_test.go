@@ -342,6 +342,14 @@ func TestTranslations(t *testing.T) {
 	assert.Equal(t, "", c.Translations["xx"])
 }
 
+func TestHasPostalCode(t *testing.T) {
+	it := countries.Get("IT")
+	assert.True(t, it.HasPostalCode())
+
+	jm := countries.Get("JM")
+	assert.False(t, jm.HasPostalCode())
+}
+
 func TestMatchPostalCode(t *testing.T) {
 	it := countries.Get("IT")
 	assert.True(t, it.MatchPostalCode("35018"))

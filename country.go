@@ -138,10 +138,16 @@ func (c *Country) SubdivisionByName(name string) Subdivision {
 	return Subdivision{}
 }
 
+// HasPostalCode determines whether the country has postal codes. It returns
+// true if the country has postal codes, and false if it does not.
+func (c *Country) HasPostalCode() bool {
+	return c.PostalCodeFormat != ""
+}
+
 // MatchPostalCode returns true if postalCode has a valid format for the
 // country. If the country does not have a postal code, returns false.
 func (c *Country) MatchPostalCode(postalCode string) bool {
-	if c.PostalCodeFormat == "" {
+	if !c.HasPostalCode() {
 		return false
 	}
 	r := regexp.MustCompile(c.PostalCodeFormat)
