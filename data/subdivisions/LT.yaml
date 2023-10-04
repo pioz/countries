@@ -21,6 +21,7 @@
     fr: municipalité du district d’Akmenė
     he: אקמני (מחוז משנה)
     it: Comune distrettuale di Akmenė
+    ja: アクメネ地区自治体
     ka: აკმიანის რაიონი
     lt: Akmenės rajono savivaldybė
     lv: Akmenes rajona pašvaldība
@@ -33,6 +34,8 @@
     zh: 阿克梅內地區
     ceb: Akmenės Rajonas
     ccp: "\U00011103\U00011107\U00011134\U0001111F\U0001112C\U0001111A\U0001112C"
+    cs: okres Akmenė
+    ko: 아크메네구
   comments:
   type: district_municipality
 '02':
@@ -51,10 +54,17 @@
     el: Δήμος Πόλης Αλύτους
     en: Alytus Municipality
     it: Comune urbano di Alytus
+    ja: アリートゥス都市自治体
     lt: Alytaus miesto savivaldybė
     nl: Alytus City Municipality
     pl: Olita (rejon miejski)
     ccp: "\U00011103\U00011123\U00011128\U00011120\U00011111\U0001110C\U00011134 \U0001111F\U00011128\U00011105\U0001112A\U0001111A\U00011128\U00011125\U00011128\U0001111B\U00011123\U00011128\U00011111\U00011128"
+    be: Алітускае гарадское самакіраванне
+    ceb: Alytus
+    cy: Alytus
+    fr: Alytus²
+    ru: Алитусское городское самоуправление
+    th: เทศบาลนครอาลีตุส
   comments:
   type: city_municipality
 '03':
@@ -96,6 +106,9 @@
     ccp: "\U00011103\U00011123\U00011128\U00011120\U00011111\U0001110C\U00011134"
     et: Alytuse rajoon
     'no': Alytus landkommune
+    cs: okres Alytus
+    ko: 알리투스구
+    th: เทศบาลเขตอาลีตุส
   comments:
   type: district_municipality
 '04':
@@ -121,6 +134,7 @@
     fr: municipalité du district d’Anykščiai
     he: אניקצ׳ה
     it: Comune distrettuale di Anykščiai
+    ja: アニークシュチェイ地区自治体
     ka: ანიკშჩიაის რაიონი
     lt: Anykščių rajono savivaldybė
     lv: Anīkšču rajona pašvaldība
@@ -133,6 +147,10 @@
     ccp: "\U00011103\U00011133\U00011120\U0001111A\U00011128\U00011107\U00011134\U00011125\U00011128\U00011103\U0001112D"
     hy: Անիկշչայի շրջան
     es: Distrito de Anykščiai
+    ceb: Anykščiai (munisipyo sa Lyetuwanya)
+    cs: okres Anykščiai
+    et: Anykščiai rajoon
+    ko: 아닉슈차이구
   comments:
   type: district_municipality
 '05':
@@ -166,6 +184,11 @@
     zh: 比爾什托納斯區
     ccp: "\U0001111D\U00011128\U00011122\U00011134\U0001110C\U00011133\U00011111\U00011127\U0001111A\U0001110C\U00011134"
     et: Birštonase omavalitsus
+    be: Бірштанаскае самакіраванне
+    ceb: Birštonas (munisipyo)
+    ko: 비르슈토나스시
+    th: เทศบาลบีร์ชตอนัส
+    uk: Бірштонаське самоврядування
   comments:
   type: municipality
 '06':
@@ -190,6 +213,7 @@
     fr: municipalité du district de Biržai
     he: בירז׳
     it: Comune distrettuale di Biržai
+    ja: ビルジャイ地区自治体
     ka: ბირჟაის რაიონი
     lt: Biržų rajono savivaldybė
     lv: Biržu rajona pašvaldība
@@ -205,6 +229,9 @@
     es: Distrito de Biržai
     da: Biržai Distriktkommune
     hu: Biržai község
+    cs: okres Biržai
+    fa: شهرداری ناحیه بیرژای
+    ko: 비르자이구
   comments:
   type: district_municipality
 '07':
@@ -229,6 +256,7 @@
     fr: Municipalité de Druskininkai
     he: דרוסקינינקאי (מחוז משנה)
     it: Comune di Druskininkai
+    ja: ドルスキニンカイ基礎自治体
     lt: Druskininkų savivaldybė
     lv: Druskininku pašvaldība
     nl: Druskininkai
@@ -237,6 +265,10 @@
     ur: دروسکیکینکائی بلدیہ
     zh: 德魯斯基寧凱區
     ccp: "\U00011113\U00011133\U00011122\U0001112A\U0001110C\U00011134\U00011107\U00011128\U0001111A\U00011128\U0001111A\U00011134\U00011107\U0001112D"
+    cs: okres Druskininkai
+    ko: 드루스키닝카이시
+    th: เทศบาลดรุสกินิงเก็ย
+    uk: Друскінінкайське самоврядування
   comments:
   type: municipality
 '08':
@@ -259,6 +291,7 @@
     fr: Municipalité d’Elektrėnai
     he: אלקטריני (מחוז משנה)
     it: Comune di Elektrėnai
+    ja: エレクトレナイ基礎自治体
     lt: Elektrėnų savivaldybė
     lv: Elektrēnu pašvaldība
     nb: Elektrėnai kommune
@@ -273,6 +306,9 @@
     ccp: "\U00011103\U00011128\U00011123\U0001112C\U00011107\U00011134\U00011111\U00011133\U00011122\U0001112C\U0001111A\U0001112D"
     be: Эляктрэнайскае самакіраванне
     'no': Elektrėnai kommune
+    cs: okres Elektrėnai
+    et: Elektrėnai omavalitsus
+    ko: 엘렉트레나이시
   comments:
   type: municipality
 '09':
@@ -310,6 +346,9 @@
     zh: 伊格納利納地區
     ccp: "\U00011103\U00011128\U00011107\U00011134\U0001111A\U00011123\U00011128\U0001111A"
     es: Distrito de Ignalina
+    ceb: Ignalina (munisipyo)
+    cs: okres Ignalina
+    ko: 이그날리나구
   comments:
   type: district_municipality
 '10':
@@ -349,6 +388,8 @@
     zh: 約納瓦地區
     ccp: "\U0001110E\U00011127\U0001111A\U0001111E"
     hu: Jonava község
+    ko: 요나바구
+    th: เทศบาลเขตยอนาวา
   comments:
   type: district_municipality
 '11':
@@ -371,6 +412,7 @@
     fr: municipalité du district de Joniškis
     he: ינישוק (מחוז משנה)
     it: Comune distrettuale di Joniškis
+    ja: ヨニシュキス地区自治体
     ka: იონიშკის რაიონი
     lt: Joniškio rajono savivaldybė
     lv: Jonišķu rajona pašvaldība
@@ -382,6 +424,9 @@
     zh: 約什尼基斯地區
     ccp: "\U0001110E\U00011127\U0001111A\U00011128\U0001110C\U00011134\U00011107\U00011128\U0001110C\U00011134"
     be: Ёнішкіскі раён
+    ceb: Joniškis (munisipyo)
+    cs: okres Joniškis
+    ko: 요니슈키스구
   comments:
   type: district_municipality
 '12':
@@ -405,6 +450,7 @@
     fr: municipalité du district de Jurbarkas
     he: יורבורג (מחוז משנה)
     it: Comune distrettuale di Jurbarkas
+    ja: ユルバルカス地区自治体
     ka: იურბარკასის რაიონი
     lt: Jurbarko rajono savivaldybė
     lv: Jurbarkas rajona pašvaldība
@@ -416,6 +462,10 @@
     ceb: Jurbarkas (munisipyo)
     zh: 尤爾巴爾卡斯地區
     ccp: "\U0001110E\U00011122\U00011134\U0001111D\U00011122\U00011134\U00011107\U0001110C\U00011134"
+    be: Юрбаркаскі раён
+    cs: okres Jurbarkas
+    ko: 유르바르카스구
+    uk: Юрбаркський район
   comments:
   type: district_municipality
 '13':
@@ -438,6 +488,7 @@
     fr: municipalité du district de Kaišiadorys
     he: קישיאדוריס (מחוז משנה)
     it: Comune distrettuale di Kaišiadorys
+    ja: カイシェドリース地区自治体
     ka: კაიშიადორისის რაიონი
     lt: Kaišiadorių rajono savivaldybė
     lv: Kaišadores rajona pašvaldība
@@ -449,6 +500,12 @@
     zh: 凱希亞多里斯地區
     ccp: "\U00011107\U0001112D\U00011125\U00011128\U00011120\U00011113\U00011127\U00011122\U00011128\U0001110C\U00011134"
     et: Kaišiadorysi rajoon
+    be: Кайшадорыскі раён
+    ceb: Kaišiadorys
+    cs: okres Kaišiadorys
+    ko: 카이샤도리스구
+    sv: Kaišiadorys
+    th: เทศบาลเขตเก็ยแชดอรีส
   comments:
   type: district_municipality
 '14':
@@ -473,6 +530,7 @@
     fr: Municipalité de Kalvarija
     he: קלווריה (מחוז משנה)
     it: comune di Kalvarija
+    ja: カルヴァリヤ基礎自治体
     lt: Kalvarijos savivaldybė
     lv: Kalvarijas pašvaldība
     nl: Kalvarija
@@ -483,6 +541,9 @@
     ceb: Kalvarija Municipality
     zh: 卡爾瓦里亞區
     ccp: "\U00011107\U00011123\U00011134\U0001111E\U00011122\U00011128\U0001110E"
+    cs: okres Kalvarija
+    ko: 칼바리야시
+    uk: Калварійське самоврядування
   comments:
   type: municipality
 '15':
@@ -503,6 +564,7 @@
     en: Kauno Municipality
     es: Ciudad Municipio de Kaunas
     it: Comune urbano di Kaunas
+    ja: カウナス都市自治体
     lt: Kauno miesto savivaldybė
     nl: Kaunas
     pl: Kowno
@@ -510,6 +572,12 @@
     el: Δήμος Κάουνας
     ccp: "\U00011107\U0001112F\U0001111A\U0001112E \U0001111F\U00011128\U00011105\U0001112A\U0001111A\U00011128\U00011125\U00011128\U0001111B\U00011123\U00011128\U00011111\U00011128"
     uk: Каунаський міський муніципалітет
+    az: Kaunas şəhər bələdiyyəsi
+    ceb: Kaunas
+    cy: Kaunas
+    fr: Kaunas
+    hy: Կաունասի քաղաքային ինքնակառավարում
+    th: เทศบาลนครเกานัส
   comments:
   type: city_municipality
 '16':
@@ -534,6 +602,7 @@
     fr: municipalité du district de Kaunas
     he: קובנה
     it: Comune distrettuale di Kaunas
+    ja: カウナス地区自治体
     ka: კაუნასის რაიონი
     lt: Kauno rajono savivaldybė
     lv: Kauņas rajona pašvaldība
@@ -546,6 +615,11 @@
     ceb: Kauno rajonas
     zh: 考那斯地區
     ccp: "\U00011107\U0001112F\U0001111A\U0001110C\U00011134"
+    az: Kaunas rayonu
+    cs: okres Kaunas
+    da: Kauno rajono savivaldybė
+    ko: 카우나스구
+    th: เทศบาลเขตเกานัส
   comments:
   type: district_municipality
 '17':
@@ -569,6 +643,7 @@
     fr: Municipalité de Kazlų Rūda
     he: קזלו רודה (מחוז משנה)
     it: Comune di Kazlų Rūda
+    ja: カズルー・ルーダ基礎自治体
     lt: Kazlų Rūdos savivaldybė
     lv: Kazlu Rūdas pašvaldība
     nl: Kazlų Rūda
@@ -580,6 +655,9 @@
     zh: 卡茲盧魯達區
     ccp: "\U00011107\U0001110C\U00011134\U00011123\U0001112A \U00011122\U0001112A\U00011113"
     be: Казлурудскае самакіраванне
+    cs: okres Kazlų Rūda
+    ko: 카즐루루다시
+    uk: Казлу-Рудське самоврядування
   comments:
   type: municipality
 '18':
@@ -604,6 +682,7 @@
     fr: municipalité du district de Kėdainiai
     he: קדאייני (מחוז משנה)
     it: Comune distrettuale di Kėdainiai
+    ja: ケダイネイ地区自治体
     ka: კედაინიაის რაიონი
     lt: Kėdainių rajono savivaldybė
     lv: Ķēdaiņu rajona pašvaldība
@@ -616,6 +695,9 @@
     ceb: Kėdainiai
     zh: 凱代尼艾地區
     ccp: "\U00011107\U0001112C\U00011113\U0001112D\U0001111A\U00011128\U00011103\U0001112D"
+    cs: okres Kėdainiai
+    ko: 케다이냐이구
+    th: เทศบาลเขตเกอดายเนย์
   comments:
   type: district_municipality
 '19':
@@ -639,6 +721,7 @@
     fr: municipalité du district de Kelmė
     he: קלם (מחוז משנה)
     it: Comune distrettuale di Kelmė
+    ja: ケルメ地区自治体
     ka: კელმის რაიონი
     lt: Kelmės rajono savivaldybė
     lv: Ķelmes rajona pašvaldība
@@ -649,6 +732,9 @@
     ur: کیلمے ضلع بلدیہ
     zh: 凱爾梅地區
     ccp: "\U00011107\U0001112C\U00011123\U00011134\U0001111F\U0001112C"
+    ceb: Kelmė (munisipyo)
+    cs: okres Kelmė
+    ko: 켈메구
   comments:
   type: district_municipality
 '20':
@@ -665,9 +751,14 @@
   translations:
     de: Stadtgemeinde Klaipėda
     en: Klaipėdos Municipality
+    ja: クライペダ都市自治体
     lt: Klaipėdos miesto savivaldybė
     ccp: "\U00011107\U00011133\U00011123\U0001112D\U0001111B\U00011128\U00011113\U0001112E\U0001110C\U00011134
       \U0001111F\U00011128\U00011105\U0001112A\U0001111A\U00011128\U00011125\U00011128\U0001111B\U00011123\U00011128\U00011111\U00011128"
+    be: Клайпедскае гарадское самакіраванне
+    ceb: Klaipėda (kapital sa lalawigan)
+    ru: Клайпедское городское самоуправление
+    sv: Klaipėda (länshuvudort)
   comments:
   type: city_municipality
 '21':
@@ -692,6 +783,7 @@
     fr: municipalité du district de Klaipėda
     he: קלייפדה
     it: Comune distrettuale di Klaipėda
+    ja: クライペダ地区自治体
     ka: კლაიპედის რაიონი
     lt: Klaipėdos rajono savivaldybė
     lv: Klaipēdas rajona pašvaldība
@@ -706,6 +798,8 @@
     zh: 克萊佩達地區
     ccp: "\U00011107\U00011133\U00011123\U0001112D\U0001111B\U0001112C\U00011113"
     'no': Klaipeda landkommune
+    cs: okres Klaipėda
+    ko: 클라이페다구
   comments:
   type: district_municipality
 '22':
@@ -744,6 +838,8 @@
     zh: 克雷廷加地區
     ccp: "\U00011107\U00011133\U00011122\U0001112C\U00011111\U00011128\U00011101\U00011109"
     'no': Kretinga kommune
+    cs: okres Kretinga
+    ko: 크레팅가구
   comments:
   type: district_municipality
 '23':
@@ -768,6 +864,7 @@
     fr: municipalité du district de Kupiškis
     he: קופישקיס (מחוז משנה)
     it: Comune distrettuale di Kupiškis
+    ja: クピシュキス地区自治体
     ka: კუპიშკისის რაიონი
     lt: Kupiškio rajono savivaldybė
     lv: Kupišķu rajona pašvaldība
@@ -779,6 +876,10 @@
     zh: 庫皮什基斯地區
     ccp: "\U00011107\U0001112A\U0001111B\U00011128\U0001110C\U00011134\U00011107\U00011128\U0001110C\U00011134"
     es: Distrito de Kupiškis
+    ceb: Kupiškis (munisipyo sa Lyetuwanya)
+    cs: okres Kupiškis
+    hy: Կուպիշի շրջան
+    ko: 쿠피슈키스구
   comments:
   type: district_municipality
 '24':
@@ -801,6 +902,7 @@
     fr: municipalité du district de Lazdijai
     he: לזדיי (מחוז משנה)
     it: Comune distrettuale di Lazdijai
+    ja: ラズディヤイ地区自治体
     ka: ლაზდიიაის რაიონი
     lt: Lazdijų rajono savivaldybė
     lv: Lazdiju rajona pašvaldība
@@ -815,6 +917,11 @@
     et: Lazdijai rajoon
     be: Лаздзіяйскі раён
     'no': Lazdijai kommune
+    ceb: Lazdijai (munisipyo)
+    cs: okres Lazdijai
+    ko: 라즈디야이구
+    ro: Municipalitatea Districtului Lazdijai
+    th: เทศบาลเขตลัซดิเยย์
   comments:
   type: district_municipality
 '25':
@@ -838,6 +945,7 @@
     fr: Municipalité de Marijampolė
     he: מריאמפול (מחוז משנה)
     it: Comune di Marijampolė
+    ja: マリヤンポレ基礎自治体
     lt: Marijampolės savivaldybė
     lv: Marijampoles pašvaldība
     nl: Marijampolė
@@ -848,6 +956,8 @@
     ceb: Marijampolės Rajonas
     zh: 馬里揚泊列區
     ccp: "\U0001111F\U00011122\U00011128\U0001110E\U0001111F\U00011134\U0001111B\U00011127\U00011123\U0001112C"
+    ko: 마리얌폴레시
+    uk: Маріямпольське самоврядування
   comments:
   type: district_municipality
 '26':
@@ -872,6 +982,7 @@
     fr: municipalité du district de Mažeikiai
     he: מז׳ייקי (מחוז משנה)
     it: Comune distrettuale di Mažeikiai
+    ja: マジェイケイ地区自治体
     ka: მაჟეიკიაის რაიონი
     lt: Mažeikių rajono savivaldybė
     lv: Mažeiķu rajona pašvaldība
@@ -882,6 +993,9 @@
     ur: ماژئیکئی ضلع بلدیہ
     zh: 馬爾熱基艾地區
     ccp: "\U0001111F\U0001110E\U0001112C\U00011107\U00011128\U00011103\U0001112D"
+    ceb: Mažeikiai (munisipyo sa Lyetuwanya)
+    cs: okres Mažeikiai
+    ko: 마제이캬이구
   comments:
   type: district_municipality
 '27':
@@ -904,6 +1018,7 @@
     fr: municipalité du district de Molėtai
     he: מולייטי
     it: Comune distrettuale di Molėtai
+    ja: モレタイ地区自治体
     ka: მოლეტაის რაიონი
     lt: Molėtų rajono savivaldybė
     lv: Molētu rajona pašvaldība
@@ -918,6 +1033,9 @@
     ccp: "\U0001111F\U0001112E\U00011123\U0001112C\U00011111\U0001112D"
     es: Distrito de Molėtai
     be: Малетайскі раён
+    cs: okres Molėtai
+    et: Molėtai rajoon
+    ko: 몰레타이구
   comments:
   type: district_municipality
 '28':
@@ -949,6 +1067,11 @@
     pt: Neringa
     nb: Neringa kommune
     'no': Neringa kommune
+    cs: Neringa
+    cy: Bwrdeistref Neringa
+    ka: ნერინგის მუნიციპალიტეტი
+    ko: 네링가시
+    ru: Нерингское самоуправление
   comments:
   type: municipality
 '29':
@@ -972,6 +1095,7 @@
     fr: Municipalité de Pagėgiai
     he: פאגיגי (מחוז משנה)
     it: Comune di Pagėgiai
+    ja: パゲゲイ基礎自治体
     lt: Pagėgių savivaldybė
     lv: Paģēģu pašvaldība
     nl: Pagėgiai
@@ -982,6 +1106,9 @@
     ceb: Pagėgiai (munisipyo)
     zh: 帕蓋吉艾區
     ccp: "\U0001111B\U0001112C\U00011103\U00011128\U0001110C\U00011134\U00011109\U0001112D"
+    cs: okres Pagėgiai
+    ko: 파게갸이시
+    uk: Пагегяйське самоврядування
   comments:
   type: municipality
 '30':
@@ -1005,6 +1132,7 @@
     fr: municipalité du district de Pakruojis
     he: פאקרוייס (מחוז משנה)
     it: Comune distrettuale di Pakruojis
+    ja: パクルオイス地区自治体
     ka: პაკრუოის რაიონი
     lt: Pakruojo rajono savivaldybė
     lv: Pakrojas rajona pašvaldība
@@ -1017,6 +1145,10 @@
     ceb: Pakruojis (munisipyo)
     zh: 帕克魯奧伊斯地區
     ccp: "\U0001111B\U00011107\U00011134\U00011122\U0001112F\U0001110E\U00011128\U0001110C\U00011134"
+    az: Pakruoyis rayonu
+    cs: okres Pakruojis
+    ko: 파크루오이스구
+    th: เทศบาลเขตปากรัวยิส
   comments:
   type: district_municipality
 '31':
@@ -1034,10 +1166,14 @@
     de: Stadtgemeinde Palanga
     en: Palanga
     it: Comune urbano di Palanga
+    ja: パランガ都市自治体
     lt: Palangos miesto savivaldybė
     pl: Połąga (rejon miejski)
     ceb: Palanga
     ccp: "\U0001111B\U00011127\U00011123\U00011101\U00011109"
+    fr: Palanga
+    ko: 팔랑가시
+    ru: Палангское городское самоуправление
   comments:
   type: city_municipality
 '32':
@@ -1056,11 +1192,17 @@
     el: Δήμος Πόλης Πανεβεζίς
     en: Panevėžio Municipality
     it: Comune urbano di Panevėžys
+    ja: パネヴェジース都市自治体
     lt: Panevėžio miesto savivaldybė
     nl: Panevėžys City Municipality
     pl: Poniewież (rejon miejski)
     ccp: "\U0001111B\U00011127\U0001111A\U0001112C\U0001111E\U0001112C\U0001110E\U00011128\U00011103\U0001112E
       \U0001111F\U00011128\U00011105\U0001112A\U0001111A\U00011128\U00011125\U00011128\U0001111B\U00011123\U00011128\U00011111\U00011128"
+    be: Панявежскае гарадское самакіраванне
+    ceb: Panevėžys City
+    fr: Panevėžys
+    ru: Паневежское городское самоуправление
+    sv: Panevėžys City
   comments:
   type: city_municipality
 '33':
@@ -1086,6 +1228,7 @@
     fr: municipalité du district de Panevėžys
     he: פוניבז׳ (מחוז משנה)
     it: Comune distrettuale di Panevėžys
+    ja: パネヴェジース地区自治体
     ka: პანევეჟისის რაიონი
     lt: Panevėžio rajono savivaldybė
     lv: Panevēžas rajona pašvaldība
@@ -1099,6 +1242,7 @@
     zh: 帕內韋日斯地區
     ccp: "\U0001111B\U00011127\U0001111A\U0001112C\U0001111E\U0001112C\U0001110E\U00011128\U0001110C\U00011134"
     es: Distrito de Panevėžys
+    ko: 파네베지스구
   comments:
   type: district_municipality
 '34':
@@ -1123,6 +1267,7 @@
     fr: municipalité du district de Pasvalys
     he: פסווליס (מחוז משנה)
     it: Comune distrettuale di Pasvalys
+    ja: パスヴァリース地区自治体
     ka: პასვალისის რაიონი
     lt: Pasvalio rajono savivaldybė
     lv: Pasvales rajona pašvaldība
@@ -1135,6 +1280,9 @@
     zh: 帕斯瓦利斯地區
     ccp: "\U0001111B\U0001110C\U00011134\U0001111E\U00011123\U00011128\U0001110C\U00011134"
     es: Distrito de Pasvalys
+    ceb: Pasvalys (munisipyo)
+    cs: okres Pasvalys
+    ko: 파스발리스구
   comments:
   type: district_municipality
 '35':
@@ -1158,6 +1306,7 @@
     fr: municipalité du district de Plungė
     he: פלונגה (מחוז משנה)
     it: Comune distrettuale di Plungė
+    ja: プルンゲ地区自治体
     ka: პლუნგეს რაიონი
     lt: Plungės rajono savivaldybė
     lv: Pluņģes rajona pašvaldība
@@ -1169,6 +1318,11 @@
     zh: 普倫蓋地區
     ccp: "\U0001111B\U00011133\U00011123\U00011101\U00011109\U0001112C"
     be: Плунгскі раён
+    ceb: Plungė (munisipyo sa Litwanya)
+    cs: Okres Plungė
+    ko: 플룽게구
+    sk: Okres Plungė
+    sv: Plungė
   comments:
   type: district_municipality
 '36':
@@ -1192,6 +1346,7 @@
     fr: municipalité du district de Prienai
     he: פרינאי
     it: Comune distrettuale di Prienai
+    ja: プリエナイ地区自治体
     ka: პრიენაის რაიონი
     lt: Prienų rajono savivaldybė
     lv: Prienu rajona pašvaldība
@@ -1203,6 +1358,10 @@
     zh: 普列奈地區
     ccp: "\U0001111B\U00011133\U00011122\U0001112D\U00011120\U0001112C\U0001111A\U0001112D"
     et: Prienai rajoon
+    ceb: Prienai (munisipyo)
+    cs: okres Prienai
+    ko: 프리에나이구
+    th: เทศบาลเขตเปรียเน็ย
   comments:
   type: district_municipality
 '37':
@@ -1227,6 +1386,7 @@
     fr: municipalité du district de Radviliškis
     he: רדווילישקיס (מחוז משנה)
     it: Comune distrettuale di Radviliškis
+    ja: ラドヴィリシュキス地区自治体
     ka: რადვილიშკის რაიონი
     lt: Radviliškio rajono savivaldybė
     lv: Radvilišķu rajona pašvaldība
@@ -1239,6 +1399,10 @@
     zh: 拉德維利什基斯地區
     ccp: "\U00011122\U00011116\U00011134\U0001111E\U00011128\U00011123\U00011128\U0001110C\U00011134\U00011107\U00011128\U0001110C\U00011134"
     'no': Radviliškis storkommune
+    ceb: Radviliškis (munisipyo sa Litwanya)
+    cs: okres Radviliškis
+    ko: 라드빌리슈키스구
+    sv: Radviliškis (kommun i Litauen)
   comments:
   type: district_municipality
 '38':
@@ -1263,6 +1427,7 @@
     fr: municipalité du district de Raseiniai
     he: ראסייני (מחוז משנה)
     it: Comune distrettuale di Raseiniai
+    ja: ラセイネイ地区自治体
     ka: რასეინიაის რაიონი
     lt: Raseinių rajono savivaldybė
     lv: Raseiņu rajona pašvaldība
@@ -1275,6 +1440,9 @@
     ceb: Raseiniai
     zh: 拉塞尼艾地區
     ccp: "\U00011122\U00011125\U0001112C\U0001112D\U0001111A\U00011128\U00011103\U0001112D"
+    cs: okres Raseiniai
+    ko: 라세이냐이구
+    th: เทศบาลเขตราแซย์เนย์
   comments:
   type: district_municipality
 '39':
@@ -1311,6 +1479,9 @@
     zh: 里塔瓦斯區
     ccp: "\U00011122\U0001112D\U00011120\U0001112C\U00011111\U0001111E\U0001110C\U00011134"
     be: Рыетаваскае самакіраванне
+    cs: okres Rietavas
+    ko: 리에타바스시
+    uk: Ретавське самоврядування
   comments:
   type: municipality
 '40':
@@ -1335,6 +1506,7 @@
     fr: municipalité du district de Rokiškis
     he: רוקישקיס (מחוז משנה)
     it: Comune distrettuale di Rokiškis
+    ja: ロキシュキス地区自治体
     ka: როკიშკისის რაიონი
     lt: Rokiškio rajono savivaldybė
     lv: Rokišķu rajona pašvaldība
@@ -1346,6 +1518,9 @@
     zh: 羅基什基斯地區
     ccp: "\U00011122\U00011127\U00011107\U00011128\U0001110C\U00011134\U00011107\U00011128\U0001110C\U00011134"
     es: Distrito de Rokiškis
+    ceb: Rokiškis (munisipyo)
+    cs: okres Rokiškis
+    ko: 로키슈키스구
   comments:
   type: district_municipality
 '41':
@@ -1378,6 +1553,11 @@
     zh: 沙基艾地區
     ccp: "\U00011125\U00011107\U00011128\U00011103\U0001112D"
     be: Шакейскі раён
+    ceb: Sakiai (munisipyo)
+    cs: okres Šakiai
+    ja: シャケイ地区自治体
+    ko: 샤캬이구
+    uk: Шакяйський район
   comments:
   type: district_municipality
 '42':
@@ -1401,6 +1581,7 @@
     fr: municipalité du district de Šalčininkai
     he: שיילצ׳נינקי
     it: Comune distrettuale di Šalčininkai
+    ja: シャルチニンカイ地区自治体
     ka: შალჩინინკაის რაიონი
     lt: Šalčininkų rajono savivaldybė
     lv: Šaļčininku rajona pašvaldība
@@ -1414,6 +1595,10 @@
     zh: 沙爾奇寧凱地區
     ccp: "\U00011125\U00011123\U00011134\U00011125\U00011128\U0001111A\U00011128\U0001111A\U00011134\U00011107\U0001112D"
     'no': Šalčininkai kommune
+    be: Шальчынінкайскі раён
+    ceb: Šalčininkai (munisipyo)
+    cs: okres Šalčininkai
+    ko: 샬치닝카이구
   comments:
   type: district_municipality
 '43':
@@ -1431,10 +1616,16 @@
     da: Šiauliai bykommune
     de: Stadtgemeinde Šiauliai
     en: Šiaulių Municipality
+    ja: シャウレイ都市自治体
     lt: Šiaulių miesto savivaldybė
     pl: Szawle
     ccp: "\U00011125\U0001112D\U00011103\U0001112F\U00011123\U00011128\U00011105\U0001112A
       \U0001111F\U00011128\U00011105\U0001112A\U0001111A\U00011128\U00011125\U00011128\U0001111B\U00011123\U00011128\U00011111\U00011128"
+    be: Шаўляйскае гарадское самакіраванне
+    ceb: Šiauliai (munisipyo)
+    cy: Bwrdeisdref Šiauliai
+    ru: Шяуляйское городское самоуправление
+    sv: Šiauliai (kommun)
   comments:
   type: city_municipality
 '44':
@@ -1458,6 +1649,7 @@
     fr: municipalité du district de Šiauliai
     he: שאולאי (מחוז משנה(
     it: Comune distrettuale di Šiauliai
+    ja: シャウレイ地区自治体
     ka: შიაულიაის რაიონი
     lt: Šiaulių rajono savivaldybė
     lv: Šauļu rajona pašvaldība
@@ -1469,6 +1661,10 @@
     ceb: Šiaulių rajonas
     zh: 希奧利艾地區
     ccp: "\U00011125\U0001112D\U00011103\U0001112F\U00011123\U00011128\U00011103\U0001112D"
+    cs: okres Šiauliai
+    da: Šiauliai Distriktskommune
+    ko: 샤울랴이구
+    uk: Шяуляйський район
   comments:
   type: district_municipality
 '45':
@@ -1492,6 +1688,7 @@
     fr: municipalité du district de Šilalė
     he: שיללה (מחוז משנה)
     it: comune distrettuale di Šilalė
+    ja: シラレ地区自治体
     ka: შილალის რაიონი
     lt: Šilalės rajono savivaldybė
     lv: Šilales rajona pašvaldība
@@ -1501,6 +1698,11 @@
     ur: شیلالے ضلع بلدیہ
     zh: 錫拉萊地區
     ccp: "\U00011125\U00011128\U00011123\U00011123\U0001112C"
+    be: Шылальскі раён
+    ceb: Šilalė (munisipyo)
+    cs: okres Šilalė
+    ko: 실랄레구
+    uk: Шилальський район
   comments:
   type: district_municipality
 '46':
@@ -1525,6 +1727,7 @@
     fr: municipalité du district de Šilutė
     he: שילוטה (מחוז משנה)
     it: Comune distrettuale di Šilutė
+    ja: シルテ地区自治体
     ka: შილუტის რაიონი
     lt: Šilutės rajono savivaldybė
     lv: Šilutes rajona pašvaldība
@@ -1534,6 +1737,12 @@
     ur: شیلوتے ضلع بلدیہ
     zh: 錫盧泰地區
     ccp: "\U00011125\U00011128\U00011123\U00011105\U0001112A\U00011116\U00011134"
+    ceb: Šilutė (munisipyo sa Litwanya)
+    cs: okres Šilutė
+    ko: 실루테구
+    sk: okres Šilutė
+    sv: Šilutė (kommun i Litauen)
+    uk: Шилутський район
   comments:
   type: district_municipality
 '47':
@@ -1558,6 +1767,7 @@
     fr: municipalité du district de Širvintos
     he: שירווינטו (מחוז משנה)
     it: Comune distrettuale di Širvintos
+    ja: シルヴィントス地区自治体
     ka: შირვინტოსის რაიონი
     lt: Širvintų rajono savivaldybė
     lv: Širvintu rajona pašvaldība
@@ -1571,6 +1781,9 @@
     ccp: "\U00011125\U00011128\U00011122\U00011134\U0001111E\U0001112D\U0001111A\U00011134\U00011111\U0001112E\U0001110C\U00011134"
     et: Širvintose rajoon
     'no': Širvintos kommune
+    ceb: Sirvintos (munisipyo sa Lyetuwanya)
+    cs: okres Širvintos
+    ko: 시르빈토스구
   comments:
   type: district_municipality
 '48':
@@ -1595,6 +1808,7 @@
     fr: municipalité du district de Skuodas
     he: שקוד (מחוז משנה)
     it: Comune distrettuale di Skuodas
+    ja: スクオダス地区自治体
     ka: სკუოდასის რაიონი
     lt: Skuodo rajono savivaldybė
     lv: Skodas rajona pašvaldība
@@ -1604,6 +1818,10 @@
     ur: سکؤداس ضلع بلدیہ
     zh: 斯庫奧達斯地區
     ccp: "\U0001110C\U00011133\U00011107\U0001112A\U0001112A\U00011103\U0001112F\U00011113\U0001110C\U00011134"
+    be: Скуодаскі раён
+    ceb: Skuodas (munisipyo)
+    ko: 스쿠오다스구
+    uk: Скуодаський район
   comments:
   type: district_municipality
 '49':
@@ -1629,6 +1847,7 @@
     fr: municipalité du district de Švenčionys
     he: שווינציאן (מחוז משנה)
     it: Comune distrettuale di Švenčionys
+    ja: シュヴェンチョニース地区自治体
     ka: შვენჩიონისის რაიონი
     lt: Švenčionių rajono savivaldybė
     lv: Švenčoņu rajona pašvaldība
@@ -1641,6 +1860,9 @@
     zh: 什文喬尼斯地區
     ccp: "\U0001110C\U00011133\U0001111E\U0001112C\U0001111A\U00011134\U00011125\U00011128\U00011103\U0001112E\U0001111A\U00011128\U0001110C\U00011134"
     'no': Švenčionys kommune
+    ceb: Svencionys (munisipyo sa Lyetuwanya)
+    cs: okres Švenčionys
+    ko: 슈벤초니스구
   comments:
   type: district_municipality
 '50':
@@ -1665,6 +1887,7 @@
     fr: municipalité du district de Tauragė
     he: טאורגה (מחוז משנה)
     it: Comune distrettuale di Tauragė
+    ja: タウラゲ地区自治体
     ka: ტაურაგეს რაიონი
     lt: Tauragės rajono savivaldybė
     lv: Tauraģes rajona pašvaldība
@@ -1674,6 +1897,10 @@
     ur: توراگئیے ضلع بلدیہ
     zh: 陶拉格地區
     ccp: "\U00011111\U00011127\U00011105\U0001112A\U00011122\U00011107\U00011134"
+    ceb: Tauragė (munisipyo sa Litwanya)
+    ko: 타우라게구
+    sv: Tauragė (kommun i Litauen)
+    uk: Тауразький район
   comments:
   type: district_municipality
 '51':
@@ -1698,6 +1925,7 @@
     fr: municipalité du district de Telšiai
     he: טלז (מחוז משנה)
     it: Comune distrettuale di Telšiai
+    ja: テルシェイ地区自治体
     ka: ტელშიაის რაიონი
     lt: Telšių rajono savivaldybė
     lv: Telšu rajona pašvaldība
@@ -1709,6 +1937,9 @@
     ceb: Telšiai (munisipyo sa Litwanya)
     zh: 特爾希艾地區
     ccp: "\U00011111\U0001112C\U00011123\U00011134\U00011125\U00011128\U00011103\U0001112D"
+    az: Telşyay rayonu
+    ko: 텔샤이구
+    uk: Тельшяйський район
   comments:
   type: district_municipality
 '52':
@@ -1733,6 +1964,7 @@
     fr: municipalité du district de Trakai
     he: טרקאי (מחוז משנה)
     it: Comune distrettuale di Trakai
+    ja: トラカイ地区自治体
     ka: ტრაკაის რაიონი
     lt: Trakų rajono savivaldybė
     lv: Traķu rajona pašvaldība
@@ -1743,6 +1975,9 @@
     ur: تراکئی ضلع بلدیہ
     zh: 特拉開地區
     ccp: "\U00011111\U00011133\U00011122\U00011107\U0001112D"
+    cs: okres Trakai
+    et: Trakai rajoon
+    ko: 트라카이구
   comments:
   type: district_municipality
 '53':
@@ -1767,6 +2002,7 @@
     fr: municipalité du district d’Ukmergė
     he: אוקמרגה
     it: Comune distrettuale di Ukmergė
+    ja: ウクメルゲ地区自治体
     ka: უკმერგეს რაიონი
     lt: Ukmergės rajono savivaldybė
     lv: Ukmerģes rajona pašvaldība
@@ -1780,6 +2016,8 @@
     zh: 烏克梅爾蓋地區
     ccp: "\U00011103\U00011107\U00011134\U0001111F\U00011122\U00011134\U00011107\U00011134"
     et: Ukmergė rajoon
+    cs: okres Ukmergė
+    ko: 우크메르게구
   comments:
   type: district_municipality
 '54':
@@ -1814,6 +2052,9 @@
     ccp: "\U00011103\U0001112A\U00011111\U0001112C\U0001111A"
     es: Distrito de Utena
     be: Уцянскі раён
+    et: Utena rajoon
+    ko: 우테나구
+    uk: Утенський район
   comments:
   type: district_municipality
 '55':
@@ -1839,6 +2080,7 @@
     fr: municipalité du district de Varėna
     he: וריאנה (מחוז משנה)
     it: Comune distrettuale di Varėna
+    ja: ヴァレナ地区自治体
     ka: ვარენის რაიონი
     lt: Varėnos rajono savivaldybė
     lv: Varēnas rajona pašvaldība
@@ -1849,6 +2091,10 @@
     ur: وورئینا ضلع بلدیہ
     zh: 瓦雷納地區
     ccp: "\U0001111E\U00011122\U0001112C\U0001111A"
+    ceb: Varėna (munisipyo)
+    cs: okres Varėna
+    ko: 바레나구
+    th: เทศบาลเขตวาเรนา
   comments:
   type: district_municipality
 '56':
@@ -1871,6 +2117,7 @@
     fr: municipalité du district de Vilkaviškis
     he: וילקובישק (מחוז משנה)
     it: Comune distrettuale di Vilkaviškis
+    ja: ヴィルカヴィシュキス地区自治体
     ka: ვილკავიშკისის რაიონი
     lt: Vilkaviškio rajono savivaldybė
     lv: Vilkavišķu rajona pašvaldība
@@ -1882,6 +2129,10 @@
     zh: 維爾卡維什基斯地區
     ccp: "\U0001111E\U00011128\U00011123\U00011134\U00011107\U0001111E\U00011128\U0001110C\U00011134\U00011107\U00011128\U0001110C\U00011134"
     be: Вілкавішкіскі раён
+    cs: okres Vilkaviškis
+    es: Muncipio del Districto de Vilkaviškis
+    ko: 빌카비슈키스구
+    ro: Vilkaviškis
   comments:
   type: district_municipality
 '57':
@@ -1903,6 +2154,7 @@
     en: Vilniaus Municipality
     fr: Municipalité de Vilnius-ville
     it: Comune urbano di Vilnius
+    ja: ヴィリニュス都市自治体
     lt: Vilniaus miesto savivaldybė
     lv: Viļņas pilsētas pašvaldība
     nl: Vilnius City Municipality
@@ -1912,6 +2164,11 @@
     zh: 維爾紐斯市
     ccp: "\U0001111E\U00011128\U00011123\U00011134\U0001111A\U00011128\U00011124\U0001110C\U00011134
       \U0001111F\U00011128\U00011105\U0001112A\U0001111A\U00011128\U00011125\U00011128\U0001111B\U00011123\U00011128\U00011111\U00011128"
+    ceb: Vilnius (munisipyo)
+    cy: Bwrdeistref Dinas Vilnius
+    et: Vilniuse linna omavalitsus
+    sv: Vilnius (kommun)
+    uk: Вільнюське міське самоврядування
   comments:
   type: city_municipality
 '58':
@@ -1936,6 +2193,7 @@
     fr: municipalité du district de Vilnius
     he: וילנה (מחוז משנה)
     it: comune distrettuale di Vilnius
+    ja: ヴィリニュス地区自治体
     ka: ვილნიუსის რაიონი
     lt: Vilniaus rajono savivaldybė
     lv: Viļņas rajona pašvaldība
@@ -1950,6 +2208,9 @@
     zh: 維爾紐斯地區
     ccp: "\U0001111E\U00011128\U00011123\U00011134\U0001111A\U00011128\U00011120\U0001110C\U00011134"
     'no': Vilnius landkommune
+    cs: okres Vilnius
+    hu: Vilniusi körzet
+    ko: 빌뉴스구
   comments:
   type: district_municipality
 '59':
@@ -1970,6 +2231,7 @@
     en: Visaginas
     he: ויסגינס
     it: Comune di Visaginas
+    ja: ヴィサギナス都市自治体
     lt: Visagino savivaldybė
     lv: Visaginas pašvaldība
     nl: Visaginas Municipality
@@ -1980,6 +2242,10 @@
     ccp: "\U0001111E\U00011128\U00011125\U00011109\U0001112D\U0001111A\U0001110C\U00011134"
     fr: Municipalité de Visaginas
     uk: муніципалітет Висагінас
+    be: Вісагінаскае самакіраванне
+    cy: Bwrdeistref Visaginas
+    et: Visaginase omavalitsus
+    ko: 비사기나스시
   comments:
   type: municipality
 '60':
@@ -2014,6 +2280,12 @@
     zh: 扎拉賽地區
     ccp: "\U0001110E\U00011122\U00011125\U0001112D"
     es: Distrito de Zarasai
+    ceb: Zarasai (munisipyo)
+    cs: okres Zarasai
+    et: Zarasai rajoon
+    hy: Զարասայ շրջան
+    ja: ザラサイ地区自治体
+    ko: 자라사이구
   comments:
   type: district_municipality
 AL:
@@ -2083,6 +2355,11 @@ AL:
     bs: Okrug Alitus
     mk: Алитушки округ
     'no': Alytus fylke
+    az: Alitus qəzası
+    cy: Sir Alytus
+    hu: Alytus megye
+    yue: 阿里特斯縣
+    yue_Hans: 阿里特斯县
   comments:
   type: county
 KL:
@@ -2144,6 +2421,10 @@ KL:
     bs: Okrug Klaipėda
     mk: Клајпедски округ
     'no': Klaipėda fylke
+    az: Klayped qəzası
+    cy: Sir Klaipėda
+    yue: 卡賴佩達縣
+    yue_Hans: 卡赖佩达县
   comments:
   type: county
 KU:
@@ -2213,6 +2494,10 @@ KU:
     bs: Okrug Kaunas
     mk: Каунашки округ
     'no': Kaunas fylke
+    az: Kaunas qəzası
+    cy: Sir Kaunas
+    yue: 考那斯縣
+    yue_Hans: 考那斯县
   comments:
   type: county
 MR:
@@ -2284,6 +2569,10 @@ MR:
     bs: Okrug Marijampolė
     mk: Маријамполски округ
     'no': Marijampolė fylke
+    az: Mariyampol qəzası
+    cy: Sir Marijampolė
+    yue: 馬麗漢普縣
+    yue_Hans: 马丽汉普县
   comments:
   type: county
 PN:
@@ -2356,6 +2645,10 @@ PN:
     bs: Okrug Panevėžys
     mk: Паневешки округ
     'no': Panevėžys fylke
+    az: Panevej qəzası
+    cy: Sir Panevėžys
+    yue: 賓拿法斯縣
+    yue_Hans: 宾拿法斯县
   comments:
   type: county
 SA:
@@ -2426,6 +2719,11 @@ SA:
     bs: Okrug Šiauliai
     mk: Шјауљајски округ
     'no': Šiauliai fylke
+    az: Şyaulyay qəzası
+    cy: Sir Šiauliai
+    th: เทศมณฑลเช็วเลย์
+    yue: 斯奧利艾縣
+    yue_Hans: 斯奥利艾县
   comments:
   type: county
 TA:
@@ -2497,6 +2795,10 @@ TA:
     bs: Okrug Tauragė
     mk: Таурашки округ
     'no': Tauragė fylke
+    az: Tauraq qəzası
+    cy: Sir Tauragė
+    yue: 陶拉格縣
+    yue_Hans: 陶拉格县
   comments:
   type: county
 TE:
@@ -2567,6 +2869,10 @@ TE:
     bs: Okrug Telšiai
     mk: Телшјајски округ
     'no': Telšiai fylke
+    az: Telşyay qəzası
+    cy: Sir Telšiai
+    yue: 透斯艾縣
+    yue_Hans: 透斯艾县
   comments:
   type: county
 UT:
@@ -2637,6 +2943,10 @@ UT:
     bs: Okrug Utena
     mk: Утенски округ
     'no': Utena fylke
+    az: Uten qəzası
+    cy: Sir Utena
+    yue: 烏天拿縣
+    yue_Hans: 乌天拿县
   comments:
   type: county
 VL:
@@ -2708,5 +3018,10 @@ VL:
     bs: Okrug Vilnius
     mk: Вилнушки округ
     'no': Vilnius fylke
+    az: Vilnüs qəzası
+    cy: Sir Vilnius
+    hu: Vilnius megye
+    yue: 非奧尼日斯縣
+    yue_Hans: 非奥尼日斯县
   comments:
   type: county

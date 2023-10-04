@@ -244,7 +244,7 @@ func ExampleGet_readmeCountryFinders() {
 	// 249
 	// 51
 	// 9
-	// 27
+	// 34
 }
 
 func TestAll(t *testing.T) {
@@ -278,7 +278,7 @@ func TestSubregions(t *testing.T) {
 
 func TestInEU(t *testing.T) {
 	cc := countries.InEU()
-	assert.Equal(t, 27, len(cc))
+	assert.Equal(t, 34, len(cc))
 }
 
 func TestInRegion(t *testing.T) {

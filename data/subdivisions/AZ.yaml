@@ -47,6 +47,7 @@ ABS:
     ta: அபிஷெரோன் மாவட்டம்
     te: అబ్‌షెరాన్ జిల్లా
     th: เขตแอบชีรอน
+    tk: Apşeron
     tr: Abşeron Rayonu
     ur: آب شیرون ضلع
     vi: Absheron
@@ -60,6 +61,12 @@ ABS:
     uk: Апшеронський район
     mk: Апшерон
     'no': Abşeron
+    ca: Districte d’Abşeron
+    he: אזור אבשרון
+    hr: Apšeronski rajon
+    ka: აფშერონის რაიონი
+    sd: ابشرون ضلعو
+    uz: Absheron tumani
   comments:
   type: rayon
 AGA:
@@ -109,6 +116,7 @@ AGA:
     ta: அஃஸ்தாபா மாவட்டம்
     te: అగ్స్‌టాఫా జిల్లా
     th: อักสทาฟา
+    tk: Akstafa
     tr: Ağstafa Rayonu
     ur: اغستافا ضلع
     vi: Aghstafa
@@ -122,6 +130,9 @@ AGA:
     uk: Агстафінський район
     mk: Агстафа
     'no': Ağstafa
+    ca: Ağstafa
+    hr: Akstafinski rajon
+    ka: აღსთაფის რაიონი
   comments:
   type: rayon
 AGC:
@@ -171,6 +182,7 @@ AGC:
     ta: அஃஜபடி மாவட்டம்
     te: అగ్జాబాది జిల్లా
     th: เขตอัจจาบาดิ
+    tk: Agjabedi
     tr: Ağcabedi Rayonu
     uk: Агджабединський район
     ur: اغجابادی ضلع
@@ -184,6 +196,10 @@ AGC:
     ccp: "\U00011103\U00011107\U00011134\U0001110E\U0001111D\U00011118\U00011128"
     mk: Агџабеди
     'no': Aghjabadi distrikt
+    ca: Districte d’Ağcabədi
+    hr: Agdžabedinski rajon
+    ka: აღჯაბადის რაიონი
+    sd: آغجابادي ريئن
   comments:
   type: rayon
 AGM:
@@ -233,6 +249,7 @@ AGM:
     ta: அக்தாம் மாவட்டம்
     te: ఆగ్డమ్ జిల్లా
     th: ควาน อัคดัม
+    tk: Agdam
     tr: Ağdam Rayonu
     ur: اغدام ضلع
     vi: Quận Agdam
@@ -247,6 +264,9 @@ AGM:
     uz: Agʻdam tumani
     mk: Агдам
     'no': Ağdam
+    be: Агдамскі раён
+    ca: Districte d’Ağdam
+    hr: Agdamski rajon
   comments:
   type: rayon
 AGS:
@@ -296,6 +316,7 @@ AGS:
     ta: அக்தாஸ் மாவட்டம்
     te: అగ్దాష్ జిల్లా
     th: อักแดช
+    tk: Agdaş
     tr: Ağdaş Rayonu
     uk: Агдаський район
     ur: آقداش ضلع
@@ -309,6 +330,9 @@ AGS:
     ccp: "\U00011103\U00011107\U00011134\U00011118\U00011133\U00011120\U0001110C\U00011134"
     mk: Агдаш
     'no': Ağdaş
+    ca: Districte d’Ağdaş
+    hr: Agdaški rajon
+    ka: აღდაშის რაიონი
   comments:
   type: rayon
 AGU:
@@ -358,6 +382,7 @@ AGU:
     ta: அக்சு மாவட்டம்
     te: అగ్సు జిల్లా
     th: เขตอักซู
+    tk: Agsu
     tr: Ağsu Rayonu
     ur: اغسو ضلع
     vi: Aghsu
@@ -371,6 +396,8 @@ AGU:
     uk: Ахсуйський район
     mk: Агсу
     'no': Ağsu
+    ca: Districte d’Ağsu
+    hr: Ahsujski rajon
   comments:
   type: rayon
 AST:
@@ -420,6 +447,7 @@ AST:
     ta: அஸ்ட்ரா மாவட்டம்
     te: అస్టారా జిల్లా
     th: เมืองอัสทารา
+    tk: Astara
     tr: Astara Rayonu
     ur: آستارا ضلع
     vi: Astara
@@ -433,6 +461,8 @@ AST:
     uk: Астаринський район
     mk: Астара
     'no': Astara
+    hr: Astarinski rajon
+    ka: ასტარის რაიონი
   comments:
   type: rayon
 BA:
@@ -529,6 +559,11 @@ BA:
     ne: बाकु
     'no': Baku
     yo_BJ: Baku
+    ha: Baku
+    ha_NE: Baku
+    sd: باڪو
+    so: Baku
+    zu: Baku
   comments:
   type: municipality
 BAB:
@@ -576,6 +611,7 @@ BAB:
     ta: பாபேக் மாவட்டம்
     te: బాబెక్ జిల్లా
     th: เขตบาเบคร์
+    tk: Babek
     tr: Babek Rayonu
     uk: Бабецький район
     ur: بابک ضلع
@@ -588,6 +624,8 @@ BAB:
     ccp: "\U0001111D\U0001111D\U0001112C\U00011107\U00011134"
     mk: Бабек
     'no': Babək
+    hr: Babečki rajon
+    ka: ბაბექის რაიონი
   comments:
   type: rayon
 BAL:
@@ -637,6 +675,7 @@ BAL:
     ta: பாலகன் மாவட்டம்
     te: బాలాకన్ జిల్లా
     th: บาลาคาน
+    tk: Balakan
     tr: Balaken Rayonu
     ur: بالاکن ضلع
     vi: Balaken
@@ -650,6 +689,8 @@ BAL:
     uk: Белоканський район
     mk: Балакен
     'no': Balakən
+    ca: Districte de Balakan
+    hr: Belokanski rajon
   comments:
   type: rayon
 BAR:
@@ -697,6 +738,7 @@ BAR:
     ta: பர்தா மாவட்டம்
     te: బార్డా జిల్లా
     th: เขตบาด้า
+    tk: Bärde
     tr: Berde Rayonu
     ur: بردع ضلع
     vi: Barda
@@ -711,6 +753,8 @@ BAR:
     uk: Район Барда
     mk: Барда
     'no': Bərdə
+    ca: Districte de Barda
+    hr: Bardinski rajon
   comments:
   type: rayon
 BEY:
@@ -758,6 +802,7 @@ BEY:
     ta: பெய்லகன் மாவட்டம்
     te: బేలాగన్ జిల్లా
     th: เขตเบย์ลาแกน
+    tk: Beýlagan
     tr: Beylegan Rayonu
     ur: بیلقان ضلع
     vi: Beilagan
@@ -772,6 +817,10 @@ BEY:
     uk: Бейлаганський район
     mk: Бејлеган
     'no': Beyləqan
+    ca: Districte de Baylakan
+    hr: Bejlaganski rajon
+    hy: Բայլականի շրջան
+    ka: ბეილაგანის რაიონი
   comments:
   type: rayon
 BIL:
@@ -819,6 +868,7 @@ BIL:
     ta: பிளாசுவர் மாவட்டம்
     te: బిలాసువర్ జిల్లా
     th: เขตบีละซูวาร์
+    tk: Bilesuwar
     tr: Bilesuvar rayonu
     uk: Білясуварський район
     ur: بیلاسوار ضلع
@@ -831,6 +881,10 @@ BIL:
     ccp: "\U0001111D\U00011128\U00011123\U00011125\U0001112A\U0001111E\U00011122\U00011134"
     mk: Биљасувар
     'no': Biləsuvar
+    ca: Districte de Biləsuvar
+    hr: Biljasuvarski rajon
+    ka: ბილიასუვარის რაიონი
+    sq: Bilasuvar
   comments:
   type: rayon
 CAB:
@@ -878,6 +932,7 @@ CAB:
     ta: ஜப்ராயில் மாவட்டம்
     te: జాబ్రాయిల్ జిల్లా
     th: จังหวัดจาบรายิล
+    tk: Jebraýyl
     tr: Cebrayıl Rayonu
     uk: Джебраїльський район
     ur: جبراییل ضلع
@@ -891,6 +946,10 @@ CAB:
     ccp: "\U0001110E\U0001111D\U00011133\U00011122\U0001112D\U00011123\U00011134"
     mk: Џебраил
     'no': Cəbrayıl
+    ca: Districte de Cəbrayıl
+    hr: Džebrailjski rajon
+    ka: ჯაბრაილის რაიონი
+    uz: Jabrayil tumani
   comments:
   type: rayon
 CAL:
@@ -939,6 +998,7 @@ CAL:
     ta: ஜலீலாபாத் மாவட்டம்
     te: జలీలాబాద్ జిల్లా
     th: เขตจาลิลาบัด
+    tk: Jelilabat
     tr: Celilabad Rayonu
     ur: جلیل آباد ضلع (آذربائیجان)
     vi: Jalilabad
@@ -952,6 +1012,9 @@ CAL:
     uk: Джалілабад
     mk: Џелилабад
     'no': Cəlilabab
+    ca: Districte de Cəlilabad
+    hr: Džalilabadski rajon
+    ka: ჯალილაბადის რაიონი
   comments:
   type: rayon
 CUL:
@@ -999,6 +1062,7 @@ CUL:
     ta: ஜூலபா மாவட்டம்
     te: జుల్ఫా జిల్లా
     th: เขตจุลฟา
+    tk: Julfa
     tr: Culfa Rayonu
     uk: Джульфінський район
     ur: جلفا ضلع
@@ -1012,6 +1076,7 @@ CUL:
     be: Джульфінскі раён
     mk: Џулфа
     'no': Culfa
+    hr: Džulfinski rajon
   comments:
   type: rayon
 DAS:
@@ -1060,6 +1125,7 @@ DAS:
     ta: தாஸ்கசன் மாவட்டம்
     te: దష్కాసన్ జిల్లా
     th: แดชคาซาน
+    tk: Daşkesen
     tr: Daşkesen Rayonu
     ur: داشکسن ضلع
     vi: Dashkasan
@@ -1074,6 +1140,9 @@ DAS:
     uk: Дашкесанський район
     mk: Дашкесен
     'no': Daşkəsən
+    ca: Districte de Daşkəsən
+    hr: Daškesanski rajon
+    ka: დაშქესანის რაიონი
   comments:
   type: rayon
 FUZ:
@@ -1122,6 +1191,7 @@ FUZ:
     ta: பிஸுலி மாவட்டம்
     te: ఫిజూలి జిల్లా
     th: ฟิซูลี
+    tk: Fizuli
     tr: Füzuli Rayonu
     ur: فضولی ضلع
     vi: Fuzuli
@@ -1135,6 +1205,11 @@ FUZ:
     uk: Фізулінський район
     mk: Физули
     'no': Füzuli
+    ca: Districte de Füzuli
+    he: מחוז פיזולי
+    hr: Fizulinski rajon
+    ka: ფუზულის რაიონი
+    uz: Fuzuliy tumani
   comments:
   type: rayon
 GA:
@@ -1197,6 +1272,7 @@ GA:
     ta: கஞ்சா
     te: గంజా
     th: กานชา
+    tk: Genje
     tr: Gence
     uk: Гянджа
     ur: گنجہ
@@ -1210,6 +1286,10 @@ GA:
     kk: Гәнжә
     uz: Ganja
     'no': Gandsja
+    ga: Ganja
+    gl: Gəncə
+    yue: 占賈
+    yue_Hans: 占贾
   comments:
   type: municipality
 GAD:
@@ -1258,6 +1338,7 @@ GAD:
     ta: கெடிபாய்
     te: గెడెబీ
     th: กากาเบย์
+    tk: Gädebaý
     tr: Gedebey Rayonu
     uk: Кедабекський район
     ur: گدابے ضلع
@@ -1272,6 +1353,8 @@ GAD:
     ka: გადაბეის რაიონი
     mk: Гедебеј
     'no': Gədəbəy
+    ca: Districte de Gadabay
+    hr: Kedabekski rajon
   comments:
   type: rayon
 GOR:
@@ -1318,6 +1401,7 @@ GOR:
     ta: கோரன்போய் மாவட்டம்
     te: గోరన్బాయ్ జిల్లా
     th: เขตกอแรนบอย
+    tk: Goranboý
     tr: Goranboy Rayonu
     uk: Геранбойський район
     ur: گورانبوئے ضلع
@@ -1333,6 +1417,9 @@ GOR:
     hy: Գերանբոյի շրջան
     mk: Горанбој
     'no': Goranboy
+    be: Геранбойскі раён
+    ca: Districte de Goranboy
+    hr: Geranbojski rajon
   comments:
   type: rayon
 GOY:
@@ -1379,6 +1466,7 @@ GOY:
     ta: கோய்ச்சிய
     te: గోయ్‌చే
     th: กอยเชย์
+    tk: Gökçaý
     tr: Göyçay Rayonu
     ur: گوئچے ضلع
     vi: Goychay
@@ -1392,6 +1480,10 @@ GOY:
     uk: Гейчайський район
     mk: Ѓојчај
     'no': Göyçay
+    ca: Districte de Göyçay
+    hr: Geokčajski rajon
+    hu: Göyçay járás
+    ka: გოქჩაის რაიონი
   comments:
   type: rayon
 GYG:
@@ -1426,6 +1518,7 @@ GYG:
     ru: Гёйгёльский район
     sr: Гогољски рејон
     sv: Xanlar Rayonu
+    tk: Goýgöl
     tr: Göygöl Rayonu
     vi: Goygol
     ceb: Goygol Rayon
@@ -1436,6 +1529,10 @@ GYG:
     hy: Գոյգյոլի շրջան
     mk: Ѓојѓол
     'no': Göygöl
+    ar: مقاطعة كويكول
+    hr: Gojgolski rajon
+    ka: გოიგოლის რაიონი
+    uk: Гейгельський район
   comments:
   type: rayon
 HAC:
@@ -1484,6 +1581,7 @@ HAC:
     ta: ஹாஜிகபூல் மாவட்டம்
     te: హాజిగాబుల్ జిల్లా
     th: ฮาจิกาบูร
+    tk: Hajykabul
     tr: Hacıkabul Rayonu
     ur: حاجی قبول ضلع
     vi: Hacuqabul
@@ -1497,6 +1595,9 @@ HAC:
     uk: Район Гаджигабул
     mk: Аџикабул
     'no': Hacıqabul
+    ca: Districte de Hacıqabul
+    hr: Adžigabuljski rajon
+    ka: ჰაჯიყაბულის რაიონი
   comments:
   type: rayon
 IMI:
@@ -1542,6 +1643,7 @@ IMI:
     ta: இமிஷ்லி மாவட்டம்
     te: ఇమిష్లి జిల్లా
     th: จังหวัดประจวบคีรีขันธ์
+    tk: Imişli
     tr: İmişli Rayonu
     uk: Імішлінський район
     ur: ایمیشلی ضلع
@@ -1556,6 +1658,9 @@ IMI:
     et: İmişli rajoon
     mk: Имишли (округ)
     'no': İmişli (distrikt)
+    ca: Districte d’İmişli
+    hr: Imišlinski rajon
+    ka: იმიშლის რაიონი
   comments:
   type: rayon
 ISM:
@@ -1602,6 +1707,7 @@ ISM:
     ta: இஸ்மாயிலி மாவட்டம்
     te: ఇస్మాయిలి జిల్లా
     th: อีสเมลลี
+    tk: Ysmaýylly
     tr: İsmayıllı Rayonu
     uk: Ісмаїллінський район
     ur: اسماعیلی ضلع
@@ -1615,6 +1721,9 @@ ISM:
     ccp: "\U00011103\U00011128\U0001110C\U00011134\U0001111F\U0001112D\U00011123\U00011129"
     mk: Исмаили (округ)
     'no': İsmayıllı (distrikt)
+    ca: Districte d’İsmayıllı
+    hr: Ismajilinski rajon
+    ka: ისმაილის რაიონი
   comments:
   type: rayon
 KAL:
@@ -1662,6 +1771,7 @@ KAL:
     ta: கல்பஜார் மாவட்டம்
     te: కాల్‌బజార్ జిల్లా
     th: เขตคาลบาจาร์
+    tk: Kelbajar
     tr: Kelbecer Rayonu
     ur: کلباجار ضلع
     vi: Kelbajar
@@ -1676,6 +1786,10 @@ KAL:
     uz: Kalbajar tumani
     mk: Келбеџер
     'no': Kəlbəcər
+    ca: Districte de Kəlbəcər
+    hr: Keljbadžarski rajon
+    hy: Քելբաջարի շրջան
+    ka: ქალბაჯარის რაიონი
   comments:
   type: rayon
 KAN:
@@ -1722,6 +1836,7 @@ KAN:
     ta: காங்கரலி மாவட்டம்
     te: కంగార్లి జిల్లా
     th: จังหวัดมานัส
+    tk: Kengerli
     tr: Kengerli Rayonu
     uk: Кенгерлінський район
     ur: کانجارلی ضلع
@@ -1734,6 +1849,8 @@ KAN:
     ccp: "\U00011107\U0001110B\U00011134\U00011109\U00011122\U00011134\U00011123\U00011128"
     mk: Кенгерли
     'no': Kəngərli
+    hr: Kengerlinski rajon
+    ka: კანგარლის რაიონი
   comments:
   type: rayon
 KUR:
@@ -1779,6 +1896,7 @@ KUR:
     ta: குர்டாமிர் மாவட்டம்
     te: కుర్దామిర్ జిల్లా
     th: เขตคูดาเมียร์
+    tk: Kurdemir
     tr: Kürdemir Rayonu
     ur: کردامیر ضلع
     vi: Kyurdamir
@@ -1792,6 +1910,9 @@ KUR:
     uk: Кюрдамирський район
     mk: Ќурдемир
     'no': Kürdəmir
+    ca: Districte de Kurdamir
+    hr: Kjurdamirski rajon
+    ka: ქურდამირის რაიონი
   comments:
   type: rayon
 LA:
@@ -1838,10 +1959,11 @@ LA:
     ta: லங்காரன் மாவட்டம்
     te: లంకారన్ జిల్లా
     th: เขตลังคารัน
+    tk: Lenkeran
     tr: Lenkeran Rayonu
     uk: Ленкоранський район
     ur: لنکران ضلع
-    vi: Lenkaran
+    vi: Lenkaran etraby
     lv: Lenkeranas rajons
     ceb: Lankaran Rayon
     sr_Latn: Lenkoranski rejon
@@ -1851,6 +1973,9 @@ LA:
     ccp: "\U00011123\U00011127\U00011101\U00011107\U00011122\U0001111A\U00011134"
     mk: Ленкеран
     'no': Lənkəran
+    ca: Districte de Lenkoran
+    hr: Lenkoranski rajon
+    ka: ლენქორანის რაიონი
   comments:
   type: municipality
 LAC:
@@ -1886,6 +2011,7 @@ LAC:
     ru: Лачинский район
     sr: Лачински рејон
     sv: Latjyn
+    tk: Laçyn
     tr: Laçın Rayonu
     ur: لاچین ضلع
     vi: Lachin
@@ -1896,6 +2022,11 @@ LAC:
     ccp: "\U00011123\U00011127\U0001110C\U00011128\U0001111A\U00011134"
     mk: Лачин
     'no': Laçın
+    ca: Districte de Laçın
+    el: Επαρχία Λατσίν
+    hr: Lačinski rajon
+    ka: ლაჩინის რაიონი
+    uk: Лачинський район
   comments:
   type: rayon
 LAN:
@@ -1954,6 +2085,7 @@ LAN:
     ta: லங்காரன்
     te: లంకారన్
     th: ลังคารัน
+    tk: Lenkeran
     tr: Lenkeran
     uk: Ленкорань
     ur: لنکران
@@ -1965,6 +2097,8 @@ LAN:
     ky: Ленкорань
     uz: Lenkoran
     'no': Lənkəran²
+    hr: Lankoran
+    hu: Lənkəran
   comments:
   type: rayon
 LER:
@@ -2010,6 +2144,7 @@ LER:
     ta: ளெரிக் மாவட்டம்
     te: లెరిక్ జిల్లా
     th: เลริค
+    tk: Lerik
     tr: Lerik Rayonu
     ur: لیرک ضلع
     vi: Lerik
@@ -2023,6 +2158,9 @@ LER:
     uk: Лерікський район
     mk: Лерик
     'no': Lerik
+    he: מחוז לריק
+    hr: Lerički rajon
+    ka: ლერიქის რაიონი
   comments:
   type: rayon
 MAS:
@@ -2068,6 +2206,7 @@ MAS:
     ta: மஸல்லி மாவட்டம்
     te: మాసాలీ జిల్లా
     th: เขตมาซอลลิ
+    tk: Masally
     tr: Masallı Rayonu
     ur: ماسالی ضلع
     vi: Masally
@@ -2081,6 +2220,8 @@ MAS:
     uk: Масаллінський район
     mk: Масали
     'no': Masallı
+    hr: Masalinski rajon
+    ka: მასალის რაიონი
   comments:
   type: rayon
 MI:
@@ -2135,6 +2276,7 @@ MI:
     ta: மிங்காசெவிற்
     te: మింగాచెవిర్
     th: มินกาเชเวอ
+    tk: Mingeçewir
     tr: Mingeçevir
     uk: Мінгечаур
     ur: منگچویر
@@ -2148,6 +2290,9 @@ MI:
     ky: Мингечуар
     be: Мінгечаур
     'no': Mingachevir
+    hr: Mingečaur
+    hu: Mingəçevir
+    uz: Mingechaur
   comments:
   type: municipality
 NA:
@@ -2164,9 +2309,11 @@ NA:
   translations:
     en: Naftalan
     de: Naftalan
+    ja: ナフタラン
     sv: Naftalan Şəhəri
     ceb: Naftalan
     ccp: "\U0001111A\U0001111B\U00011134\U00011111\U00011123\U00011127\U0001111A\U00011134"
+    tk: Naftalan
   comments:
   type: municipality
 NEF:
@@ -2212,6 +2359,7 @@ NEF:
     ta: நேபிச்சலா மாவட்டம்
     te: నెఫ్ట్‌చాలా జిల్లా
     th: เขตเนฟท์ชาลา
+    tk: Neftçala
     tr: Neftçala Rayonu
     ur: نفتچالا ضلع
     vi: Neftchala
@@ -2225,6 +2373,8 @@ NEF:
     uk: Район Нефтечала
     mk: Нефтчала
     'no': Neftçala
+    hr: Neftečalinski rajon
+    ka: ნეფთჩალის რაიონი
   comments:
   type: rayon
 NV:
@@ -2286,6 +2436,7 @@ NV:
     ta: நஃகுசிவான்
     te: నాక్చివన్
     th: นาคีชีวัน
+    tk: Nahçywan
     tr: Nahçıvan
     uk: Нахічевань
     ur: ناخچیوان (شہر)
@@ -2299,6 +2450,13 @@ NV:
     eu: Nakhitxevan²
     uz: Naxichevan (shahar)
     'no': Nachitjevan
+    hr: Nahičevan (grad)
+    kk: Нахшыван²
+    ps: نخجوان
+    sl: Nahičevan²
+    sq: Nahçivani
+    yue: 納希契凡
+    yue_Hans: 纳希契凡
   comments:
   type: municipality
 NX:
@@ -2377,6 +2535,11 @@ NX:
     uz: Naxichevan
     bs: Nahičevan
     'no': Nakhitsjevan
+    ga: Poblacht Fhéinrialaitheach Nakhichevan
+    hr: Nahičevanska Autonomna Republika
+    sq: Republika Autonome e Nahçivanit
+    yue: 納希契凡自治共和國
+    yue_Hans: 纳希契凡自治共和国
   comments:
   type: autonomous_republic
 OGU:
@@ -2424,6 +2587,7 @@ OGU:
     ta: ஓகுஸ் மாவட்டம்
     te: ఓగుజ్ జిల్లా
     th: เขตอ็อกฮัซ
+    tk: Oguz
     tr: Oğuz Rayonu
     ur: اغوز ضلع
     vi: Oghuz
@@ -2437,6 +2601,8 @@ OGU:
     uk: Огузький район
     mk: Огуз
     'no': Oğuz
+    hr: Oguški rajon
+    ka: ოღუზის რაიონი
   comments:
   type: rayon
 ORD:
@@ -2484,6 +2650,7 @@ ORD:
     ta: ஓடுபாடு மாவட்டம்
     te: ఓర్డుబాడ్ జిల్లా
     th: เขตอรดูแบด
+    tk: Orduabat
     tr: Ordubad Rayonu
     uk: Ордубадський район
     ur: اردوباد ضلع
@@ -2497,6 +2664,7 @@ ORD:
     be: Ардубадскі раён
     mk: Ордубад
     'no': Ordubad
+    hr: Ordubadski rajon
   comments:
   type: rayon
 QAB:
@@ -2546,6 +2714,7 @@ QAB:
     ta: கிலாபாலா மாவட்டம்
     te: ఖాబాలా జిల్లా
     th: จังหวัดกะบาลา
+    tk: Gabala
     tr: Kabala Rayonu
     ur: قابالا ضلع
     vi: Gabala
@@ -2560,6 +2729,9 @@ QAB:
     uz: Qabala tumani
     mk: Кабала
     'no': Qəbələ
+    hr: Gabalinski rajon
+    hy: Գաբալայի շրջան
+    ka: გაბალის რაიონი
   comments:
   type: rayon
 QAX:
@@ -2607,6 +2779,7 @@ QAX:
     ta: கியக்ஹ மாவட்டம்
     te: ఖాఖ్ జిల్లా
     th: เมืองคาร์ก
+    tk: Kah
     tr: Kah rayonu
     ur: کاخ ضلع
     vi: Gakh
@@ -2620,6 +2793,8 @@ QAX:
     uk: Гахський район
     mk: Ках
     'no': Qax
+    hr: Kahski rajon
+    uz: Qax tumani
   comments:
   type: rayon
 QAZ:
@@ -2669,6 +2844,7 @@ QAZ:
     ta: கசாக் மாவட்டம்
     te: ఖజాఖ్ జిల్లా
     th: กาซาฮ์
+    tk: Gazak
     tr: Kazah Rayonu
     ur: قازاخ ضلع
     vi: Gazakh
@@ -2683,6 +2859,8 @@ QAZ:
     uk: Газахський район
     mk: Казах
     'no': Qazax
+    hr: Kazahski rajon
+    ka: ყაზახის რაიონი
   comments:
   type: rayon
 QBA:
@@ -2729,6 +2907,7 @@ QBA:
     ta: கியூபா மாவட்டம்
     te: క్యూబా జిల్లా
     th: เขตคูบา
+    tk: Kuba
     tr: Kuba Rayonu
     ur: قوبا ضلع
     vi: Guba
@@ -2744,6 +2923,7 @@ QBA:
     uz: Quba tumani
     mk: Куба
     'no': Quba
+    hr: Kubinski rajon
   comments:
   type: rayon
 QBI:
@@ -2790,6 +2970,7 @@ QBI:
     ta: குபாட்லி மாவட்டம்
     te: ఖుబాడ్లి జిల్లా
     th: เขตคิวแบดลิ
+    tk: Kubatly
     tr: Kubadlı Rayonu
     ur: قوبادلی ضلع
     vi: Gubadly
@@ -2804,6 +2985,8 @@ QBI:
     uk: Кубатлинський район
     mk: Кубадли
     'no': Qubadlı
+    hr: Kubatlinski rajon
+    uz: Gubadli tumani
   comments:
   type: rayon
 QOB:
@@ -2851,6 +3034,7 @@ QOB:
     ta: கோபிஸ்டாண் மாவட்டம்
     te: గోబుస్తాన్ జిల్లా
     th: เขตโกบัสตัน
+    tk: Gobustan
     tr: Kobustan Rayonu
     uk: Гобустанський район
     ur: قوبوستان ضلع
@@ -2864,6 +3048,7 @@ QOB:
     ccp: "\U00011109\U00011127\U0001111D\U0001112A\U0001110C\U00011134\U00011111\U0001111A\U00011134"
     mk: Гобустан
     'no': Qobustan
+    hr: Gobustanski rajon
   comments:
   type: rayon
 QUS:
@@ -2910,6 +3095,7 @@ QUS:
     ta: குசர் மாவட்டம்
     te: ఖుసార్ జిల్లా
     th: จังหวัดกูซาร์
+    tk: Kusar
     tr: Kusar Rayonu
     ur: قوسار ضلع
     vi: Gusar
@@ -2924,6 +3110,8 @@ QUS:
     uz: Qusar tumani
     mk: Кусар
     'no': Qusar
+    hr: Kusarski rajon
+    ka: გუსარის რაიონი
   comments:
   type: rayon
 SA:
@@ -2980,6 +3168,7 @@ SA:
     ta: ஷாகி
     te: షాకి
     th: จังหวัดเกลเดอร์ลันด์
+    tk: Şaky
     tr: Şeki
     uk: Шекі
     ur: شکی
@@ -2993,6 +3182,12 @@ SA:
     be: Шэкі
     uz: Sheki
     'no': Şəki
+    bs: Historijski grad Šaki
+    eu: Şəki
+    hr: Šeki
+    hu: Şəki
+    ml: ശാകി, അസർബയ്ജാൻ
+    sk: Şəki
   comments:
   type: municipality
 SAB:
@@ -3039,6 +3234,7 @@ SAB:
     ta: சாபிரபட் மாவட்டம்
     te: సబీరాబాద్ జిల్లా
     th: เขตซาบีราบัด
+    tk: Sabirabat
     tr: Sabirabad Rayonu
     uk: Сабірабадський район
     ur: سبیر آباد ضلع
@@ -3055,6 +3251,13 @@ SAB:
     mk: Сабирабад
     bg: Сабирабад (район)
     'no': Sabirabad
+    be: Сабірабад
+    ca: Districte de Sabirabad
+    hr: Sabirabadski rajon
+    hy: Սաբիրաբադ
+    ka: საბირაბადი
+    ro: Sabirabad
+    uz: Sabirobod
   comments:
   type: rayon
 SAD:
@@ -3102,6 +3305,7 @@ SAD:
     ta: சடராக் மாவட்டம்
     te: సడారక్ జిల్లా
     th: เขตซาดารัค
+    tk: Sederek
     tr: Sederek Rayonu
     uk: Садарацький район
     ur: صدرک ضلع
@@ -3114,6 +3318,8 @@ SAD:
     ccp: "\U00011125\U00011113\U00011122\U00011107\U00011134"
     mk: Седерек
     'no': Sədərək
+    hr: Sadarački rajon
+    ka: სადარაქის რაიონი
   comments:
   type: rayon
 SAH:
@@ -3160,6 +3366,7 @@ SAH:
     ta: ஷாஹபிஸ் மாவட்டம்
     te: షాహబుజ్ జిల్లా
     th: ชาฮ์บุช
+    tk: Şahbuz
     tr: Şahbuz Rayonu
     uk: Шахбузький район
     ur: شاحبوز ضلع
@@ -3171,6 +3378,8 @@ SAH:
     ccp: "\U00011125\U00011126\U00011134\U0001111D\U0001112A\U0001110C\U00011134"
     mk: Шахбуз (округ)
     'no': Şahbuz (distrikt)
+    ceb: Shahbuz Rayon
+    hr: Šahbuški rajon
   comments:
   type: rayon
 SAK:
@@ -3219,6 +3428,7 @@ SAK:
     ta: ஷாகி மாவட்டம்
     te: షాకి జిల్లా
     th: ซาร์กี้
+    tk: Şeki
     tr: Şeki Rayonu
     ur: شکی ضلع
     vi: Sheki
@@ -3232,6 +3442,8 @@ SAK:
     uk: Шекинський район
     mk: Шеки
     'no': Şəki²
+    hr: Šekinski rajon
+    ka: შაქის რაიონი
   comments:
   type: rayon
 SAL:
@@ -3277,6 +3489,7 @@ SAL:
     ta: சல்யன் மாவட்டம்
     te: సల్యాన్ జిల్లా
     th: เขตซาลยาน
+    tk: Salýan
     tr: Salyan Rayonu
     ur: سالیان ضلع
     vi: Salyan
@@ -3290,6 +3503,9 @@ SAL:
     uk: Сальянський район
     mk: Саљан
     'no': Salyan
+    be: Сальянскі раён
+    hr: Saljanski rajon
+    ka: სალიანის რაიონი
   comments:
   type: rayon
 SAR:
@@ -3325,6 +3541,7 @@ SAR:
     ru: Шарурский район
     sr: Шарурски рејон
     sv: Sharur Rayon
+    tk: Şerur
     tr: Şerur Rayonu
     uk: Шарурський район
     vi: Sherur (quận)
@@ -3335,6 +3552,9 @@ SAR:
     he: סחרור
     mk: Шерур
     'no': Şərur (distrikt)
+    ar: مقاطعة شرور
+    be: Шарурскі раён
+    hr: Šarurski rajon
   comments:
   type: rayon
 SAT:
@@ -3380,6 +3600,7 @@ SAT:
     ta: சாட்லய் மாவட்டம்
     te: సాట్లీ జిల్లా
     th: เขตซ๊าทลี่
+    tk: Saatly
     tr: Saatlı Rayonu
     ur: سااتلی ضلع
     vi: Saatly
@@ -3393,6 +3614,8 @@ SAT:
     uk: Район Саатлі
     mk: Саатли
     'no': Saatlı
+    hr: Satlinski rajon
+    ka: საათლის რაიონი
   comments:
   type: rayon
 SBN:
@@ -3441,6 +3664,7 @@ SBN:
     ta: சாப்ரான் மாவட்டம்
     te: షబ్రన్ జిల్లా
     th: จังหวัดคอปเปอเบล
+    tk: Şabran
     tr: Şabran rayonu
     ur: شابران ضلع
     vi: Quận Shabran
@@ -3453,6 +3677,10 @@ SBN:
     uk: Шабранський район
     mk: Шабран
     'no': Şabran
+    ca: Districte de Şabran
+    hr: Šabranski rajon
+    hy: Շաբրանի շրջան
+    ka: შაბრანის რაიონი
   comments:
   type: rayon
 SIY:
@@ -3499,6 +3727,7 @@ SIY:
     ta: சிதாசன் மாவட்டம்
     te: సియాజన్ జిల్లా
     th: เซ๊ยแซน
+    tk: Siýezen
     tr: Siyezen Rayonu
     ur: سیاہ زن ضلع
     vi: Siazan
@@ -3512,6 +3741,9 @@ SIY:
     uk: Район Сіазань
     mk: Сијезен
     'no': Siyəzən
+    hr: Sijazanski rajon
+    hy: Սիազանի շրջան
+    ka: სიაზანის რაიონი
   comments:
   type: rayon
 SKR:
@@ -3560,6 +3792,7 @@ SKR:
     ta: ஷாம்கிர் மாவட்டம்
     te: షాంకీర్ జిల్లా
     th: เขตชามเคอ
+    tk: Şemkir
     tr: Şemkir Rayonu
     uk: Шамкірський район
     ur: شمخور ضلع
@@ -3574,6 +3807,7 @@ SKR:
     hy: Շամխորի շրջան
     mk: Шемкир
     'no': Şəmkir
+    hr: Šamkirski rajon
   comments:
   type: rayon
 SM:
@@ -3635,7 +3869,7 @@ SM:
     ta: ஸும்ப்கயிட்
     te: సంఖాయత్
     th: ซัมกายิต
-    tk: Sumgait
+    tk: Sumgaýit
     tr: Sumgayıt
     uk: Сумгаїт
     ur: سومقاییت
@@ -3650,6 +3884,10 @@ SM:
     uz: Sumgait
     mk: Сумгајит
     'no': Sumqayit
+    ga: Sumgait
+    hr: Sumgait
+    ml: സംഗയ്റ്റ്
+    sd: سومقاييت
   comments:
   type: municipality
 SMI:
@@ -3688,6 +3926,7 @@ SMI:
     ru: Шемахинский район
     sr: Шемахински рејон
     sv: Sjamachy
+    tk: Şamahy
     tr: Şamahı Rayonu
     uk: Шамахинський район
     vi: Shamakhy
@@ -3698,6 +3937,10 @@ SMI:
     ccp: "\U00011125\U0001111F\U00011108\U00011128"
     mk: Шамахи
     'no': Şamaxı
+    be: Шэмахінскі раён
+    hr: Šemahinski rajon
+    hy: Շամախիի շրջան
+    ur: ضلع شماخی
   comments:
   type: rayon
 SMX:
@@ -3744,6 +3987,7 @@ SMX:
     ta: சமூக்ஹ் மாவட்டம்
     te: సముఖ్ జిల్లా
     th: ซามุก
+    tk: Samuh
     tr: Samuh Rayonu
     ur: ساموخ ضلع
     vi: Samuh
@@ -3757,6 +4001,8 @@ SMX:
     uk: Самухський район
     mk: Самух
     'no': Samux
+    hr: Samuški rajon
+    ka: სამუხის რაიონი
   comments:
   type: rayon
 SR:
@@ -3799,6 +4045,7 @@ SR:
     ru: Ширван
     sr: Ширван
     sv: Shirvan
+    tk: Şirwan
     tr: Şirvan
     uk: Ширван
     ur: شیروان
@@ -3809,6 +4056,7 @@ SR:
     sq: Shirvan
     ccp: "\U00011125\U00011128\U00011122\U0001111E\U00011127\U0001111A\U00011134"
     mk: Ширван
+    hr: Širvan (Azerbajdžan)
   comments:
   type: municipality
 SUS:
@@ -3857,6 +4105,7 @@ SUS:
     ta: ஷுஷா மாவட்டம்
     te: షూషా జిల్లా
     th: เขตซูซา
+    tk: Şuşa
     tr: Şuşa Rayonu
     ur: شوشا ضلع
     vi: Shusha
@@ -3870,6 +4119,10 @@ SUS:
     uz: Shusha tumani
     mk: Шуша
     'no': Şuşa
+    ceb: Shusha
+    cs: okres Šuša
+    hr: Šušinski rajon
+    ka: შუშის რაიონი
   comments:
   type: rayon
 TAR:
@@ -3916,6 +4169,7 @@ TAR:
     ta: டார்ட்டார் மாவட்டம்
     te: టార్టార్ జిల్లా
     th: ทาร์ทาร์
+    tk: Terter
     tr: Terter Rayonu
     ur: تارتار ضلع
     vi: Terter
@@ -3930,6 +4184,9 @@ TAR:
     uk: Тертерський район
     mk: Тертер
     'no': Tərtər
+    ca: Tartar
+    hr: Tartar (rajon)
+    ka: ტერტერის რაიონი
   comments:
   type: rayon
 TOV:
@@ -3977,6 +4234,7 @@ TOV:
     ta: டோவுஸ் மாவட்டம்
     te: టోవుజ్ జిల్లా
     th: เขตทาวุช
+    tk: Towuz
     tr: Tovuz Rayonu
     ur: توووز ضلع
     vi: Tovuz
@@ -3990,6 +4248,8 @@ TOV:
     uk: Товузький район
     mk: Товуз
     'no': Tovuz
+    hr: Tovuški rajon
+    ka: თოუზი
   comments:
   type: rayon
 UCA:
@@ -4035,6 +4295,7 @@ UCA:
     ta: உஜார் மாவட்டம்
     te: ఉజర్ జిల్లా
     th: เขตอูจาร์
+    tk: Ujar
     tr: Ucar Rayonu
     ur: اجڑ ضلع
     vi: Ujar
@@ -4048,6 +4309,8 @@ UCA:
     uk: Уджарський район
     mk: Уџар
     'no': Ucar
+    hr: Udžarski rajon
+    ka: უჯარის რაიონი
   comments:
   type: rayon
 XA:
@@ -4110,6 +4373,7 @@ XA:
     ta: எசுடெபானெகெத்
     te: స్టెపనాకర్ట్
     th: สเตพานาแกร์ต
+    tk: Hankendi
     tr: Hankendi
     uk: Степанакерт
     ur: خان کندی
@@ -4125,6 +4389,10 @@ XA:
     bs: Stepanakert
     mk: Степанакерт
     'no': Stepanakert
+    ga: Príomh chathair Poblacht na hArtsac
+    is: Stepanakert
+    ml: സ്റ്റെപാനകെർട്ട്
+    ps: استپاناکرت
   comments:
   type: municipality
 XAC:
@@ -4171,6 +4439,7 @@ XAC:
     ta: காச்மாஸ் மாவட்டம்
     te: ఖాచ్మాజ్ జిల్లా
     th: คัชมาช
+    tk: Haçmaz
     tr: Haçmaz Rayonu
     ur: خاشماز ضلع
     vi: Khachmaz
@@ -4185,6 +4454,8 @@ XAC:
     uk: Хачмазький район
     mk: Хачмаз
     'no': Xaçmaz
+    ca: Districte de Xaçmaz
+    hr: Hačmaski rajon
   comments:
   type: rayon
 XCI:
@@ -4233,6 +4504,7 @@ XCI:
     ta: க்ஹோஜாலி மாவட்டம்
     te: ఖోజాలీ జిల్లా
     th: เขตโคจาลิ
+    tk: Hojaly
     tr: Hocalı Rayonu
     ur: خوجالی ضلع
     vi: Khojaly
@@ -4248,6 +4520,7 @@ XCI:
     uk: Ходжалинський район
     mk: Хоџали
     'no': Xocalı
+    hr: Hodžalinski rajon
   comments:
   type: rayon
 XIZ:
@@ -4282,6 +4555,7 @@ XIZ:
     ru: Хызинский район
     sr: Хизински рејон
     sv: Khizi Rayon
+    tk: Hyzy
     tr: Hızı Rayonu
     vi: Khyzy
     ceb: Khizi Rayon
@@ -4291,6 +4565,11 @@ XIZ:
     ccp: "\U00011108\U00011128\U0001110F\U00011128"
     mk: Хизи
     'no': Xızı
+    ar: مقاطعة خيزي
+    hr: Hizinski rajon
+    hy: Խըզիի շրջան
+    ka: ხიზის რაიონი
+    sd: خيزي ريئن
   comments:
   type: rayon
 XVD:
@@ -4326,6 +4605,7 @@ XVD:
     ru: Ходжавендский район
     sr: Хоџавендски рејон
     sv: Chodzjavänd
+    tk: Hojawend
     tr: Hocavend Rayonu
     vi: Khojavend
     ceb: Xocavənd Rayonu
@@ -4335,6 +4615,15 @@ XVD:
     ccp: "\U00011108\U00011127\U0001110E\U0001111E\U0001112C\U0001111A\U00011133\U00011113\U00011134"
     mk: Хоџавенд
     'no': Xocavənd
+    ar: مقاطعة خوجاوند
+    be: Хаджавендскі раён
+    ca: Khojavend
+    ha: Dərəkənd, Khojavend
+    ha_NE: Dərəkənd, Khojavend
+    hr: Hodžavendski rajon
+    hy: Մարտունու շրջան
+    ka: ხოჯავენდის რაიონი
+    uk: Ходжавендський район
   comments:
   type: rayon
 YAR:
@@ -4381,6 +4670,7 @@ YAR:
     ta: யார்ட்யம்லி மாவட்டம்
     te: యార్డిమ్లి జిల్లా
     th: ยาดีไมล์
+    tk: Ýardymly
     tr: Yardımlı Rayonu
     uk: Ярдимлинський район
     ur: یارڈیملی ضلع
@@ -4394,6 +4684,8 @@ YAR:
     ccp: "\U00011103\U00011128\U00011120\U00011122\U00011134\U00011113\U00011128\U0001111F\U00011134\U00011123\U00011128"
     mk: Јардимли
     'no': Yardımlı
+    hr: Jardimlinski rajon
+    ka: იარდიმლის რაიონი
   comments:
   type: rayon
 YE:
@@ -4433,6 +4725,7 @@ YE:
     sl: Jevlah
     sr: Јевлах
     sv: Jevlach
+    tk: Ýewlah
     tr: Yevlah
     uk: Євлах
     ur: یولاخ
@@ -4441,6 +4734,12 @@ YE:
     zh: 葉夫拉赫
     ccp: "\U00011103\U00011128\U00011120\U0001112C\U0001111B\U00011134\U00011123\U00011107\U00011134"
     be: Еўлах
+    ar: يفلاكس
+    el: Γιεβλάχ
+    hr: Jevlah
+    ka: ევლახ
+    sq: Jevlah
+    vi: Yevlakh²
   comments:
   type: municipality
 YEV:
@@ -4486,6 +4785,7 @@ YEV:
     ta: எவ்லக்ஹ் மாவட்டம்
     te: యెవ్లాక్ జిల్లా
     th: เขตเยวลาค์
+    tk: Ýewlah etraby
     tr: Yevlah Rayonu
     uk: Євлахський район
     ur: ییولاخ ضلع
@@ -4501,6 +4801,9 @@ YEV:
     be: Еўлахскі раён
     mk: Јевлах
     'no': Yevlax
+    hr: Jevlaški rajon
+    hy: Եվլախի շրջան
+    ka: ევლახის რაიონი
   comments:
   type: rayon
 ZAN:
@@ -4547,6 +4850,7 @@ ZAN:
     ta: சாங்கிலன் மாவட்டம்
     te: జాంగిలాన్ జిల్లా
     th: เขตแซงกิแลน
+    tk: Zengilan
     tr: Zengilan Rayonu
     uk: Зангеланський район
     ur: زنگلان ضلع
@@ -4560,6 +4864,10 @@ ZAN:
     ccp: "\U0001110E\U0001110B\U00011134\U00011109\U00011128\U00011123\U0001111A\U00011134"
     mk: Зенгилан (округ)
     'no': Zəngilan (distrikt)
+    cs: Zangilanský rajón
+    hr: Zangelanski rajon
+    ka: ზანგილანის რაიონი
+    uz: Zangilan tumani
   comments:
   type: rayon
 ZAQ:
@@ -4608,6 +4916,7 @@ ZAQ:
     ta: சாகியாதலா மாவட்டம்
     te: జకాటలా జిల్లా
     th: เขตซาดาคาลา
+    tk: Zakatala
     tr: Zakatala Rayonu
     ur: زاقاتالا ضلع
     vi: Zagatala (quận)
@@ -4622,6 +4931,8 @@ ZAQ:
     uz: Zaqatala tumani
     mk: Закатала (округ)
     'no': Zaqatala (distrikt)
+    ca: Zaqatala
+    hr: Zakataljski rajon
   comments:
   type: rayon
 ZAR:
@@ -4667,6 +4978,7 @@ ZAR:
     ta: சார்தாப் மாவட்டம்
     te: జర్దాబ్ జిల్లా
     th: เขตซาร์แดบ
+    tk: Zerdab
     tr: Zerdab Rayonu
     ur: زارداب ضلع
     vi: Zerdab (quận)
@@ -4680,5 +4992,7 @@ ZAR:
     uk: Зердабський район
     mk: Зердаб
     'no': Zərdab (distrikt)
+    hr: Zerdapski rajon
+    ka: ზარდაბის რაიონი
   comments:
   type: rayon

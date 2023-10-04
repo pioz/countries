@@ -57,6 +57,7 @@ AJ:
     ta: அஜ்மான்
     te: అజ్మన్ ఎమిరేట్
     th: รัฐอัจมาน
+    tk: Ajman
     tr: Acman
     uk: Аджман
     ur: عجمان
@@ -73,6 +74,7 @@ AJ:
     yo: Ajman
     'no': Emiratet Ajman
     yo_BJ: Ajman
+    bs: Ajman (emirat)
   comments:
   type: emirate
 AZ:
@@ -142,6 +144,7 @@ AZ:
     ta: அபூ ழபீ
     te: అబు ధాబి ఎమిరేట్
     th: รัฐอาบูดาบี
+    tk: Abu Dabi
     tr: Abu Dabi Emirliği
     uk: Абу-Дабі
     ur: ابوظہبی
@@ -157,6 +160,9 @@ AZ:
     yue: 阿布扎比酋長國
     mk: Абу Даби
     'no': Emiratet Abu Dhabi
+    bs: Abu Dhabi (emirat)
+    ha: Abu Dhabi (Masarauta)
+    ha_NE: Abu Dhabi (Masarauta)
   comments:
   type: emirate
 DU:
@@ -233,6 +239,10 @@ DU:
     uz: Dubay
     bs: Dubai
     'no': Emiratet Dubai
+    ga: Dubai
+    ha: Dubai
+    ha_NE: Dubai
+    ms: Amiriah Dubai
   comments:
   type: emirate
 FU:
@@ -294,6 +304,7 @@ FU:
     ta: புஜைரா
     te: ఫుజాయిరా
     th: รัฐฟูไจราห์
+    tk: Fujeýra
     tr: Füceyre
     uk: Фуджейра
     ur: فجیرہ
@@ -311,6 +322,9 @@ FU:
     yo: Fujairah
     'no': Emiratet Fujairah
     yo_BJ: Fujairah
+    bs: Fujairah (emirat)
+    is: Fúdsaíra
+    ka: ალ-ფუჯაირას საამირო
   comments:
   type: emirate
 RK:
@@ -351,6 +365,7 @@ RK:
     hy: Ռաս-ալ-Խայմայի էմիրություն
     id: Ras al-Khaimah
     it: Ras al-Khaima
+    ja: ラアス・アル＝ハイマ
     kn: ರಾಸ್ ಅಲ್ ಖೈಮಾ
     ko: 라스알카이마 토후국
     lt: Ras al Chaima
@@ -372,6 +387,7 @@ RK:
     ta: ரஃஸ் அல்-கைமா
     te: రాస్ అల్-ఖైమా
     th: รัฐราสอัลไคมาห์
+    tk: Ras al-Haýma
     tr: Resü’l-Hayme
     uk: Рас-ель-Хайма
     ur: راس الخیمہ
@@ -388,6 +404,9 @@ RK:
     mk: Рас ел-Хајма
     'no': Emiratet Ras al-Khaimah
     yo_BJ: Ras al Khaimah
+    bs: Ras al-Khaimah (emirat)
+    gl: Ras al-Jaimah
+    is: Ras al-Kaíma
   comments:
   type: emirate
 SH:
@@ -451,6 +470,7 @@ SH:
     ta: சார்ஜா
     te: షార్జా ఎమిరేట్
     th: รัฐชาร์จาห์
+    tm: Şarja
     tr: Sharjah Emirliği
     uk: Шарджа
     ur: شارجہ
@@ -466,6 +486,7 @@ SH:
     yo: Sharjah
     'no': Emiratet Sharjah
     yo_BJ: Sharjah
+    bs: Sharjah (emirat)
   comments:
   type: emirate
 UQ:
@@ -506,6 +527,7 @@ UQ:
     hy: Ումմ ալ-Քուվեյնի Էմիրություն
     id: Umm al-Qaiwain
     it: Umm al-Qaywayn
+    ja: ウンム・アル＝カイワイン
     ka: უმ-ელ-კაივაინის საამირო
     kn: ಉಮ್ ಅಲ್ ಕ್ವೈನ್
     ko: 움알쿠와인 토후국
@@ -527,6 +549,7 @@ UQ:
     ta: உம் அல்-குவைன்
     te: ఉమ్ అల్-క్వివెయిన్
     th: รัฐอุมม์อัลไกไวน์
+    tk: Umm al-Kuweýn
     tr: Ummül-Kayveyn Emirliği
     uk: Умм-ель-Кувейн
     ur: ام القوین
@@ -542,5 +565,6 @@ UQ:
     yo: Um Al Quwain
     'no': Emiratet Umm al-Qaiwain
     yo_BJ: Um Al Quwain
+    bs: Umm al-Quwain (emirat)
   comments:
   type: emirate

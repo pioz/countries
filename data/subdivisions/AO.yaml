@@ -54,6 +54,7 @@ BGO:
     ta: பெங்கோ மாகாணம்
     te: బెంగో ప్రావిన్స్
     th: จังหวัดเบนโก
+    tk: Bengo
     tr: Bengo Bölgesi
     uk: Бенго
     ur: بنگو صوبہ
@@ -67,6 +68,7 @@ BGO:
     so: Bengo Province
     yue: 本哥省
     'no': Bengo
+    cy: Talaith Bengo
   comments:
   type: province
 BGU:
@@ -122,6 +124,7 @@ BGU:
     ta: பெங்கேலா மாகாணம்
     te: బెంగ్యువెలా ప్రావిన్స్
     th: เบงกีลา
+    tk: Bengela
     tr: Benguela Bölgesi
     uk: Бенгела
     ur: بینگوئلا صوبہ
@@ -135,6 +138,9 @@ BGU:
     so: Benguela Province
     yue: 班圭拉省
     'no': Benguela
+    az: Benquela vilayəti
+    cy: Talaith Benguela
+    et: Benguela provints
   comments:
   type: province
 BIE:
@@ -189,6 +195,7 @@ BIE:
     ta: பிஇ மாகாணம்
     te: బై ప్రావిన్స్
     th: จังหวัดบี้
+    tk: Biýe
     tr: Bié Bölgesi
     uk: Біє
     ur: بئے صوبہ
@@ -202,6 +209,8 @@ BIE:
     so: Bié Province
     yue: 比耶省
     'no': Bié
+    cy: Talaith Bié
+    et: Bié provints
   comments:
   type: province
 CAB:
@@ -262,6 +271,7 @@ CAB:
     ta: காபின்டா மாகாணம்
     te: కాబిండా ప్రావిన్స్
     th: รัฐโนวาสโกเชีย
+    tk: Kabinda
     tr: Cabinda Bölgesi
     uk: Кабінда
     ur: کابیندا صوبہ
@@ -277,6 +287,7 @@ CAB:
     so: Cabinda Province
     yue: 喀丙達省
     'no': Cabinda
+    ky: Кабинда
   comments:
   type: province
 CCU:
@@ -332,6 +343,7 @@ CCU:
     ta: சுஅண்டோ சுபாங்கோ மாகாணம்
     te: కువాండో క్యుబాంగో ప్రావిన్స్
     th: จังหวัดควนโด คูบันโก
+    tk: Kwando-Kubango
     tr: Cuando Cubango Bölgesi
     uk: Квандо-Кубанго
     ur: کواندو کوبانگو صوبہ
@@ -345,6 +357,7 @@ CCU:
     so: Cuando Cubango Province
     yue: 庫安多古班哥省
     'no': Cuando Cubango
+    et: Kuando Kubango provints
   comments:
   type: province
 CNN:
@@ -397,6 +410,7 @@ CNN:
     ta: குனேன் மாகாணம்
     te: క్యూనెన్ ప్రావిన్స్
     th: จังหวัดคูเนเน่
+    tk: Kunene
     tr: Cunene Bölgesi
     uk: Кунене
     ur: کونینے صوبہ
@@ -410,6 +424,9 @@ CNN:
     so: Cunene Province
     yue: 庫內納省
     'no': Cunene
+    cy: Talaith Cunene
+    et: Cunene provints
+    gl: Provincia de Cunene
   comments:
   type: province
 CNO:
@@ -463,6 +480,7 @@ CNO:
     ta: ஸுஆன்ச நோர்ட் மாகாணம்
     te: కువాంజా నోర్టె ప్రావిన్స్
     th: ควนซาเหนือ
+    tk: Demirgazyk Kwanza
     tr: Cuanza Norte Bölgesi
     uk: Північна Кванза
     ur: کوانزا شمالی صوبہ
@@ -476,6 +494,9 @@ CNO:
     so: Cuanza Norte Province
     yue: 北廣薩省
     'no': Cuanza Norte
+    cy: Talaith Cuanza Norte
+    et: Põhja-Kwanza provints
+    gl: Cuanza Norte
   comments:
   type: province
 CUS:
@@ -529,6 +550,7 @@ CUS:
     ta: சுயநஜா சூல்
     te: కువాంజా సుల్
     th: แอนเซบ้า
+    tk: Günorta Kwanza
     tr: Cuanza Sul Bölgesi
     uk: Південна Кванза
     ur: کوانزا جنوبی صوبہ
@@ -542,6 +564,8 @@ CUS:
     so: Cuanza Sul Province
     yue: 南廣薩省
     'no': Cuanza Sul
+    et: Lõuna-Kwanza provints
+    gl: Cuanza Sul
   comments:
   type: province
 HUA:
@@ -596,6 +620,7 @@ HUA:
     ta: ஹுவாம்போ மாகாணம்
     te: హువాంబో ప్రావిన్స్
     th: ฮูแอมโบ
+    tk: Uambo
     tr: Huambo Bölgesi
     uk: Уамбо
     ur: ہوامبو صوبہ
@@ -609,6 +634,7 @@ HUA:
     so: Huambo Province
     yue: 萬博省
     'no': Huambo
+    cy: Talaith Huambo
   comments:
   type: province
 HUI:
@@ -661,6 +687,7 @@ HUI:
     ta: ஹுஇல மாகாணம்
     te: హుయిలా ప్రావిన్స్
     th: จังหวัดฮุยลา
+    tk: Uila
     tr: Huíla Bölgesi
     uk: Уїла
     ur: ہوئلا صوبہ
@@ -674,6 +701,8 @@ HUI:
     so: Huíla Province
     yue: 威拉省
     'no': Huíla
+    cy: Rhanbarth Huila
+    et: Huíla provints
   comments:
   type: province
 LNO:
@@ -726,6 +755,7 @@ LNO:
     ta: லூண்டா நோர்ட் மாகாணம்
     te: లుండా నార్టి ప్రావిన్స్
     th: จังหวัดลันดานอร์เต
+    tk: Demirgazyk Lunda
     tr: Lunda Norte Bölgesi
     uk: Північна Лунда
     ur: لوندا شمالی صوبہ
@@ -739,6 +769,8 @@ LNO:
     so: Lunda Norte Province
     yue: 北倫達省
     'no': Lunda Norte
+    cy: Talaith Lunda Norte
+    et: Põhja-Lunda provints
   comments:
   type: province
 LSU:
@@ -791,6 +823,7 @@ LSU:
     ta: லுண்ட சூல் மாகாணம்
     te: లుండా సుల్ ప్రావిన్స్
     th: จังหวัดลันดาซูล
+    tk: Günorta Lunda
     tr: Lunda Sul Bölgesi
     uk: Південна Лунда
     ur: لوندا جنوبی صوبہ
@@ -804,6 +837,8 @@ LSU:
     so: Lunda Sul Province
     yue: 南倫達省
     'no': Lunda Sul
+    cy: Talaith Lunda Sul
+    et: Lõuna-Lunda provints
   comments:
   type: province
 LUA:
@@ -858,6 +893,7 @@ LUA:
     ta: லுஅன்டா மாகாணம்
     te: లువాండా ప్రావిన్స్
     th: จังหวัดลูอันดา
+    tk: Luanda
     tr: Luanda Bölgesi
     uk: Луанда
     ur: لواندا صوبہ
@@ -871,6 +907,9 @@ LUA:
     so: Luanda Province
     yue: 羅安達省
     'no': Luanda
+    cy: Talaith Luanda
+    et: Luanda provints
+    ml: ലുവാണ്ട പ്രവശ്യ
   comments:
   type: province
 MAL:
@@ -924,6 +963,7 @@ MAL:
     ta: மலஞ்சே மாகாணம்
     te: మలాంజె ప్రావిన్స్
     th: จังหวัดมาลันเจ
+    tk: Malanže
     tr: Malanje Bölgesi
     uk: Маланже
     ur: مالانجے صوبہ
@@ -937,6 +977,8 @@ MAL:
     so: Malanje Province
     yue: 馬蘭哲省
     'no': Malanje
+    cy: Talaith Malanje
+    et: Malanje provints
   comments:
   type: province
 MOX:
@@ -990,6 +1032,7 @@ MOX:
     ta: மெக்ஸிகோ மாகாணம்
     te: మోక్సికో ప్రావిన్స్
     th: จังหวัดมอกซิโก
+    tk: Moşyko
     tr: Moxico Bölgesi
     uk: Мошико
     ur: موشیکو صوبہ
@@ -1005,6 +1048,7 @@ MOX:
     cs: Moxico
     yue: 莫西古省
     'no': Moxico
+    cy: Talaith Moxico
   comments:
   type: province
 NAM:
@@ -1059,6 +1103,7 @@ NAM:
     ta: நமிபே மாகாணம்
     te: నమీబీ ప్రావిన్స్
     th: จังหวัดนามิบี
+    tk: Namibe
     tr: Namibe Bölgesi
     uk: Намібе
     ur: نامیبے صوبہ
@@ -1072,6 +1117,8 @@ NAM:
     so: Namibe Province
     yue: 納米貝省
     'no': Namibe
+    cy: Talaith Namibe
+    et: Namibe provints
   comments:
   type: province
 UIG:
@@ -1124,6 +1171,7 @@ UIG:
     ta: உய்ஜ் மாகாணம்
     te: ఉయిగె ప్రావిన్స్
     th: จังหวัดอาแวรง
+    tk: Uiže
     tr: Uíge Bölgesi
     uk: Уїже
     ur: اوئگے صوبہ
@@ -1137,6 +1185,8 @@ UIG:
     so: Uíge Province
     yue: 威熱省
     'no': Uíge
+    cy: Talaith Uíge
+    et: Uíge provints
   comments:
   type: province
 ZAI:
@@ -1189,6 +1239,7 @@ ZAI:
     ta: சய்யர் மாகாணம்
     te: జైర్ ప్రావిన్స్
     th: จังหวัดแซร์
+    tk: Zaire
     tr: Zaire Bölgesi
     uk: Заїре
     ur: زائیر صوبہ
@@ -1201,5 +1252,8 @@ ZAI:
     ccp: "\U0001110E\U00011120\U00011122\U00011134"
     yue: 薩伊省
     'no': Zaire
+    cy: Talaith Zaire
+    et: Zaire provints
+    gl: Provincia de Zaire
   comments:
   type: province

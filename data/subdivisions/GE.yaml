@@ -78,6 +78,7 @@ AB:
     sd: ابخازيہ
     kk: Абхазия Автономиялық Республикасы
     'no': Abkhasia
+    cy: Gweriniaeth Ymreolaethol Abchasia
   comments:
   type: autonomous_republic
 AJ:
@@ -164,6 +165,8 @@ AJ:
     mk: Аџарија
     'no': Adsjaria
     yo_BJ: Adjara
+    ha: Adjara
+    ha_NE: Adjara
   comments:
   type: autonomous_republic
 GU:
@@ -232,6 +235,10 @@ GU:
     ml: ഗുരിയ
     mk: Гурија
     'no': Guria
+    ha: Guria
+    ha_NE: Guria
+    hr: Gurija
+    uz: Guria
   comments:
   type: region
 IM:
@@ -302,6 +309,11 @@ IM:
     kk: Имеретия патшалығы
     mk: Имеретија
     'no': Imereti
+    cy: Imereti
+    ha: Imereti
+    ha_NE: Imereti
+    hr: Imeretija
+    ro: Imeresia
   comments:
   type: region
 KA:
@@ -372,6 +384,10 @@ KA:
     ml: കാഖേറ്റി
     mk: Кахетија
     'no': Kakheti
+    hr: Kahetija
+    ro: Kakhesia
+    sl: Kaheti
+    uz: Kaxeti
   comments:
   type: region
 KK:
@@ -440,6 +456,8 @@ KK:
     eu: Kvemo Kartli
     mk: Долна Картли
     'no': Kvemo Kartli
+    ml: ക്വെമോ കാർട്ട്ലി
+    ro: Kartli Inferior
   comments:
   type: region
 MM:
@@ -477,6 +495,7 @@ MM:
     hy: Մցխեթ-Մթիանեթ
     id: Mtskheta-Mtianeti
     it: Mtskheta-Mtianeti
+    ja: ムツヘタ＝ムティアネティ州
     ka: მცხეთა-მთიანეთის მხარე
     kn: ಮಿತ್ಸೆತಾ-ಮಿಟಿಯೆನಿ
     ko: 므츠헤타므티아네티 주
@@ -509,6 +528,8 @@ MM:
     yue: 姆茨赫塔-姆季阿涅季州
     mk: Мцхета-Мтијанетија
     'no': Mtskheta-Mtianeti
+    ca: Mtskheta-Mtianeti
+    ro: Mtskheta-Mtianeti
   comments:
   type: region
 RL:
@@ -548,6 +569,7 @@ RL:
     hy: Ռաճա-Լեչխում և Քվեմո Սվանեթ
     id: Racha-Lechkhumi dan Kvemo Svaneti
     it: Racha-Lechkhumi e Kvemo Svaneti
+    ja: ラチャ＝レチフミおよびクヴェモ・スヴァネティ州
     ka: რაჭა-ლეჩხუმისა და ქვემო სვანეთის მხარე
     kn: ರಾಚಾ-ಲೆಖುಕುಮಿ ಮತ್ತು ಕ್ವೆಮೊ ಸವೆಟ್ಟಿ
     ko: 라차레츠후미크베모스바네티 주
@@ -577,6 +599,9 @@ RL:
       \U00011103\U00011133\U00011103 \U0001111E\U0001112C\U0001111F\U0001112E \U0001111E\U0001111A\U0001112C\U00011111\U00011128"
     mk: Рача-Лечхуми и Долна Сванетија
     'no': Racha-Lechkhumi og Kvemo Svaneti
+    ca: Ratxa-Letxkhumi i Baixa Svanètia
+    ml: റച്ച-ലെച്ച്കുമി ആൻഡ് ക്വെമൊ സ്വനെറ്റി
+    ro: Racia-Lecihumi și Svanesia Inferioară
   comments:
   type: region
 SJ:
@@ -615,6 +640,7 @@ SJ:
     hy: Սամցխե-Ջավախք
     id: Samtskhe-Javakheti
     it: Samtskhe-Javakheti
+    ja: サムツヘ＝ジャヴァヘティ州
     ka: სამცხე-ჯავახეთის მხარე
     kn: ಸ್ಯಾಮ್ತ್ಕೆ-ಜಾವಾಖೆತಿ
     ko: 삼츠헤자바헤티 주
@@ -645,6 +671,7 @@ SJ:
     ml: സാംറ്റ്സ്കെ ജവാഖേറ്റി
     mk: Самцхе-Џавахетија
     'no': Samtskhe-Javakheti
+    ro: Samtskhe-Javakheti
   comments:
   type: region
 SK:
@@ -714,6 +741,8 @@ SK:
     ml: ഷിദ കാർട്‌ലി
     mk: Внатрешен Картли
     'no': Shida Kartli
+    hr: Unutarnji Kartli
+    ro: Kartli Interior
   comments:
   type: region
 SZ:
@@ -750,6 +779,7 @@ SZ:
     hy: Սամեգրելո-Զեմո Սվանեթ
     id: Samegrelo-Zemo Svaneti
     it: Mingrelia-Alta Svanezia
+    ja: サメグレロ＝ゼモ・スヴァネティ州
     ka: სამეგრელო-ზემო სვანეთის მხარე
     kn: ಸಮ್ಮೆರೆಲೋ-ಝೆಮೊ ಸವೆಟ್ಟಿ
     ko: 사메그렐로제모스바네티 주
@@ -780,6 +810,9 @@ SZ:
     ml: സാമെഗ്രെലോ-സെമോ സ്വാനെറ്റി
     mk: Мегрелија-Горна Сванетија
     'no': Samegrelo-Zemo Svaneti
+    ca: Mingrèlia - Alta Svanètia
+    et: Samegrelo–Zemo Svanethi
+    ro: Megrelia-Svanesia Superioară
   comments:
   type: region
 TB:
@@ -876,5 +909,6 @@ TB:
     mk: Тбилиси
     'no': Tbilisi
     yo_BJ: Tbilisi
+    ps: تفلیس
   comments:
   type: city

@@ -53,6 +53,9 @@ BA:
     sq: Barima-Waini
     ccp: "\U0001111D\U00011122\U00011128\U0001111F-\U00011103\U0001112E\U00011120\U0001112D\U0001111A\U00011128"
     'no': Barima-Waini
+    kk: Барима-Уайни
+    ps: باریما واینی
+    ro: Barima-Waini
   comments:
   type: region
 CU:
@@ -82,6 +85,7 @@ CU:
     hi: कुयूनी-मज़ारूनी
     id: Cuyuni-Mazaruni
     it: Cuyuni-Mazaruni
+    ja: クユニ＝マザルニ州
     kn: ಕುಯುನಿ-ಮಝರುನಿ
     ko: 쿠유니마자루니 주
     lt: Kujunis-Mazarunis
@@ -107,6 +111,8 @@ CU:
     sq: Cuyuni-Mazaruni
     ccp: "\U0001110C\U0001112A\U00011120\U0001112E\U0001111A\U00011128-\U0001111F\U0001110E\U00011122\U0001112A\U0001111A\U00011128"
     'no': Cuyuni-Mazaruni
+    kk: Куюни-Мазаруни
+    ro: Cuyuni-Mazaruni
   comments:
   type: region
 DE:
@@ -163,6 +169,8 @@ DE:
     ccp: "\U00011113\U0001112C\U0001111F\U00011122\U00011122-\U0001111F\U00011126\U0001112D\U00011107"
     be: Дэмерара-Махайка
     'no': Demerara-Mahaica
+    kk: Демерара-Махайка
+    ro: Demerara-Mahaica
   comments:
   type: region
 EB:
@@ -192,6 +200,7 @@ EB:
     hi: ईस्ट बेर्बिस-कोरेंटीन
     id: Berbice-Corentyne Timur
     it: Berbice Orientale-Corentyne
+    ja: 東ベルビセ＝コレンティネ州
     kn: ಈಸ್ಟ್ ಬರ್ಬೀಸ್-ಕೊರೆಂಟೈನ್
     ko: 이스트버비스코렌타인 주
     lt: Rytų Berbisas-Koranteinas
@@ -217,6 +226,8 @@ EB:
     sq: East Berbice-Corentyne
     ccp: "\U0001111B\U0001112A\U00011107\U00011134 \U0001111D\U00011122\U00011134\U0001111D\U0001112D\U0001110C\U00011134-\U00011107\U0001112E\U00011122\U0001112C\U0001111A\U00011134\U00011111\U0001112D\U0001111A\U00011134"
     'no': East Berbice-Corentyne
+    kk: Шығыс Бербис - Корентайн
+    ro: East Berbice-Corentyne
   comments:
   type: region
 ES:
@@ -246,6 +257,7 @@ ES:
     hi: एसेकिबो द्वीपसमूह-पश्चिमी डेमरारा
     id: Pulau Essequibo-Demerara Barat
     it: Isole Essequibo-Demerara Occidentale
+    ja: エセキボ諸島＝西デメララ州
     kn: ಈಸ್ಕಿನಿಬೋ ಐಲ್ಯಾಂಡ್ಸ್-ವೆಸ್ಟ್ ಡೆಮೆರಾರಾ
     ko: 에세키보아일랜즈웨스트데메라라 주
     lt: Esekibo salos-Vakarų Demerara
@@ -273,6 +285,8 @@ ES:
       \U00011103\U00011128\U0001110C\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134\U0001110C\U00011134-\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134
       \U00011113\U0001112C\U0001111F\U00011122\U00011122"
     'no': Essequibo Islands-West Demerara
+    kk: Эссекибо аралдары - Батыс Демерара
+    ro: Essequibo Islands-West Demerara
   comments:
   type: region
 MA:
@@ -295,6 +309,7 @@ MA:
     fr: Mahaica-Berbice
     id: Mahaica-Berbice
     it: Mahaica-Berbice
+    ja: マハイカ＝ベルビセ州
     ko: 마하이카버비스 주
     lt: Mahaika-Berbisas
     nb: Mahaica-Berbice
@@ -310,6 +325,8 @@ MA:
     sq: Mahaica-Berbice
     ccp: "\U0001111F\U00011126\U0001112D\U00011107-\U0001111D\U00011122\U00011134\U0001111D\U0001112D\U0001110C\U00011134"
     'no': Mahaica-Berbice
+    kk: Махайка-Бербис
+    ro: Mahaica-Berbice
   comments:
   type: region
 PM:
@@ -339,6 +356,7 @@ PM:
     hi: पोमेरून-सुपनाम
     id: Pomeroon-Supenaam
     it: Pomeroon-Supenaam
+    ja: ポメローン＝スペナーム州
     kn: ಪೋಮರೂನ್-ಸುಪೀನಾಮ್
     ko: 포메룬수페남 주
     lt: Pomeronas-Supenamas
@@ -364,6 +382,8 @@ PM:
     sq: Pomeroon-Supenaam
     ccp: "\U0001111B\U0001112E\U0001111F\U00011122\U0001112A\U0001111A\U00011134-\U00011125\U0001112A\U0001111B\U0001112C\U0001111A\U0001111F\U00011134"
     'no': Pomeroon-Supenaam
+    kk: Померун-Супенаам
+    ro: Pomeroon-Supenaam
   comments:
   type: region
 PT:
@@ -393,6 +413,7 @@ PT:
     hi: पोटारो-सिपारुनी
     id: Potaro-Siparuni
     it: Potaro-Siparuni
+    ja: ポタロ＝シパルニ州
     kn: ಪೋಟೋರೋ-ಸಿಪರುನಿ
     ko: 포타로시파루니 주
     lt: Potaras-Siparunis
@@ -418,6 +439,8 @@ PT:
     sq: Potaro-Siparuni
     ccp: "\U0001111B\U00011127\U00011111\U00011122\U0001112E-\U00011125\U00011128\U0001111B\U00011122\U0001112A\U0001111A\U00011128"
     'no': Potaro-Siparuni
+    kk: Потаро-Сипаруни
+    ro: Potaro-Siparuni
   comments:
   type: region
 UD:
@@ -446,6 +469,7 @@ UD:
     hi: ऊपरी डेमरारा-बर्बिस
     id: Demerara Hulu-Berbice
     it: Alto Demerara-Berbice
+    ja: アッパー・デメララ＝ベルビセ州
     kn: ಅಪ್ಪರ್ ಡೆಮೆರಾ-ಬರ್ಬಿಸ್
     ko: 어퍼데메라라버비스 주
     lt: Aukštutinė Demerara-Berbisas
@@ -471,6 +495,9 @@ UD:
     sq: Upper Demerara-Berbice
     ccp: "\U00011103\U0001111B\U00011122\U00011134 \U00011113\U0001111F\U0001112C\U00011122\U00011122-\U0001111D\U00011122\U00011134\U0001111D\U0001112D\U0001110C\U00011134"
     'no': Upper Demerara-Berbice
+    ca: Upper Demerara-Berbice
+    kk: Жоғарғы Демерара-Бербис
+    ro: Upper Demerara-Berbice
   comments:
   type: region
 UT:
@@ -499,6 +526,7 @@ UT:
     hi: ऊपरी टकूटू-ऊपरी एसेकिबो
     id: Takutu Hulu-Essequibo Hulu
     it: Alto Takutu-Alto Essequibo
+    ja: アッパー・タクトゥ＝アッパー・エセキボ州
     kn: ಅಪ್ಪರ್ ಟಕುತು-ಅಪ್ಪರ್ ಎಸ್ಸಿಸ್ಟಿಬೊ
     ko: 어퍼타쿠투어퍼에세키보 주
     lt: Aukštutinis Takutu-Aukštutinis Esekibas
@@ -525,5 +553,8 @@ UT:
     ccp: "\U00011103\U0001111B\U00011122\U00011134 \U00011111\U00011107\U0001112A\U00011111\U0001112A-\U00011103\U0001111B\U00011122\U00011134
       \U00011103\U00011128\U00011125\U0001112C\U00011107\U0001112D\U0001112A\U0001111D\U0001112E"
     'no': Upper Takutu-Upper Essequibo
+    ca: Alt Takutu-Alto Essequibo
+    kk: Жоғарғы Такуту-Жоғарғы Эссекибо
+    ro: Upper Takutu-Upper Essequibo
   comments:
   type: region

@@ -69,6 +69,8 @@
     bs: Zagrebačka županija
     mk: Загрепска жупанија
     'no': Zagreb
+    az: Zaqreb jupaniyası
+    cy: Sir Zagreb
   comments:
   type: county
 '02':
@@ -105,6 +107,7 @@
     hu: Krapina-Zagorje megye
     id: Kabupaten Krapina-Zagorje
     it: regione di Krapina e dello Zagorje
+    ja: クラピナ＝ザゴリエ郡
     kn: ಕ್ರಾಪಿನಾ-ಝಗೋರ್ಜೆ ಕೌಂಟಿ
     ko: 크라피나자고레 주
     lt: Krapinos–Zagorjės apskritis
@@ -137,6 +140,9 @@
     bs: Krapinsko-zagorska županija
     mk: Крапинско-загорска жупанија
     'no': Krapina-Zagorje
+    az: Krapina-Zaqorye jupaniyası
+    cy: Sir Krapina-Zagorje
+    ga: Contae Krapina-Zagorje
   comments:
   type: county
 '03':
@@ -172,6 +178,7 @@
     hu: Sziszek-Moslavina megye
     id: Kabupaten Sisak-Moslavina
     it: regione di Sisak e della Moslavina
+    ja: シサク＝モスラヴィナ郡
     kn: ಸಿಸಾಕ್-ಮೊಸ್ಲಾವಿನಿ ಕೌಂಟಿ
     ko: 시사크모슬라비나 주
     lt: Sisako–Moslavinos apskritis
@@ -206,6 +213,9 @@
     bs: Sisačko-moslavačka županija
     mk: Сисачко-мославачка жупанија
     'no': Sisak-Moslavina
+    az: Sisak-Moslavina jupaniyası
+    cy: Sir Sisak-Moslavina
+    ga: Contae Sisak-Moslavina
   comments:
   type: county
 '04':
@@ -277,6 +287,10 @@
     bs: Karlovačka županija
     mk: Карловачка жупанија
     'no': Karlovac
+    az: Karlovaç jupaniyası
+    cy: Sir Karlovac
+    ga: Contae Karlovac
+    he: מחוז קרלובץ
   comments:
   type: county
 '05':
@@ -348,6 +362,8 @@
     bs: Varaždinska županija
     mk: Вараждинска жупанија
     'no': Varaždin
+    az: Varajdin jupaniyası
+    cy: Sir Varaždin
   comments:
   type: county
 '06':
@@ -383,6 +399,7 @@
     hu: Kapronca-Körös megye
     id: Kabupaten Koprivnica-Križevci
     it: regione di Koprivnica e Križevci
+    ja: コプリヴニツァ＝クリジェヴツィ郡
     kn: ಕೊಪ್ರಿನಿಕಾ-ಕ್ರಿಜ್ಜೆವಿ ಕೌಂಟಿ
     ko: 코프리브니차크리제브치 주
     lt: Koprivnicų–Križevcų apskritis
@@ -417,6 +434,9 @@
     bs: Koprivničko-križevačka županija
     mk: Копривничко-крижевачка жупанија
     'no': Koprivnica-Križevci
+    az: Koprivniça-Krijevçi jupaniyası
+    fi: Koprivnica-Križevci
+    ga: Contae Koprivnica-Križevci
   comments:
   type: county
 '07':
@@ -454,6 +474,7 @@
     hu: Belovár-Bilogora megye
     id: Kabupaten Bjelovar-Bilogora
     it: regione di Bjelovar e della Bilogora
+    ja: ビェロヴァル＝ビロゴラ郡
     ka: ბელოვარ-ბილოგორა
     kn: ಬೆಲೋವೊವರ್-ಬಿಲೋಗೊರಾ ಕೌಂಟಿ
     ko: 벨로바르빌로고라 주
@@ -487,6 +508,9 @@
     bs: Bjelovarsko-bilogorska županija
     mk: Бјеловарско-билогорска жупанија
     'no': Bjelovar-Bilogora
+    az: Byelovar-Biloqora jupaniyası
+    cy: Sir Bjelovar-Bilogora
+    ga: Contae Bjelovar-Bilogora
   comments:
   type: county
 '08':
@@ -525,6 +549,7 @@
     hy: Պրիմորսկո Գորանսկա
     id: Kabupaten Primorje-Gorski Kotar
     it: regione litoraneo-montana
+    ja: プリモリェ＝ゴルスキ・コタル郡
     kn: ಪ್ರಿಮೊರ್ಜೆ-ಗೋರ್ಸ್ಕಿ ಕೊಟಾರ್ ಕೌಂಟಿ
     ko: 프리모레고르스키코타르 주
     lt: Primorjės–Kalnų Kotaro apskritis
@@ -559,6 +584,9 @@
     bs: Primorsko-goranska županija
     mk: Приморско-горска жупанија
     'no': Primorje-Gorski Kotar
+    az: Primorye-Qorski jupaniyası
+    cy: Sir Primorje-Gorski Kotar
+    ga: Contae Primorje-Gorski Kotar
   comments:
   type: county
 '09':
@@ -595,6 +623,7 @@
     hy: Լիչկո Սենսկա
     id: Kabupaten Lika-Senj
     it: regione della Licca e di Segna
+    ja: リカ＝セニ郡
     kn: ಲಿಕಾ-ಸೆನ್ಜ್ ಕೌಂಟಿ
     ko: 리카센 주
     lt: Likos–Senio apskritis
@@ -629,6 +658,10 @@
     bs: Ličko-senjska županija
     mk: Личко-сењска жупанија
     'no': Lika-Senj
+    az: Lika-Sen jupaniyası
+    be: Ліцка-Сеньская жупанія
+    cy: Sir Lika-Senj
+    ga: Contae Lika-Senj
   comments:
   type: county
 '10':
@@ -665,6 +698,7 @@
     hu: Verőce-Drávamente megye
     id: Kabupaten Virovitica-Podravina
     it: regione di Virovitica e della Podravina
+    ja: ヴィロヴィティツァ＝ポドラヴィナ郡
     kn: ವಿವೊರೊಟಿಕಾ-ಪೊಡ್ರವಿನಿ ಕೌಂಟಿ
     ko: 비로비티차포드라비나 주
     lt: Viroviticos–Podravinos apskritis
@@ -698,6 +732,9 @@
     bs: Virovitičko-podravska županija
     mk: Вировитичко-подравска жупанија
     'no': Virovitica-Podravina
+    az: Virovitiça-Podravina jupaniyası
+    cy: Sir Virovitica-Podravina
+    ga: Contae Virovitica-Podravina
   comments:
   type: county
 '11':
@@ -733,6 +770,7 @@
     hu: Pozsega-Szlavónia megye
     id: Kabupaten Požega-Slavonia
     it: regione di Požega e della Slavonia
+    ja: ポジェガ＝スラヴォニア郡
     kn: ಪೋಜೆಗಾ-ಸ್ಲಾವೊನಿಯಾ ಕೌಂಟಿ
     ko: 포제가슬라보니아 주
     lt: Požegos–Slavonijos apskritis
@@ -766,6 +804,9 @@
     bs: Požeško-slavonska županija
     mk: Пожешко-славонска жупанија
     'no': Požega-Slavonia
+    az: Pojeqa-Slavoniya jupaniyası
+    cy: Sir Požega-Slavonia
+    ga: Contae Požega-Slavonia
   comments:
   type: county
 '12':
@@ -803,6 +844,7 @@
     hu: Bród-Szávamente megye
     id: Kabupaten Brod-Posavina
     it: regione di Brod e della Posavina
+    ja: ブロド＝ポサヴィナ郡
     ka: ბროდ-პოსავინა
     kn: ಬ್ರಾಡ್-ಪೊಸವಿನಾ ಕೌಂಟಿ
     ko: 브로드포사비나 주
@@ -836,6 +878,10 @@
     bs: Brodsko-posavska županija
     mk: Бродско-посавска жупанија
     'no': Brod-Posavina
+    az: Brod-Posavina jupaniyası
+    cy: Sir Brod-Posavina
+    ga: Contae Brod-Posavina
+    he: ברוד-פוזבינה
   comments:
   type: county
 '13':
@@ -911,6 +957,9 @@
     bs: Zadarska županija
     mk: Задарска жупанија
     'no': Zadar
+    az: Zadar jupaniyası
+    cy: Sir Zadar
+    ga: Contae Zadar
   comments:
   type: county
 '14':
@@ -948,6 +997,7 @@
     hu: Eszék-Baranya megye
     id: Kabupaten Osijek-Baranja
     it: regione di Osijek e della Baranja
+    ja: オシエク＝バラニャ郡
     kn: ಒಸಿಜೆಕ್-ಬರಾನ್ಜಾ ಕೌಂಟಿ
     ko: 오시예크바라냐 주
     lt: Osijeko–Baranijos apskritis
@@ -980,6 +1030,9 @@
     bs: Osječko-baranjska županija
     mk: Осиечко-барањска жупанија
     'no': Osijek-Baranja
+    az: Osiyek-Baranya jupaniyası
+    cy: Sir Osijek-Baranja
+    ga: Contae Osijek-Baranja
   comments:
   type: county
 '15':
@@ -1017,6 +1070,7 @@
     hy: Շիբենիկ Կնին
     id: Kabupaten Šibenik-Knin
     it: regione di Sebenico e Tenin
+    ja: シベニク＝クニン郡
     kn: ಸಿಬೆನಿಕ್-ನಿನ್ ಕೌಂಟಿ
     ko: 시베니크크닌 주
     lt: Šibeniko–Knino apskritis
@@ -1050,6 +1104,10 @@
     bs: Šibensko-kninska županija
     mk: Шибенско-книнска жупанија
     'no': Šibenik-Knin
+    az: Şibenik-Knin jupaniyası
+    cy: Sir Šibenik-Knin
+    ga: Contae Šibenik-Knin
+    he: מחוז שיבניק-קנין
   comments:
   type: county
 '16':
@@ -1087,6 +1145,7 @@
     hu: Vukovár-Szerém megye
     id: Kabupaten Vukovar-Syrmia
     it: regione di Vukovar e della Sirmia
+    ja: ヴコヴァル＝スリイェム郡
     kn: ವುಕೋವರ್ -ಸಿರ್ಮಿಯಾ ಕೌಂಟಿ
     ko: 부코바르스리옘 주
     lt: Vukovaro–Srijemo apskritis
@@ -1119,6 +1178,9 @@
     bs: Vukovarsko-srijemska županija
     mk: Вуковарско-сремска жупанија
     'no': Vukovar-Syrmia
+    az: Vukovar-Sriyem jupaniyası
+    cy: Sir Vukovar-Syrmia
+    ga: Contae Vukovar-Syrmia
   comments:
   type: county
 '17':
@@ -1156,6 +1218,7 @@
     hy: Սպլիտսկո Դալմատինսկա
     id: Kabupaten Split-Dalmatia
     it: regione spalatino-dalmata
+    ja: スプリト＝ダルマチア郡
     kn: ಸ್ಪ್ಲಿಟ್-ಡಾಲ್ಮಾಟಿಯಾ ಕೌಂಟಿ
     ko: 스플리트달마티아 주
     lt: Splito–Dalmatijos apskritis
@@ -1189,6 +1252,9 @@
     bs: Splitsko-dalmatinska županija
     mk: Сплитско-далматинска жупанија
     'no': Split-Dalmatia
+    az: Split-Dalmatiya jupaniyası
+    cy: Sir Split-Dalmatia
+    ga: Contae Split-Dalmatia
   comments:
   type: county
 '18':
@@ -1260,6 +1326,10 @@
     bs: Istarska županija
     mk: Истарска жупанија
     'no': Istria
+    az: İstriya jupaniyası
+    be: Істрыйская жупанія
+    cy: Sir Istria
+    ga: Contae Istria
   comments:
   type: county
 '19':
@@ -1298,6 +1368,7 @@
     hy: Դուբրովնիկ Ներետվա
     id: Kabupaten Dubrovnik-Neretva
     it: regione raguseo-narentana
+    ja: ドゥブロヴニク＝ネレトヴァ郡
     ka: დუბროვნიკ-ნერეტვა
     kn: ಡುಬ್ರೊವ್ನಿಕ್-ನೆರೆಟ್ವಾ ಕೌಂಟಿ
     ko: 두브로브니크네레트바 주
@@ -1332,6 +1403,9 @@
     bs: Dubrovačko-neretvanska županija
     mk: Дубровничко-неретванска жупанија
     'no': Dubrovnik-Neretva
+    az: Dubrovnik-Neretva jupaniyası
+    cy: Sir Dubrovnik-Neretva
+    ga: Contae Dubrovnik-Neretva
   comments:
   type: county
 '20':
@@ -1401,6 +1475,10 @@
     bs: Međimurska županija
     mk: Меѓимурска жупанија
     'no': Međimurje
+    az: Medjumur jupaniyası
+    cy: Sir Međimurje
+    ga: Contae Međimurje
+    hy: Մեջիմուրսկա
   comments:
   type: county
 '21':
@@ -1496,5 +1574,9 @@
     mk: Загреб
     'no': Zagreb²
     yo_BJ: Zagreb
+    ha: Zagreb
+    ha_NE: Zagreb
+    lo: ຊາເກຣບ
+    sd: زغرب
   comments:
   type: city

@@ -57,6 +57,7 @@ BAL:
     ta: பால்க் மாகாணம்
     te: బాల్క్
     th: จังหวัดบัลข์
+    tk: Balh
     tr: Belh Vilayeti
     uk: Балх
     ur: بلخ
@@ -68,6 +69,11 @@ BAL:
     ccp: "\U0001111D\U00011123\U00011133\U00011108\U00011134"
     pa: ਬਲਖ ਸੂਬਾ
     'no': Balkh
+    he: בלח׳
+    sd: بلخ صوبو
+    uz: Balx
+    yue: 巴赫省
+    yue_Hans: 巴赫省
   comments:
   type: province
 BAM:
@@ -132,6 +138,7 @@ BAM:
     ta: பாமியான் மாகாணம்
     te: బమ్యన్
     th: จังหวัดบามียาน
+    tk: Bamiýan
     tr: Bamyan Vilayeti
     uk: Баміан
     ur: بامیان
@@ -143,6 +150,10 @@ BAM:
     ccp: "\U0001111D\U0001111F\U00011128\U00011120\U0001111A\U00011134"
     ml: ബാമിയാൻ പ്രവിശ്യ
     'no': Bamiyan
+    he: באמיאן
+    uz: Bomiyon
+    yue: 巴米揚省
+    yue_Hans: 巴米扬省
   comments:
   type: province
 BDG:
@@ -206,6 +217,7 @@ BDG:
     ta: பட்கிஸ் மாகாணம்
     te: బాడ్గిస్
     th: จังหวัดแบดจิส
+    tk: Bagdis
     tr: Badgis Vilayeti
     uk: Бадгіс
     ur: صوبہ بادغیس
@@ -216,6 +228,11 @@ BDG:
     zh: 巴德吉斯省
     ccp: "\U0001111D\U00011116\U00011134\U0001110A\U00011128\U0001110C\U00011134"
     'no': Badghis
+    he: באדגיס
+    sd: بادغيس صوبو
+    uz: Badgʻis
+    yue: 巴德傑斯省
+    yue_Hans: 巴德杰斯省
   comments:
   type: province
 BDS:
@@ -279,6 +296,7 @@ BDS:
     ta: படாக்சான் மாகாணம்
     te: బడాక్షన్
     th: จังหวัดบาดัคชาน
+    tk: Badahşan
     tr: Badahşan Vilayeti
     uk: Бадахшан
     ur: صوبہ بدخشاں
@@ -290,6 +308,12 @@ BDS:
     ccp: "\U0001111D\U00011118\U00011107\U00011134\U00011125\U0001111A\U00011134"
     pa: ਸੂਬਾ ਬਦਖ਼ਸ਼ਾਂ
     'no': Badakhshan
+    he: בדח׳שאן
+    hu: Badahsán
+    sd: بدخشان صوبو
+    uz: Badaxshon
+    yue: 巴達山省
+    yue_Hans: 巴达山省
   comments:
   type: province
 BGL:
@@ -351,6 +375,7 @@ BGL:
     ta: பக்லான் மாகாணம்
     te: బాగ్లాన్
     th: จังหวัดบางก์ลาน
+    tk: Baglan
     tr: Baglan Vilayeti
     uk: Баглан
     ur: صوبہ بغلان
@@ -361,6 +386,10 @@ BGL:
     zh: 巴格兰省
     ccp: "\U0001111D\U00011107\U00011134\U00011123\U0001111A\U00011134"
     'no': Baghlan
+    he: בגלאן
+    uz: Bagʻlon
+    yue: 巴格蘭省
+    yue_Hans: 巴格兰省
   comments:
   type: province
 DAY:
@@ -412,6 +441,7 @@ DAY:
     sk: Dájkundí
     sr: Провинција Даиконди
     sv: Daikondi
+    tk: Daýkündi
     tr: Daykundi Vilayeti
     uk: Дайкунді
     ur: صوبہ دایکندی
@@ -423,6 +453,12 @@ DAY:
     zh: 代孔迪省
     ccp: "\U00011113\U0001112C\U00011107\U0001112A\U0001111A\U00011134\U00011118\U00011128"
     'no': Daikondi
+    he: דאיכונדי
+    mr: दायकुंडी प्रांत
+    sd: دايڪندي صوبو
+    uz: Daykundi
+    yue: 戴管地省
+    yue_Hans: 戴管地省
   comments:
   type: province
 FRA:
@@ -480,6 +516,7 @@ FRA:
     ta: பாரா
     te: ఫరా
     th: จังหวัดฟาราห์
+    tk: Farah
     tr: Ferah Vilayeti
     uk: Фарах
     ur: صوبہ فراہ
@@ -491,6 +528,11 @@ FRA:
     zh: 法拉省
     ccp: "\U0001111C\U00011122\U00011126\U00011134"
     'no': Farah
+    he: פראה
+    sd: فرا صوبو
+    uz: Farah
+    yue: 法拿省
+    yue_Hans: 法拿省
   comments:
   type: province
 FYB:
@@ -549,6 +591,7 @@ FYB:
     ta: பார்யாப்
     te: ఫర్యాబ్
     th: ฟาร์ยับ
+    tk: Farýab
     tr: Faryab Vilayeti
     uk: Фарʼяб
     ur: صوبہ فاریاب
@@ -561,6 +604,9 @@ FYB:
     ccp: "\U0001111C\U00011122\U00011128\U00011120\U0001111B\U00011134"
     uz: Foryob (viloyat)
     'no': Faryab
+    he: פאריאב
+    yue: 法利亞布省
+    yue_Hans: 法利亚布省
   comments:
   type: province
 GHA:
@@ -620,6 +666,7 @@ GHA:
     ta: கஜினி மாகாணம்
     te: ఘజిని
     th: แกซนิ
+    tk: Gazni
     tr: Gazni Vilayeti
     uk: Газні
     ur: صوبہ غزنی
@@ -633,6 +680,11 @@ GHA:
     hy: Ղազնի
     pa: ਗਜ਼ਨੀ ਸੂਬਾ
     'no': Ghazni
+    he: ע׳זנה
+    sd: غزني صوبو
+    uz: Gʻazni viloyati
+    yue: 加茲尼省
+    yue_Hans: 加兹尼省
   comments:
   type: province
 GHO:
@@ -693,6 +745,7 @@ GHO:
     ta: ஜிஹார்
     te: ఘోర్
     th: กอฮ์
+    tk: Gör
     tr: Gur Vilayeti
     uk: Гор
     ur: صوبہ غور
@@ -705,6 +758,12 @@ GHO:
     ccp: "\U0001110A\U0001112E\U00011122\U00011134"
     pa: ਗ਼ੋਰ ਸੂਬਾ
     'no': Ghowr
+    he: גור
+    hy: Գուր
+    sd: غور صوبو
+    uz: Gʻoʻr (viloyati)
+    yue: 古亞省
+    yue_Hans: 古亚省
   comments:
   type: province
 HEL:
@@ -766,6 +825,7 @@ HEL:
     ta: ஹெல்மண்டு மாகாணம்
     te: హెల్మండ్
     th: เฮลซ์แมนด์
+    tk: Gilmend
     tr: Helmend Vilayeti
     uk: Гільменд
     ur: صوبہ ہلمند
@@ -778,6 +838,11 @@ HEL:
     ccp: "\U00011126\U0001112C\U00011123\U00011134\U0001111F\U0001111A\U00011133\U00011113\U00011134"
     pa: ਹੇਲਮੰਦ ਸੂਬਾ
     'no': Helmand
+    ml: ഹെൽമണ്ട് പ്രവിശ്യ
+    sd: ھيلمند صوبو
+    uz: Hilmand viloyati
+    yue: 希奧曼省
+    yue_Hans: 希奥曼省
   comments:
   type: province
 HER:
@@ -835,6 +900,7 @@ HER:
     ta: ஹேரத்
     te: హెరాట్
     th: จังหวัดเฮรัท
+    tk: Gerat
     tr: Herat Vilayeti
     uk: Герат
     ur: صوبہ ہرات
@@ -846,6 +912,12 @@ HER:
     zh: 赫拉特省
     ccp: "\U00011126\U0001112C\U00011122\U00011116\U00011134"
     'no': Herat
+    he: הראת
+    hy: Հերաթ
+    sd: ھرات صوبو
+    uz: Hirot viloyati
+    yue: 赫拉特省
+    yue_Hans: 赫拉特省
   comments:
   type: province
 JOW:
@@ -909,6 +981,7 @@ JOW:
     ta: ஜோவ்ஸ்ஜன்
     te: జోవ్‌జాన్
     th: ซินต์มาร์เติน
+    tk: Jowuzjan
     tr: Cüzcan Vilayeti
     uk: Джаузджан
     ur: صوبہ جوزجان
@@ -920,6 +993,10 @@ JOW:
     pa: ਜੋਜਾਨ
     uz: Joʻzjon
     'no': Jowzjan
+    he: ג׳וזג׳אן
+    sd: جوزجان صوبو
+    yue: 祖茲贊省
+    yue_Hans: 祖兹赞省
   comments:
   type: province
 KAB:
@@ -980,6 +1057,7 @@ KAB:
     ta: காபூல் மாகாணம்
     te: కాబూల్ ప్రావిన్స్
     th: จังหวัดคาบูล
+    tk: Kabul welaýaty
     tr: Kâbil Vilayeti
     uk: Кабул
     ur: صوبہ کابل
@@ -990,8 +1068,15 @@ KAB:
     sr_Latn: Provincija Kabul
     zh: 喀布尔省
     ccp: "\U00011107\U0001111D\U0001112A\U00011123\U00011134"
-    tk: Kabul welaýaty
     'no': Kabul
+    ga: Cabúl
+    gl: Provincia de Kabul
+    he: קאבול
+    pa: ਕਾਬਲ
+    sd: ڪابل صوبو
+    uz: Kobul viloyati
+    yue: 喀布爾省
+    yue_Hans: 喀布尔省
   comments:
   type: province
 KAN:
@@ -1051,6 +1136,7 @@ KAN:
     ta: கந்தகார் மாகாணம்
     te: కాందహార్
     th: จังหวัดกันดะฮาร์
+    tk: Gandagar
     tr: Kandehar Vilayeti
     uk: Кандагар
     ur: صوبہ قندھار
@@ -1062,6 +1148,10 @@ KAN:
     zh: 坎大哈省
     ccp: "\U00011107\U0001111A\U00011134\U00011118\U00011126\U00011122\U00011134"
     'no': Kandahar
+    sd: قنڌار صوبو
+    uz: Qandahor viloyati
+    yue: 坎大哈省
+    yue_Hans: 坎大哈省
   comments:
   type: province
 KAP:
@@ -1120,6 +1210,7 @@ KAP:
     ta: கபீஸா
     te: కాపిసా
     th: คาปิซา
+    tk: Kapisa
     tr: Kapisa Vilayeti
     uk: Капіса
     ur: صوبہ کاپیسا
@@ -1133,6 +1224,10 @@ KAP:
     ccp: "\U00011107\U0001111B\U00011128\U00011125"
     pa: ਕਾਪੀਸਾ
     'no': Kapisa
+    he: כאפיסא
+    sd: ڪاپيسا صوبو
+    yue: 卡皮沙省
+    yue_Hans: 卡皮沙省
   comments:
   type: province
 KDZ:
@@ -1195,6 +1290,7 @@ KDZ:
     ta: குண்டுஸ் மாகாணம்
     te: కుండుజ్ ప్రావిన్స్
     th: จังหวัดคุนดุซ
+    tk: Kündüz
     tr: Kunduz Vilayeti
     uk: Кундуз
     ur: صوبہ قندوز
@@ -1206,6 +1302,11 @@ KDZ:
     zh: 昆都士省
     ccp: "\U00011107\U0001112A\U0001111A\U00011134\U00011113\U0001112A\U0001110C\U00011134"
     'no': Kunduz
+    ml: കുന്ദൂസ് പ്രവിശ്യ
+    sd: قندوز صوبو
+    uz: Qunduz viloyati
+    yue: 昆都士省
+    yue_Hans: 昆都士省
   comments:
   type: province
 KHO:
@@ -1268,6 +1369,7 @@ KHO:
     ta: கஹோஸ்ட
     te: ఖోస్ట్
     th: โคลส
+    tk: Höst
     tr: Host Vilayeti
     uk: Хост
     ur: صوبہ خوست
@@ -1280,6 +1382,11 @@ KHO:
     ccp: "\U00011108\U0001112E\U00011108\U00011133\U00011111\U00011134"
     pa: ਖੋਸਤ
     'no': Khost
+    he: ח׳וסת
+    sd: خوست صوبو
+    uz: Xust viloyati
+    yue: 荷斯特省
+    yue_Hans: 荷斯特省
   comments:
   type: province
 KNR:
@@ -1338,6 +1445,7 @@ KNR:
     ta: குனர் மாகாணம்
     te: కునార్
     th: จังหวัดโกนาร์
+    tk: Kunar
     tr: Kunar Vilayeti
     uk: Кунар
     ur: صوبہ کنڑ
@@ -1349,6 +1457,11 @@ KNR:
     ccp: "\U00011107\U0001112A\U0001111A\U00011122\U00011134"
     pa: ਕੁਨੜ ਸੂਬਾ
     'no': Konar
+    he: כונר
+    sd: ڪونر صوبو
+    uz: Kunar
+    yue: 古拿省
+    yue_Hans: 古拿省
   comments:
   type: province
 LAG:
@@ -1408,6 +1521,7 @@ LAG:
     ta: லாஃஹ்மான்
     te: లాగ్మన్
     th: แลคห์แมน
+    tk: Lagman
     tr: Lagman Vilayeti
     uk: Лагман
     ur: لاگھمان صوبہ
@@ -1419,6 +1533,10 @@ LAG:
     ccp: "\U00011123\U00011107\U00011134\U0001111F\U00011133\U00011120\U0001111A\U00011134"
     pa: ਲਗਮਾਨ
     'no': Laghman
+    he: לגמאן
+    sd: لغمان صوبو
+    yue: 勒曼省
+    yue_Hans: 勒曼省
   comments:
   type: province
 LOG:
@@ -1476,6 +1594,7 @@ LOG:
     ta: லோகர்
     te: లోగర్
     th: แคว้นโลเรโต
+    tk: Lowgar
     tr: Lovgar Vilayeti
     uk: Логар
     ur: صوبہ لوگر
@@ -1487,6 +1606,10 @@ LOG:
     ccp: "\U00011123\U00011127\U00011109\U00011122\U00011134"
     uz: Luvgar
     'no': Lowgar
+    ml: ലോഗർ പ്രവിശ്യ
+    sd: لوگر صوبو
+    yue: 洛加省
+    yue_Hans: 洛加省
   comments:
   type: province
 NAN:
@@ -1546,6 +1669,7 @@ NAN:
     ta: நாங்கர்ஹர்
     te: నంగర్హార్
     th: นานกาฮาร์
+    tk: Nangarhar
     tr: Nangarhar Vilayeti
     uk: Нангархар
     ur: صوبہ ننگرہار
@@ -1558,6 +1682,11 @@ NAN:
     ccp: "\U0001111A\U00011127\U00011101\U00011109\U00011127\U00011122\U00011134\U00011126\U00011122\U00011134"
     pa: ਨੰਗਰਹਾਰ ਸੂਬਾ
     'no': Nangarhar
+    he: ננגרהאר
+    sd: ننگرھار صوبو
+    uz: Nangarhor
+    yue: 楠格哈省
+    yue_Hans: 楠格哈省
   comments:
   type: province
 NIM:
@@ -1619,6 +1748,7 @@ NIM:
     ta: நிம்ருஸ்
     te: నిమ్రుజ్
     th: นิมรัซ
+    tk: Nimruz
     tr: Nimruz Vilayeti
     uk: Німруз
     ur: صوبہ نیمروز
@@ -1631,6 +1761,11 @@ NIM:
     ccp: "\U0001111A\U00011128\U0001111F\U00011134\U00011122\U0001110C\U00011134"
     pa: ਨੀਮਰੋਜ਼ ਸੂਬਾ
     'no': Nimruz
+    he: נימרוז
+    sd: نيمروز صوبو
+    uz: Nimroz
+    yue: 廉魯茲省
+    yue_Hans: 廉鲁兹省
   comments:
   type: province
 NUR:
@@ -1691,6 +1826,7 @@ NUR:
     ta: நூரிஸ்தான் மாகாணம்
     te: నూరిస్తాన్
     th: จังหวัดนูริสถาน
+    tk: Nurystan
     tr: Nuristan Vilayeti
     uk: Нуристан
     ur: صوبہ نورستان
@@ -1705,6 +1841,12 @@ NUR:
     pa: ਨੂਰਿਸਤਾਨ ਸੂਬਾ
     uz: Nuriston
     'no': Nuristān
+    he: נורסתאן
+    hu: Nurisztán
+    jv: Nuristan
+    sd: نورستان صوبو
+    yue: 努利斯坦省
+    yue_Hans: 努利斯坦省
   comments:
   type: province
 PAN:
@@ -1755,6 +1897,7 @@ PAN:
     sr: Провинција Пањшир
     sv: Panjshir
     ta: பாஞ்ச்சிர் மாகாணம்
+    tk: Panjşir
     tr: Pençşir Vilayeti
     uk: Панджшер
     ur: پنج شیر
@@ -1764,6 +1907,15 @@ PAN:
     ccp: "\U0001111B\U00011110\U00011134\U00011125\U00011128\U00011122\U00011134"
     pa: ਪੰਜਸ਼ਿਰ
     'no': Panjshir
+    cy: Panjshir
+    he: פנג׳שיר
+    id: Provinsi Panjshir
+    kk: Панжшер
+    ml: പഞ്ച്ഷിർ പ്രവിശ്യ
+    sw: Panjshir
+    uz: Panjsher viloyati
+    yue: 班哲斯省
+    yue_Hans: 班哲斯省
   comments:
   type: province
 PAR:
@@ -1824,6 +1976,7 @@ PAR:
     ta: பர்வான் மாகாணம்
     te: పార్వాన్ ప్రావిన్స్
     th: จังหวัดปาร์วาน
+    tk: Parwan
     tr: Parvan Vilayeti
     uk: Парван
     ur: صوبہ پروان
@@ -1835,6 +1988,11 @@ PAR:
     ccp: "\U0001111B\U00011127\U00011122\U00011134\U00011103\U0001112E\U00011120\U0001111A\U00011134"
     pa: ਪਰਵਾਨ
     'no': Parvan
+    he: פרוואן
+    ml: പർവാൻ പ്രവിശ്യ
+    uz: Parvon viloyati
+    yue: 帕灣省
+    yue_Hans: 帕湾省
   comments:
   type: province
 PIA:
@@ -1894,6 +2052,7 @@ PIA:
     ta: பக்தியா
     te: పాక్టియా
     th: จังหวัดปักเตีย
+    tk: Paktiýa
     tr: Paktiya Vilayeti
     uk: Пактія
     ur: پکتیا
@@ -1905,6 +2064,11 @@ PIA:
     ccp: "\U0001111B\U00011107\U00011134\U00011116\U00011128\U00011120"
     pa: ਪਕਤੀਆ
     'no': Paktia
+    he: פכתיא
+    ml: പാക്തിയ പ്രവിശ്യ
+    uz: Paktia viloyati
+    yue: 帕提亞省
+    yue_Hans: 帕提亚省
   comments:
   type: province
 PKA:
@@ -1962,6 +2126,7 @@ PKA:
     ta: பக்திகா
     te: పాక్టికా
     th: ปาคิทคา
+    tk: Paktyka
     tr: Paktika Vilayeti
     uk: Пактика
     ur: صوبہ پکتیکا
@@ -1973,6 +2138,10 @@ PKA:
     ccp: "\U0001111B\U00011107\U00011134\U00011116\U00011128\U00011107"
     pa: ਪਕਤੀਕਾ
     'no': Paktika
+    he: פכתיכא
+    uz: Paktika Province
+    yue: 帕提卡省
+    yue_Hans: 帕提卡省
   comments:
   type: province
 SAM:
@@ -2030,6 +2199,7 @@ SAM:
     ta: சமங்கன்
     te: సమంగాన్
     th: สแมนแกน
+    tk: Samangan
     tr: Samangan Vilayeti
     uk: Саманган
     ur: صوبہ سمنگان
@@ -2041,6 +2211,10 @@ SAM:
     ccp: "\U00011125\U0001111F\U00011127\U0001111A\U00011134\U00011109\U00011133\U00011120\U0001111A\U00011134"
     pa: ਸਮੰਗਾਨ ਸੂਬਾ
     'no': Samangan
+    he: סמנגאן
+    uz: Samangan
+    yue: 沙曼根省
+    yue_Hans: 沙曼根省
   comments:
   type: province
 SAR:
@@ -2100,6 +2274,7 @@ SAR:
     ta: சார் -இ போல்
     te: సర్-ఎ పోల్
     th: จังหวัดซาร์เอโปล
+    tk: Sary Pul
     tr: Sar-i Pol Vilayeti
     uk: Сарі-Пуль
     ur: صوبہ سرپل
@@ -2111,6 +2286,10 @@ SAR:
     ccp: "\U00011125\U00011122\U00011134-\U00011103\U00011128 \U0001111B\U00011127\U00011123\U00011134"
     pa: ਸਰੇ ਪੋਲ
     'no': Sar-e Pol
+    he: סר-י פול
+    uz: Sarupul viloyati
+    yue: 薩亞普省
+    yue_Hans: 萨亚普省
   comments:
   type: province
 TAK:
@@ -2171,6 +2350,7 @@ TAK:
     ta: டகார்
     te: టఖర్
     th: ทัคฮาร์
+    tk: Tahar
     tr: Tahar Vilayeti
     uk: Тахар
     ur: صوبہ تخار
@@ -2182,6 +2362,9 @@ TAK:
     ccp: "\U00011116\U00011127\U00011108\U00011127\U00011122\U00011134"
     pa: ਤਖਾਰ ਸੂਬਾ
     'no': Takhar
+    he: תח׳אר
+    yue: 塔哈省
+    yue_Hans: 塔哈省
   comments:
   type: province
 URU:
@@ -2238,6 +2421,7 @@ URU:
     ta: உரோஸ்க்கான்
     te: యూరోజ్గాన్
     th: จังหวัดอูรานกัน
+    tk: Uruzgan
     tr: Uruzgan Vilayeti
     uk: Урузган
     ur: اروزگان
@@ -2250,6 +2434,11 @@ URU:
     pa: ਓਰੁਜਗਾਨ ਸੂਬਾ
     ml: ഉറോസ്ഗാൻ പ്രവിശ്യ
     'no': Uruzgan
+    he: אורוזגאן
+    sd: اروزگان صوبو
+    uz: Uroʻzgon viloyati
+    yue: 烏魯茲根省
+    yue_Hans: 乌鲁兹根省
   comments:
   type: province
 WAR:
@@ -2309,6 +2498,7 @@ WAR:
     ta: மெய்டன் வார்டாக்
     te: మైడన్ వార్డాక్
     th: เมเดนวอร์ดาก
+    tk: Wardak
     tr: Vardak Vilayeti
     uk: Вардак
     ur: وردک
@@ -2320,6 +2510,10 @@ WAR:
     ccp: "\U0001111F\U00011133\U00011106\U00011113\U00011127\U0001111A\U00011134 \U00011124\U00011122\U00011134\U00011113\U00011127\U00011107\U00011134"
     pa: ਵਾਰਦਾਕ
     'no': Vardak
+    he: מיידאן ורדכ
+    uz: Vardak viloyati
+    yue: 華達省
+    yue_Hans: 华达省
   comments:
   type: province
 ZAB:
@@ -2379,6 +2573,7 @@ ZAB:
     ta: சபிள்
     te: జాబుల్
     th: จังหวัดซาบอล
+    tk: Zabul
     tr: Zabul Vilayeti
     uk: Забуль
     ur: زابل پراونس
@@ -2390,5 +2585,9 @@ ZAB:
     ccp: "\U0001110E\U0001111D\U0001112A\U00011123\U00011134"
     pa: ਜ਼ਾਬੁਲ ਸੂਬਾ
     'no': Zabol
+    he: זאבול
+    sd: زابل صوبو
+    yue: 扎布省
+    yue_Hans: 扎布省
   comments:
   type: province

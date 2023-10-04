@@ -56,6 +56,7 @@ A:
     ta: சால்ட்டா மாகாணம்
     te: సాల్జ్‌టా ప్రావిన్స్
     th: รัฐซัลตา
+    tk: Salta
     tr: Salta eyaleti
     uk: Сальта
     ur: صوبہ سالتا
@@ -66,6 +67,9 @@ A:
     ccp: "\U00011125\U00011123\U00011134\U00011111"
     mk: Салта
     'no': Salta
+    cy: Talaith Salta
+    yue: 薩他省
+    yue_Hans: 萨他省
   comments:
   type: province
 B:
@@ -129,6 +133,7 @@ B:
     ta: பஏனோஸ் ஐரிஸ் மாகாணம்
     te: బుయెనోస్ ఎయిర్స్ ప్రావిన్స్
     th: รัฐบัวโนสไอเรส
+    tk: Buenos Aýres welaýaty
     tr: Buenos Aires eyaleti
     uk: Буенос-Айрес
     ur: صوبہ بیونس آئرس
@@ -143,6 +148,7 @@ B:
     yue: 布宜諾斯艾利斯省
     mk: Буенос Аирес
     'no': Buenos Aires
+    az: Buenos-Ayres əyaləti
   comments:
   type: province
 C:
@@ -301,6 +307,7 @@ D:
     ta: சான் லுயிஸ் மாகாணம்
     te: సాన్ లూయీ ప్రావిన్స్
     th: รัฐซานลุยส์
+    tk: San Luis
     tr: San Luis eyaleti
     uk: Сан-Луїс
     ur: صوبہ سان لوئیس
@@ -313,6 +320,10 @@ D:
     hy: Սան Լուիս
     mk: Сан Луис
     'no': San Luis
+    cy: Talaith San Luis
+    et: San Luisi provints
+    yue: 聖路易斯省
+    yue_Hans: 圣路易斯省
   comments:
   type: province
 E:
@@ -372,6 +383,7 @@ E:
     ta: இன்றே ரியோஸ் மாகாணம்
     te: ఎంట్రి రియోస్ ప్రావిన్స్
     th: รัฐเอนเตรรีโอส
+    tk: Entre Rios
     tr: Entre Ríos eyaleti
     uk: Ентре-Ріос
     ur: صوبہ انترے ریوس
@@ -386,6 +398,8 @@ E:
     az: Entre-Rios
     mk: Ентре Риос
     'no': Entre Ríos
+    yue: 恩特里利奧斯省
+    yue_Hans: 恩特里利奥斯省
   comments:
   type: province
 F:
@@ -445,6 +459,7 @@ F:
     ta: லா ரியோஜ மாகாணம்
     te: లా రియోజా ప్రావిన్స్
     th: รัฐลารีโอคา
+    tk: La Rioha
     tr: La Rioja Eyaleti
     uk: Ла-Ріоха
     ur: لا ریوجا صوبہ، ارجنٹین
@@ -455,6 +470,9 @@ F:
     ccp: "\U00011123 \U00011122\U00011128\U00011103\U0001112E\U0001110E"
     mk: Ла Риоха
     'no': La Rioja
+    cy: Talaith La Rioja
+    yue: 拉里奧哈省
+    yue_Hans: 拉里奥哈省
   comments:
   type: province
 G:
@@ -512,6 +530,7 @@ G:
     ta: சாண்டியாகோ டேல் எஸ்டெரோ மாகாணம்
     te: సాంటియాగో డెల్ ఎస్టెరో ప్రావిన్స్
     th: รัฐซานเตียโกเดลเอสเตโร
+    tk: Santýago del Estero
     tr: Santiago del Estero eyaleti
     uk: Сантьяго-дель-Естеро
     ur: صوبہ سانتیاگو دل استرو
@@ -524,6 +543,8 @@ G:
       \U00011113\U0001112C\U00011123\U00011134 \U00011103\U0001112C\U0001110C\U00011134\U00011111\U00011122\U0001112E"
     mk: Сантјаго дел Естеро
     'no': Santiago del Estero
+    yue: 聖地牙哥－德艾斯特羅省
+    yue_Hans: 圣地牙哥－德艾斯特罗省
   comments:
   type: province
 H:
@@ -586,6 +607,7 @@ H:
     ta: சாகோ மாகாணம்
     te: చాకో ప్రావిన్స్
     th: รัฐชาโก
+    tk: Çako
     tr: Chaco eyaleti
     uk: Чако
     ur: صوبہ چاکو
@@ -656,6 +678,7 @@ J:
     ta: சான் ஜுவான் மாகாணம்
     te: సాన్ జువాన్ ప్రావిన్స్
     th: รัฐซานควน
+    tk: San Huan
     tr: San Juan eyaleti
     uk: Сан-Хуан
     ur: صوبہ سان خوآن، ارجنٹائن
@@ -668,6 +691,9 @@ J:
     hu: San Juan tartomány
     mk: Сан Хуан
     'no': San Juan
+    hy: Սան Խուան
+    yue: 聖環省 (阿根廷)
+    yue_Hans: 圣环省 (阿根廷)
   comments:
   type: province
 K:
@@ -727,6 +753,7 @@ K:
     ta: காட்மார்க்கா மாகாணம்
     te: కాటమార్సా ప్రావిన్స్
     th: รัฐกาตามาร์กา
+    tk: Katamarka
     tr: Catamarca eyaleti
     uk: Катамарка
     ur: صوبہ کاتامارکا
@@ -800,6 +827,7 @@ L:
     ta: லா பம்பா மாகாணம்
     te: లా పాంపా ప్రావిన్స్
     th: รัฐลาปัมปา
+    tk: La Pampa
     tr: La Pampa eyaleti
     uk: Ла-Пампа
     ur: لا پامپا صوبہ
@@ -811,6 +839,8 @@ L:
     ccp: "\U00011123 \U0001111B\U0001111F\U00011134\U0001111B"
     mk: Ла Пампа
     'no': La Pampa
+    yue: 拉班帕省
+    yue_Hans: 拉班帕省
   comments:
   type: province
 M:
@@ -871,6 +901,7 @@ M:
     ta: மென்டோஜா மாகாணம்
     te: మెండోజా ప్రావిన్స్
     th: รัฐเมนโดซา
+    tk: Mendoza
     tr: Mendoza eyaleti
     uk: Мендоса
     ur: صوبہ مندوسا
@@ -885,6 +916,7 @@ M:
     yue: 曼度莎省
     mk: Мендоза
     'no': Mendoza
+    hy: Մենդոսա
   comments:
   type: province
 N:
@@ -942,6 +974,7 @@ N:
     ta: மிசியோன்ஸ் மாகாணம்
     te: మిసియోనెస్ ప్రావిన్స్
     th: รัฐมีซีโอเนส
+    tk: Misiones
     tr: Misiones eyaleti
     uk: Місьйонес
     ur: صوبہ میسیونس
@@ -955,6 +988,8 @@ N:
     hu: Misiones tartomány
     mk: Мисионес
     'no': Misiones
+    yue: 美斯奧尼斯省 (阿根廷)
+    yue_Hans: 美斯奥尼斯省 (阿根廷)
   comments:
   type: province
 P:
@@ -1013,6 +1048,7 @@ P:
     ta: போர்மொஸா மாகாணம்
     te: ఫోర్మోసా ప్రావిన్స్
     th: รัฐฟอร์โมซา
+    tk: Formosa
     tr: Formosa eyaleti
     uk: Формоса
     ur: صوبہ فورموسا
@@ -1024,6 +1060,8 @@ P:
     ccp: "\U0001111C\U00011127\U00011122\U00011134\U0001111F\U00011127\U00011125"
     mk: Формоза
     'no': Formosa
+    yue: 福爾摩沙省
+    yue_Hans: 福尔摩沙省
   comments:
   type: province
 Q:
@@ -1084,6 +1122,7 @@ Q:
     ta: னேஉயூன் மாகாணம்
     te: న్యూక్వెన్ ప్రావిన్స్
     th: รัฐเนวเกน
+    tk: Neuken
     tr: Neuquén eyaleti
     uk: Неукен
     ur: صوبہ نیوکوین
@@ -1155,6 +1194,7 @@ R:
     ta: ரியோ நெகிறோ மாகாணம்
     te: రియో నెగ్రో ప్రావిన్స్
     th: รัฐรีโอเนโกร
+    tk: Rio Negro
     tr: Río Negro eyaleti
     uk: Ріо-Неґро
     ur: صوبہ ریو نیگرو
@@ -1167,6 +1207,8 @@ R:
     hy: Ռիո Նեգրո պրովինցիա
     mk: Рио Негро
     'no': Río Negro
+    yue: 尼格路河省 (阿根廷)
+    yue_Hans: 尼格路河省 (阿根廷)
   comments:
   type: province
 S:
@@ -1224,6 +1266,7 @@ S:
     ta: சாண்டா பி மாகாணம்
     te: సాంటా ఫె ప్రావిన్స్
     th: รัฐซานตาเฟ
+    tk: Santa Fe
     tr: Santa Fe eyaleti
     uk: Санта-Фе
     ur: صوبہ سانتا فے
@@ -1237,6 +1280,9 @@ S:
     bs: Santa Fe
     mk: Санта Фе
     'no': Santa Fe
+    az: Sante Fe əyaləti
+    yue: 聖大非省
+    yue_Hans: 圣大非省
   comments:
   type: province
 T:
@@ -1295,6 +1341,7 @@ T:
     ta: டுக்குமன் மாகாணம்
     te: టూకుమన్ ప్రావిన్స్
     th: รัฐตูกูมัน
+    tk: Tukuman
     tr: Tucumán eyaleti
     uk: Тукуман
     ur: صوبہ توکومان
@@ -1305,6 +1352,10 @@ T:
     ccp: "\U00011111\U00011107\U00011128\U00011105\U0001112A\U0001111F\U00011133\U00011120\U0001111A\U00011134"
     mk: Тукуман
     'no': Tucumán
+    cy: Talaith Tucumán
+    hy: Տուկուման
+    yue: 圖古曼省
+    yue_Hans: 图古曼省
   comments:
   type: province
 U:
@@ -1367,6 +1418,7 @@ U:
     ta: சுபுட் மாகாணம்
     te: ఛుబుట్ ప్రావిన్స్
     th: รัฐชูบุต
+    tk: Çubut
     tr: Chubut eyaleti
     uk: Чубут
     ur: صوبہ چوبوت
@@ -1380,6 +1432,7 @@ U:
     yue: 朱拔省
     mk: Чубут
     'no': Chubut
+    et: Chubuti provints
   comments:
   type: province
 V:
@@ -1440,6 +1493,7 @@ V:
     ta: டியெர்ரா டெல் பியூயகோ மாகாணம்
     te: టియెరా డెల్ పుయెగో ప్రావిన్స్
     th: รัฐเตียร์ราเดลฟวยโก
+    tk: Tierra del Fuego, Antarktida we Günorta Atlantika adalary
     tr: Tierra del Fuego
     uk: Вогняна Земля, Антарктида та острови Південної Атлантики
     ur: صوبہ تیئرا دل فوئگو، ارجنٹائن
@@ -1452,6 +1506,8 @@ V:
       \U0001111C\U00011128\U00011105\U0001112A\U00011109\U0001112E"
     mk: Огнена Земја, Антарктика и Јужни Атлантски Острови
     'no': Tierra del Fuego, Antártida e Islas del Atlántico Sur
+    yue: 火地省 (阿根廷)
+    yue_Hans: 火地省 (阿根廷)
   comments:
   type: province
 W:
@@ -1510,6 +1566,7 @@ W:
     ta: கரிஎண்ட்ஸ்
     te: కోరియెంటెస్
     th: รัฐกอร์เรียนเตส
+    tk: Koriýentes
     tr: Corrientes eyaleti
     uk: Коррієнтес
     ur: صوبہ کورینتس
@@ -1521,6 +1578,8 @@ W:
     ccp: "\U00011107\U00011127\U00011122\U00011128\U00011120\U0001112C\U0001111A\U00011134\U00011111\U0001110C\U00011134"
     mk: Кориентес
     'no': Corrientes
+    yue: 高連特斯省
+    yue_Hans: 高连特斯省
   comments:
   type: province
 X:
@@ -1580,6 +1639,7 @@ X:
     ta: கோர்டோபா மாகாணம்
     te: కార్డోబా ప్రావిన్స్
     th: รัฐกอร์โดบา
+    tk: Kordoba
     tr: Córdoba eyaleti
     uk: Кордова
     ur: صوبہ کوردوبا، ارجنٹائن
@@ -1594,6 +1654,8 @@ X:
     yue: 哥多華省
     mk: Кордоба
     'no': Córdoba
+    az: Kordoba
+    sl: Córdoba
   comments:
   type: province
 Y:
@@ -1654,6 +1716,7 @@ Y:
     ta: ஜூஜூய் மாகாணம்
     te: జుజూయ్ ప్రావిన్స్
     th: รัฐคูคุย
+    tk: Žužuý
     tr: Jujuy eyaleti
     uk: Жужуй
     ur: صوبہ خوخوئی
@@ -1664,6 +1727,11 @@ Y:
     ccp: "\U0001110E\U0001112A\U0001110E\U00011127\U00011120\U00011134"
     mk: Хухуј
     'no': Jujuy
+    cy: Talaith Jujuy
+    ps: خوخوی
+    sl: Jujuy
+    yue: 胡胡伊省
+    yue_Hans: 胡胡伊省
   comments:
   type: province
 Z:
@@ -1725,6 +1793,7 @@ Z:
     ta: சாண்டா கிருஸ் மாகாணம்
     te: శాంటా క్రజ్ ప్రావిన్స్
     th: รัฐซานตากรุซ
+    tk: Santa Kruz
     tr: Santa Cruz
     uk: Санта-Крус
     ur: صوبہ سانتا کروز، ارجنٹائن

@@ -65,6 +65,7 @@
     ta: வின்னிட்ஸ்யா ஒப்ளாஸ்ட்
     te: విన్నిట్సియా ఓబ్లాస్ట్
     th: จังหวัดซานมีเกล
+    tk: Winnitsa
     tr: Vinnitsa Oblastı
     uk: Вінницька область
     ur: وینیتسیا اوبلاست
@@ -78,6 +79,8 @@
     bs: Vinička oblast
     mk: Виницка област
     'no': Vinnytsia oblast
+    yue: 文尼察州
+    yue_Hans: 文尼察州
   comments:
   type: region
 '07':
@@ -142,6 +145,7 @@
     ta: வோலின் ஒப்ளாஸ்ட்
     te: వోలిన్ ఓబ్లాస్ట్
     th: โวลน์ โอแบลส
+    tk: Wolyn
     tr: Volın Oblastı
     uk: Волинська область
     ur: ولین اوبلاست
@@ -155,6 +159,10 @@
     bs: Volinjska oblast
     mk: Волинска област
     'no': Volyn oblast
+    sd: وولن اوبلاسٽ
+    sl: Volinska oblast
+    yue: 沃倫州
+    yue_Hans: 沃伦州
   comments:
   type: region
 '09':
@@ -223,6 +231,7 @@
     ta: லுஹான்ஸ்க் ஒப்ளாஸ்ட்
     te: లూహాంక్స్ ఓబ్లాస్ట్
     th: ลูฮันซก อบลาส
+    tk: Lugansk
     tr: Luhansk Oblastı
     uk: Луганська область
     ur: لوہانسک اوبلاست
@@ -236,6 +245,11 @@
     uz: Lugansk viloyati
     mk: Луганска област
     'no': Luhansk oblast
+    bs: Luganska oblast
+    is: Lúhanska Oblast
+    sq: Rajoni i Luhanskut
+    yue: 盧甘斯克州
+    yue_Hans: 卢甘斯克州
   comments:
   type: region
 '12':
@@ -303,6 +317,7 @@
     ta: டணிப்ரோபெட்ரோவ்ஸ்க் ஒப்ளாஸ்ட்
     te: డినెప్రొపెట్రోవస్క్ ఓబ్లాస్ట్
     th: ดเนโปรเปตรอฟสก์ โอบลาส
+    tk: Dnepropetrowsk
     tr: Dnipropetrovsk Oblastı
     uk: Дніпропетровська область
     ur: دنیپروپیترووسک اوبلاست
@@ -315,6 +330,9 @@
     bs: Dnjipropetrovska oblast
     mk: Днепропетровска област
     'no': Dnipropetrovsk oblast
+    is: Dníprópetrovskfylki
+    yue: 第聶伯羅彼得羅夫斯克州
+    yue_Hans: 第聂伯罗彼得罗夫斯克州
   comments:
   type: region
 '14':
@@ -380,6 +398,7 @@
     ta: டநிட்ஸ்க் ஒப்ளாஸ்ட்
     te: డానెస్క్
     th: โดเนตสค์
+    tk: Donetsk
     tr: Donetsk Oblastı
     uk: Донецька область
     ur: دونیتسک اوبلاست
@@ -393,6 +412,10 @@
     uz: Donetsk viloyati
     mk: Донечка област
     'no': Donetsk oblast
+    bs: Donjecka oblast
+    is: Donetska Oblast
+    kk: Донецк облысы
+    sl: Donecka oblast
   comments:
   type: region
 '18':
@@ -458,6 +481,7 @@
     ta: ழயடோமிர் ஒப்ளாஸ்ட்
     te: జైటోమిర్ ఓబ్లాస్ట్
     th: ไซทอม เบลส
+    tk: Žitomir
     tr: Jitomir Oblastı
     uk: Житомирська область
     ur: ژیتومیر اوبلاست
@@ -471,6 +495,9 @@
     bs: Žitomirska oblast
     mk: Житомирска област
     'no': Zjytomyr oblast
+    sl: Žitomirska oblast
+    yue: 日托米爾州
+    yue_Hans: 日托米尔州
   comments:
   type: region
 '21':
@@ -536,6 +563,7 @@
     ta: சக்கர்பட்டிய ஓப்ளாஸ்ட்
     te: జకార్పాటియా ఓబ్లాస్ట్
     th: มณฑลซาคาร์แพทเทีย
+    tk: Zakarpatýe
     tr: Zakarpatya Oblastı
     uk: Закарпатська область
     ur: زاکارپتیا اوبلاست
@@ -549,6 +577,9 @@
     bs: Zakarpatska oblast
     mk: Закарпатска област
     'no': Zakarpattja oblast
+    gl: Óblast de Zakarpatia
+    yue: 外喀爾巴阡州
+    yue_Hans: 外喀尔巴阡州
   comments:
   type: region
 '23':
@@ -616,6 +647,7 @@
     ta: சபோரிலலயா ஒப்ளாஸ்ட்
     te: జాపొరీజిహియా ఓబ్లాస్ట్
     th: รัฐซานควน
+    tk: Zaporožýe
     tr: Zaporijya Oblastı
     uk: Запорізька область
     ur: زابروژیا اوبلاست
@@ -629,6 +661,9 @@
     bs: Zaporiška oblast
     mk: Запорошка област
     'no': Zaporizjzja oblast
+    sl: Zaporoška oblast
+    yue: 扎波羅熱州
+    yue_Hans: 扎波罗热州
   comments:
   type: region
 '26':
@@ -672,6 +707,7 @@
     hy: Իվանո-Ֆրանկովսկի մարզ
     id: Oblast Ivano-Frankivsk
     it: Oblast’ di Ivano-Frankivs’k
+    ja: イヴァーノ＝フランキーウシク州
     ka: ივანო-ფრანკოვსკის ოლქი
     kn: ಇವಾನೋ-ಫ್ರಾಂಕಿವ್ಸ್ಕ್ ಒಬ್ಲಾಸ್ಟ್
     ko: 이바노프란키우스크 주
@@ -693,6 +729,7 @@
     ta: இவனோ -பிரான்கிவ்ஸ்க் ஒப்ளாஸ்ட்
     te: ఇవానో-ఫ్రాంకివస్క్ ఓబ్లాస్ట్
     th: อีวาโนฟรังคีฟสค์
+    tk: Iwano-Frankowsk
     tr: İvano-Frankivsk Oblastı
     uk: Івано-Франківська область
     ur: ایوانو-فرانکیوسک اوبلاست
@@ -705,6 +742,8 @@
     bs: Ivano-Frankivska oblast
     mk: Ивано-Франковска област
     'no': Ivano-Frankivsk oblast
+    yue: 伊萬諾-弗蘭科夫斯克州
+    yue_Hans: 伊万诺-弗兰科夫斯克州
   comments:
   type: region
 '30':
@@ -803,6 +842,12 @@
     mk: Киев
     'no': Kiev
     yo_BJ: Kiev
+    ha: Kiev
+    ha_NE: Kiev
+    km: កៀវ
+    lo: ຄີຟ
+    ne: किभ
+    sd: ڪيف
   comments:
   type: city
 '32':
@@ -867,6 +912,7 @@
     ta: கிளிவ் ஒப்ளாஸ்ட்
     te: ఖ్యివ్
     th: เมืองหลวงเคียฟ
+    tk: Kiýew oblasty
     tr: Kiev Oblastı
     uk: Київська область
     ur: کیف اوبلاست
@@ -879,6 +925,10 @@
     bs: Kijevska oblast
     mk: Киевска област
     'no': Kiev oblast
+    kk: Киев облысы
+    sl: Kijevska oblast
+    yue: 基輔州
+    yue_Hans: 基辅州
   comments:
   type: region
 '35':
@@ -944,6 +994,7 @@
     ta: கிரோவோஹ்ராட் ஒப்ளாஸ்ட்
     te: కిరోవోహ్రాడ్ ఓబ్లాస్ట్
     th: จังหวัดคีโรโวฮราด
+    tk: Kirowograd
     tr: Kirovograd Oblastı
     uk: Кіровоградська область
     ur: کیرووہراد اوبلاست
@@ -956,6 +1007,9 @@
     bs: Kirovogradska oblast
     mk: Кировоградска област
     'no': Kirovohrad oblast
+    sl: Kirovogradska oblast
+    yue: 基洛沃格勒州
+    yue_Hans: 基洛沃格勒州
   comments:
   type: region
 '40':
@@ -1043,6 +1097,9 @@
     bs: Sevastopolj
     mk: Севастопол
     'no': Sevastopol
+    ga: Sevastopol
+    kk: Ақиар
+    sd: سيواستوپول
   comments:
   type: city
 '43':
@@ -1105,6 +1162,7 @@
     ta: கிரிமியா தன்னாட்சிக் குடியரசு
     te: క్రిమియా
     th: สาธารณรัฐปกครองตนเองไครเมีย
+    tk: Awtonom Respublikasy Krym
     tr: Kırım Özerk Cumhuriyeti
     uk: Автономна Республіка Крим
     ur: خود مختار جمہوریہ کریمیا
@@ -1124,7 +1182,6 @@
     uz: Qrim Muxtor Respublikasi
     bs: Autonomna Republika Krim
     mk: Автономна Република Крим
-    tk: Awtonom Respublikasy Krym
     'no': Den autonome republikken Krim
   comments:
   type: republic
@@ -1191,6 +1248,7 @@
     ta: லிவிவ் ஒப்ளாஸ்ட்
     te: లెవివ్ ఓబ్లాస్ట్
     th: ลิว อ๊ปลาส
+    tk: Lwiw sebiti
     tr: Lviv Oblastı
     uk: Львівська область
     ur: لویئو اوبلاست
@@ -1203,6 +1261,9 @@
     bs: Lavovska oblast
     mk: Лавовска област
     'no': Lviv oblast
+    sl: Lvovska oblast
+    yue: 利維夫州
+    yue_Hans: 利维夫州
   comments:
   type: region
 '48':
@@ -1269,6 +1330,7 @@
     ta: மிக்கோளைவ் ஒப்ளாஸ்ட்
     te: మైకోలావ్ ఓబ్లాస్ట్
     th: จังหวัดนิโคลาเยฟ
+    tk: Nikolaýew
     tr: Mıkolayiv Oblastı
     uk: Миколаївська область
     ur: میکولائیو اوبلاست
@@ -1282,6 +1344,9 @@
     bs: Mikolajivska oblast
     mk: Николаевска област
     'no': Mykolajiv oblast
+    gl: Rexión de Mykolaiv
+    yue: 尼古拉耶夫州
+    yue_Hans: 尼古拉耶夫州
   comments:
   type: region
 '51':
@@ -1348,6 +1413,7 @@
     ta: ஒடிசா ஒப்ளாஸ்ட்
     te: ఒడెస్సా ఓబ్లాస్ట్
     th: โอเดสซา
+    tk: Odessa
     tr: Odessa Oblastı
     uk: Одеська область
     ur: اودیسا اوبلاست
@@ -1361,6 +1427,9 @@
     bs: Odeska oblast
     mk: Одеска област
     'no': Odessa oblast
+    ky: Одесса областы
+    yue: 奧迪沙州
+    yue_Hans: 奥迪沙州
   comments:
   type: region
 '53':
@@ -1426,6 +1495,7 @@
     ta: போல்ட்டாவா ஓப்ளாஸ்ட்
     te: పోల్టావా ఓబ్లాస్ట్
     th: มณฑลโพล์ทาวา
+    tk: Poltawa
     tr: Poltava Oblastı
     uk: Полтавська область
     ur: پولتاوا اوبلاست
@@ -1439,6 +1509,9 @@
     bs: Poltavska oblast
     mk: Полтавска област
     'no': Poltava oblast
+    sl: Poltavska oblast
+    yue: 波爾塔瓦州
+    yue_Hans: 波尔塔瓦州
   comments:
   type: region
 '56':
@@ -1504,6 +1577,7 @@
     ta: ரிவனே ஒப்ளாஸ்ட்
     te: రివ్నె ఓబ్లాస్ట్
     th: จังหวัดริฟเน
+    tk: Rowne
     tr: Rivne Oblastı
     uk: Рівненська область
     ur: ریونہ اوبلاست
@@ -1517,6 +1591,9 @@
     bs: Rivanjska oblast
     mk: Ровненска област
     'no': Rivne oblast
+    hu: Rivnei terület
+    yue: 羅夫諾州
+    yue_Hans: 罗夫诺州
   comments:
   type: region
 '59':
@@ -1582,6 +1659,7 @@
     ta: சுமி ஒப்ளாஸ்ட்
     te: సుమీ ఓబ్లాస్ట్
     th: เขตปกครองซูมี
+    tk: Sumy
     tr: Sumi Oblastı
     uk: Сумська область
     ur: سومی اوبلاست
@@ -1595,6 +1673,9 @@
     bs: Sumska oblast
     mk: Сумска област
     'no': Sumy oblast
+    is: Sumska oblast (hérað)
+    yue: 蘇梅州
+    yue_Hans: 苏梅州
   comments:
   type: region
 '61':
@@ -1661,6 +1742,7 @@
     ta: டெர்னோபிள் ஒப்ளாஸ்ட்
     te: టెర్నోపోలి మున్సిపాలిటీ
     th: เทอโนพิล โอเบลส
+    tk: Ternopol
     tr: Ternopil Oblastı
     uk: Тернопільська область
     ur: تیرنوپیل اوبلاست
@@ -1673,6 +1755,10 @@
     bs: Ternopiljska oblast
     mk: Тернополска област
     'no': Ternopil oblast
+    is: Ternopílska oblast
+    sl: Ternopilska oblast
+    yue: 捷爾諾波爾州
+    yue_Hans: 捷尔诺波尔州
   comments:
   type: region
 '63':
@@ -1739,6 +1825,7 @@
     ta: கார்க்கிவ் ஒப்ளாஸ்ட்
     te: హార్కివ్ ఓబ్లాస్ట్
     th: คาร์คิฟ
+    tk: Harkow
     tr: Harkiv Oblastı
     uk: Харківська область
     ur: خارکیو اوبلاست
@@ -1751,6 +1838,9 @@
     bs: Harkivska oblast
     mk: Харковска област
     'no': Kharkiv oblast
+    sl: Harkovska oblast
+    yue: 哈爾科夫州
+    yue_Hans: 哈尔科夫州
   comments:
   type: region
 '65':
@@ -1817,6 +1907,7 @@
     ta: க்ஹெர்சோன் ஒப்ளாஸ்ட்
     te: ఖెర్సన్ ఓబ్లాస్ట్
     th: มณฑลเคอร์ซัน
+    tk: Herson
     tr: Herson Oblastı
     uk: Херсонська область
     ur: خیرسون اوبلاست
@@ -1830,6 +1921,8 @@
     bs: Hersonska oblast
     mk: Херсонска област
     'no': Kherson oblast
+    yue: 赫爾松州
+    yue_Hans: 赫尔松州
   comments:
   type: region
 '68':
@@ -1896,6 +1989,7 @@
     ta: க்ஹமெளனிட்ஸ்க் ஓப்ளாஸ்ட்
     te: ఖ్మెల్నిట్స్కీ ఓబ్లాస్ట్
     th: มณฑลฮเมลนิซกี
+    tk: Hmelnitskiý
     tr: Hmelnitski Oblastı
     uk: Хмельницька область
     ur: خمیلنیتسکی اوبلاست
@@ -1909,6 +2003,9 @@
     bs: Hmeljnička oblast
     mk: Хмелницка област
     'no': Khmelnytskyj oblast
+    sd: کميل نٽسڪاء اوبلاسٽ
+    yue: 赫梅利尼茨基州
+    yue_Hans: 赫梅利尼茨基州
   comments:
   type: region
 '71':
@@ -1974,6 +2071,7 @@
     ta: சேர்க்கஸி ஒப்ளாஸ்ட்
     te: చెర్కేసీ ఓబ్లాస్ట్
     th: แคว้นปกครองเชียร์คาซี
+    tk: Çerkassy
     tr: Çerkası Oblastı
     uk: Черкаська область
     ur: چیرکاسی اوبلاست
@@ -1989,6 +2087,8 @@
     bs: Čerkaška oblast
     mk: Черкаска област
     'no': Tsjerkasy oblast
+    yue: 切爾卡瑟州
+    yue_Hans: 切尔卡瑟州
   comments:
   type: region
 '74':
@@ -2054,6 +2154,7 @@
     ta: செர்னிஹிவ் ஒப்ளாஸ்ட்
     te: చెర్నివ్ ఓబ్లాస్ట్
     th: จังหวัดเชียร์นีฮิฟ
+    tk: Çernigow
     tr: Çernigov Oblastı
     uk: Чернігівська область
     ur: چیرنیہیو اوبلاست
@@ -2066,6 +2167,9 @@
     bs: Černigivska oblast
     mk: Черниговска област
     'no': Tsjernihiv oblast
+    sl: Černigovska oblast
+    yue: 切爾尼戈夫州
+    yue_Hans: 切尔尼戈夫州
   comments:
   type: region
 '77':
@@ -2135,6 +2239,7 @@
     ta: செர்னிவடசி ஓப்ளாஸ்ட்
     te: చెర్నివట్సీ ఓబ్లాస్ట్
     th: มณฑลเชอร์เนฟฟี
+    tl: Çernowtsy
     tr: Çernovtsi Oblastı
     uk: Чернівецька область
     ur: چیرنیوتسی اوبلاست
@@ -2149,5 +2254,7 @@
     bs: Černivačka oblast
     mk: Черновечка област
     'no': Tsjernivtsi oblast
+    yue: 切爾諾夫策州
+    yue_Hans: 切尔诺夫策州
   comments:
   type: region

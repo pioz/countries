@@ -76,6 +76,8 @@
     yue: 安
     az: En (departament)
     'no': Ain
+    ga: Ain
+    mk: Ен
   comments:
   type: metropolitan_department
 '02':
@@ -155,6 +157,8 @@
     az: Ena departamenti
     mk: Ена
     'no': Aisne
+    ga: Aisne
+    ml: അൽസ്നെ
   comments:
   type: metropolitan_department
 '03':
@@ -234,6 +238,7 @@
     yue: 阿列
     az: Alye
     'no': Allier
+    mk: Алје
   comments:
   type: metropolitan_department
 '04':
@@ -273,6 +278,7 @@
     hy: Վերին Ալպերի Պրովանս
     id: Alpes-de-Haute-Provence
     it: Alpi dell’Alta Provenza
+    ja: アルプ＝ド＝オート＝プロヴァンス県
     ka: ზემო პროვანსის ალპები
     kn: ಆಲ್ಪೆಸ್-ಡಿ-ಹಾಟೆ-ಪ್ರೊವೆನ್ಸ್
     ko: 알프드오트프로방스 주
@@ -350,6 +356,7 @@
     hy: Վերին Ալպեր
     id: Hautes-Alpes
     it: Alte Alpi
+    ja: オート＝アルプ県
     ka: ზემო ალპები
     kn: ಹೌಟೆಸ್-ಆಲ್ಪ್ಸ್
     ko: 오트잘프 주
@@ -387,6 +394,7 @@
     yue: 上阿爾卑斯
     az: Yuxarı Alplar
     'no': Hautes-Alpes
+    mk: Горни Алпи
   comments:
   type: metropolitan_department
 '06':
@@ -427,6 +435,7 @@
     hy: Ծովափնյա Ալպեր
     id: Alpes-Maritimes
     it: Alpi Marittime
+    ja: アルプ＝マリティーム県
     ka: ზღვისპირა ალპები
     kn: ಆಲ್ಪೆಸ್-ಮಾರಿಟೈಮ್ಸ್
     ko: 알프마리팀 주
@@ -698,6 +707,7 @@
     yue: 阿列日
     az: Aryej
     'no': Ariège
+    mk: Арјеж
   comments:
   type: metropolitan_department
 '10':
@@ -855,6 +865,7 @@
     yue: 奧德
     az: Od (departament)
     'no': Aude
+    mk: Од
   comments:
   type: metropolitan_department
 '12':
@@ -972,6 +983,7 @@
     hy: Բուշ-դյու-Ռոն
     id: Bouches-du-Rhône
     it: Bocche del Rodano
+    ja: ブーシュ＝デュ＝ローヌ県
     ka: ბუშ-დიუ-რონი
     kn: ಬೌಚೆಸ್-ಡು-ರೋನ್
     ko: 부슈뒤론 주
@@ -1009,6 +1021,7 @@
     yue: 隆河河口
     az: Buş-dü-Ron
     'no': Bouches-du-Rhône
+    mk: Устие на Рона
   comments:
   type: metropolitan_department
 '14':
@@ -1087,6 +1100,9 @@
     kk: Кальвадос
     yue: 卡爾華多斯
     'no': Calvados
+    ga: Calvados
+    mk: Калвадос
+    ml: കാൽവഡോസ്
   comments:
   type: metropolitan_department
 '15':
@@ -1164,6 +1180,7 @@
     yue: 康塔爾
     az: Kantal
     'no': Cantal
+    mk: Кантал
   comments:
   type: metropolitan_department
 '16':
@@ -1241,6 +1258,7 @@
     yue: 沙藍特
     az: Şaranta (departament)
     'no': Charente
+    mk: Шаранта
   comments:
   type: metropolitan_department
 '17':
@@ -1280,6 +1298,7 @@
     hy: Ծովափնյա Շարանտ
     id: Charente-Maritime
     it: Charente Marittima
+    ja: シャラント＝マリティーム県
     ka: ზღვისპირა შარანტა
     kn: ಚರೆನ್ಟೆ-ಮಾರಿಟೈಮ್
     ko: 샤랑트마리팀 주
@@ -1395,6 +1414,8 @@
     yue: 些爾
     az: Şer (departament)
     'no': Cher
+    he: שר (מחוז)
+    mk: Шер
   comments:
   type: metropolitan_department
 '19':
@@ -1472,6 +1493,7 @@
     yue: 科雷茲
     az: Korrez
     'no': Corrèze
+    mk: Корез
   comments:
   type: metropolitan_department
 20R:
@@ -1553,6 +1575,8 @@
     mk: Корзика
     ha_NE: Korsika
     'no': Korsika
+    mn: Корсика
+    my: ကော်စီကာ
   comments:
   geo:
     latitude: 42.180721
@@ -1594,6 +1618,7 @@
     hu: Côte-d’Or
     id: Côte-d’Or
     it: Côte-d’Or
+    ja: コート＝ドール県
     kn: ಕೋಟ್-ಡಿ‘ಒರ್
     ko: 코트도르 주
     lt: Kot d’Oras
@@ -1672,6 +1697,7 @@
     id: Côtes-d’Armor
     is: Côtes-d’Armor
     it: Côtes-d’Armor
+    ja: コート＝ダルモール県
     kn: ಕೋಟ್ಸ್-ಡಿಆರ್ಮರ್
     ko: 코트다르모르 주
     lt: Kot d’Armoras
@@ -1707,6 +1733,7 @@
     yue: 阿摩爾濱海
     az: Kot-d’Armor
     'no': Côtes-d’Armor
+    mk: Арморски Брег
   comments:
   type: metropolitan_department
 '23':
@@ -1784,6 +1811,7 @@
     yue: 克勒茲
     az: Kröz
     'no': Creuse
+    mk: Крез
   comments:
   type: metropolitan_department
 '24':
@@ -1862,6 +1890,8 @@
     az: Dordon
     mk: Дордоња
     'no': Dordogne
+    ga: Dordogne
+    ml: ഡോർഡോഗ്നെ
   comments:
   type: metropolitan_department
 '25':
@@ -1939,6 +1969,8 @@
     yue: 杜
     az: Du (departament)
     'no': Doubs
+    ga: Doubs
+    mk: Ду
   comments:
   type: metropolitan_department
 '26':
@@ -2016,6 +2048,7 @@
     yue: 德龍
     az: Drom (departament)
     'no': Drôme
+    mk: Дром
   comments:
   type: metropolitan_department
 '27':
@@ -2093,6 +2126,7 @@
     az: Er (departament)
     mk: Ер
     'no': Eure
+    ga: Eure
   comments:
   type: metropolitan_department
 '28':
@@ -2133,6 +2167,7 @@
     id: Eure-et-Loir
     is: Eure-et-Loir
     it: Eure-et-Loir
+    ja: ウール＝エ＝ロワール県
     ka: ერი და ლუარი
     kn: ಯುರೆ-ಎಟ್-ಲೋಯಿರ್
     ko: 외르에루아르 주
@@ -2250,6 +2285,7 @@
     az: Finister
     mk: Финистер
     'no': Finistère
+    mn: Финистер (департамент)
   comments:
   type: metropolitan_department
 2A:
@@ -2289,6 +2325,7 @@
     hy: Հարավային Կորսիկա
     id: Corse-du-Sud
     it: Corsica del Sud
+    ja: コルス＝デュ＝シュド県
     ka: სამხრეთი კორსიკა
     kn: ಕೋರ್ಸ್-ಡು-ಸುಡ್
     ko: 코르스뒤쉬드 주
@@ -2327,6 +2364,8 @@
     yue: 南歌斯嘉
     az: Cənubi Korsika
     'no': Corse-du-Sud
+    ga: Corse-du-Sud
+    mk: Јужна Корзика
   comments:
   type: metropolitan_department
 2B:
@@ -2366,6 +2405,7 @@
     hy: Վերին Կորսիկա
     id: Haute-Corse
     it: Alta Corsica
+    ja: オート＝コルス県
     ka: ჩრდილოეთი კორსიკა
     kn: ಹಾಟ್-ಕೋರ್ಸ್
     ko: 오트코르스 주
@@ -2404,6 +2444,8 @@
     yue: 上歌斯嘉
     az: Yuxarı Korsika
     'no': Haute-Corse
+    ga: Haute-Corse
+    mk: Горна Корзика
   comments:
   type: metropolitan_department
 '30':
@@ -2481,6 +2523,7 @@
     yue: 加爾
     az: Qar (departament)
     'no': Gard
+    mk: Гар
   comments:
   type: metropolitan_department
 '31':
@@ -2519,6 +2562,7 @@
     hy: Վերին Գարոն
     id: Haute-Garonne
     it: Alta Garonna
+    ja: オート＝ガロンヌ県
     ka: ზემო გარონა
     kn: ಹೌಟೆ-ಗ್ಯಾರೋನೆ
     ko: 오트가론 주
@@ -2556,6 +2600,9 @@
     kk: Жоғарғы Гаронна
     yue: 上加龍
     'no': Haute-Garonne
+    az: Yuxarı Qaronna
+    ga: Haute-Garonne
+    mk: Горна Гарона
   comments:
   type: metropolitan_department
 '32':
@@ -2632,6 +2679,10 @@
     kk: Жер
     yue: 熱爾
     'no': Gers
+    am: ዠርስ
+    az: Jer (departament)
+    ga: Gers
+    mk: Жер
   comments:
   type: metropolitan_department
 '33':
@@ -2790,6 +2841,8 @@
     bs: Hérault
     mk: Еро
     'no': Hérault
+    az: Ero (departament)
+    ga: Hérault
   comments:
   type: metropolitan_department
 '35':
@@ -2830,6 +2883,7 @@
     id: Ille-et-Vilaine
     is: Ille-et-Vilaine
     it: Ille-et-Vilaine
+    ja: イル＝エ＝ヴィレーヌ県
     ka: ილი და ვილენი
     kn: ಇಲೆ-ಎಟ್-ವಿಲೇನ್
     ko: 일에빌렌 주
@@ -2866,6 +2920,9 @@
     kk: Иль және Вилен
     yue: 伊勒-維萊訥
     'no': Ille-et-Vilaine
+    az: İl və Vilen
+    ga: Ille-et-Vilaine
+    mk: Ил и Вилен
   comments:
   type: metropolitan_department
 '36':
@@ -2944,6 +3001,7 @@
     yue: 安德爾
     az: Endr
     'no': Indre
+    mk: Ендр
   comments:
   type: metropolitan_department
 '37':
@@ -2983,6 +3041,7 @@
     id: Indre-et-Loire
     is: Indre-et-Loire
     it: Indre e Loira
+    ja: アンドル＝エ＝ロワール県
     ka: ენდრი და ლუარა
     kn: ಇಂಡ್ರೆ-ಎಟ್-ಲೋರೆ
     ko: 앵드르에루아르 주
@@ -3021,6 +3080,7 @@
     yue: 安德爾-盧華爾
     mk: Ендр и Лоара
     'no': Indre-et-Loire
+    az: Endr və Luara
   comments:
   type: metropolitan_department
 '38':
@@ -3097,6 +3157,9 @@
     kk: Изер
     yue: 伊澤爾
     'no': Isère
+    az: İzer (departament)
+    hr: Isère (departman)
+    mk: Изер
   comments:
   type: metropolitan_department
 '39':
@@ -3173,6 +3236,8 @@
     kk: Юра
     yue: 侏羅省
     'no': Jura
+    az: Yura (departament)
+    mk: Јура
   comments:
   type: metropolitan_department
 '40':
@@ -3250,6 +3315,7 @@
     yue: 朗德省
     mk: Ланд (департман)
     'no': Landes
+    mn: Ланд аймаг
   comments:
   type: metropolitan_department
 '41':
@@ -3288,6 +3354,7 @@
     id: Loir-et-Cher
     is: Loir-et-Cher
     it: Loir-et-Cher
+    ja: ロワール＝エ＝シェール県
     ka: ლუარი და შერი
     kn: ಲೋಯಿರ್-ಎಟ್-ಚೆರ್
     ko: 루아르에셰르 주
@@ -3326,6 +3393,8 @@
     yue: 盧華－些爾
     mk: Лоар и Шер
     'no': Loir-et-Cher
+    am: ሏር-ኤ-ሼር
+    az: Luar və Şer
   comments:
   type: metropolitan_department
 '42':
@@ -3403,6 +3472,8 @@
     yue: 盧華爾
     az: Luara (departament)
     'no': Loire
+    mk: Лоара
+    sq: Loire
   comments:
   type: metropolitan_department
 '43':
@@ -3442,6 +3513,7 @@
     hy: Վերին Լուար
     id: Haute-Loire
     it: Alta Loira
+    ja: オート＝ロワール県
     ka: ზემო ლუარა
     kn: ಹಾಟೆ-ಲೋಯರ್
     ko: 오트루아르 주
@@ -3480,6 +3552,7 @@
     kk: Жоғарғы Луара
     yue: 上盧華爾
     'no': Haute-Loire
+    mk: Горна Лоара
   comments:
   type: metropolitan_department
 '44':
@@ -3520,6 +3593,7 @@
     hy: Ատլանտյան Լուար
     id: Loire-Atlantique
     it: Loira Atlantica
+    ja: ロワール＝アトランティック県
     ka: ატლანტიკის ლუარა
     kn: ಲೊಯಿರ್-ಅಟ್ಲಾಂಟಿಕ್
     ko: 루아르아틀랑티크 주
@@ -3555,6 +3629,9 @@
     kk: Атлантикалық Луара
     yue: 盧華爾-大西洋
     'no': Loire-Atlantique
+    ga: Liger-Atlantel
+    mk: Атлантска Лоара
+    mn: Атлантын Луар (департамент)
   comments:
   type: metropolitan_department
 '45':
@@ -3633,6 +3710,7 @@
     yue: 盧華雷
     az: Luare (departament)
     'no': Loiret
+    mk: Лоаре
   comments:
   type: metropolitan_department
 '46':
@@ -3748,6 +3826,7 @@
     hy: Լո և Գարոն
     id: Lot-et-Garonne
     it: Lot e Garonna
+    ja: ロット＝エ＝ガロンヌ県
     ka: ლო და გარონა
     kn: ಲಾಟ್ ಎಟ್-ಗ್ಯಾರೋನೆ
     ko: 로트에가론 주
@@ -3786,6 +3865,8 @@
     yue: 洛特-加龍
     az: Lo və Qaronna
     'no': Lot-et-Garonne
+    mk: Лот и Гарона
+    mn: Ло – Гаронна
   comments:
   type: metropolitan_department
 '48':
@@ -3862,6 +3943,9 @@
     kk: Лозер
     yue: 洛澤爾
     'no': Lozère
+    az: Lozer
+    mk: Лозер
+    mn: Лозер
   comments:
   type: metropolitan_department
 '49':
@@ -3901,6 +3985,7 @@
     hy: Մեն և Լուար
     id: Maine-et-Loire
     it: Maine e Loira
+    ja: メーヌ＝エ＝ロワール県
     ka: მენი და ლუარა
     kn: ಮೈನೆ-ಎಟ್-ಲೋರೆ
     ko: 멘에루아르 주
@@ -3938,6 +4023,8 @@
     yue: 曼恩-盧華爾
     az: Men və Luara
     'no': Maine-et-Loire
+    ga: Maine-et-Loire
+    mk: Мен и Лоара
   comments:
   type: metropolitan_department
 '50':
@@ -4015,6 +4102,8 @@
     yue: 芒什
     az: Manş (departament)
     'no': Manche
+    ga: Manche
+    mk: Манш
   comments:
   type: metropolitan_department
 '51':
@@ -4093,6 +4182,7 @@
     yue: 馬恩
     az: Marna (departament)
     'no': Marne
+    mk: Марна
   comments:
   type: metropolitan_department
 '52':
@@ -4132,6 +4222,7 @@
     hy: Վերին Մարն
     id: Haute-Marne
     it: Alta Marna
+    ja: オート＝マルヌ県
     ka: ზემო მარნა
     kn: ಹೌಟೆ-ಮರ್ನೆ
     ko: 오트마른 주
@@ -4170,6 +4261,8 @@
     yue: 上馬恩
     az: Yuxarı Marna
     'no': Haute-Marne
+    ga: Haute-Marne
+    mk: Горна Марна
   comments:
   type: metropolitan_department
 '53':
@@ -4247,6 +4340,7 @@
     yue: 馬耶訥
     az: Mayen (departament)
     'no': Mayenne
+    mk: Мајен
   comments:
   type: metropolitan_department
 '54':
@@ -4286,6 +4380,7 @@
     hy: Մյորթ և Մոզել
     id: Meurthe-et-Moselle
     it: Meurthe e Mosella
+    ja: ムルト＝エ＝モゼル県
     ka: მერთი და მოზელი
     kn: ಮೂರ್ಥೆ-ಎಟ್-ಮೊಸೆಲ್ಲೆ
     ko: 뫼르트에모젤 주
@@ -4324,6 +4419,7 @@
     az: Mört və Mözel
     mk: Мерт и Мозел
     'no': Meurthe-et-Moselle
+    ga: Meurthe-et-Moselle
   comments:
   type: metropolitan_department
 '55':
@@ -4559,6 +4655,7 @@
     az: Mozel
     mk: Мозел
     'no': Moselle
+    ga: Moselle
   comments:
   type: metropolitan_department
 '58':
@@ -4635,6 +4732,8 @@
     yue: 涅夫勒
     az: Nyevr
     'no': Nièvre
+    ga: Nièvre
+    mk: Њевр
   comments:
   type: metropolitan_department
 '59':
@@ -4790,6 +4889,7 @@
     az: Uaza (departament)
     mk: Оаза
     'no': Oise
+    hr: Oise
   comments:
   type: metropolitan_department
 '61':
@@ -4867,6 +4967,9 @@
     yue: 奧恩
     az: Orn
     'no': Orne
+    ga: Orne
+    mk: Орн
+    ml: ഓർനെ
   comments:
   type: metropolitan_department
 '62':
@@ -4906,6 +5009,7 @@
     hy: Պա-դը-Կալե
     id: Pas-de-Calais
     it: Passo di Calais
+    ja: パ＝ド＝カレー県
     ka: პა-დე-კალე
     kn: ಪಾಸ್-ಡೆ-ಕ್ಯಾಲೈಸ್
     ko: 파드칼레 주
@@ -4986,6 +5090,7 @@
     hy: Պյուի-դը-Դոմ
     id: Puy-de-Dôme
     it: Puy-de-Dôme
+    ja: ピュイ＝ド＝ドーム県
     ka: პუი-დე-დომი
     kk: Пюи-де-Дом
     kn: ಪೂ-ಡಿ-ಡೋಮ್
@@ -5018,6 +5123,8 @@
     yue_Hans: 多姆山
     yue: 多姆山
     zh: 多姆山省
+    az: Püi-de-Dom
+    mk: Пиј де Дом
   comments:
   type: metropolitan_department
 '64':
@@ -5058,6 +5165,7 @@
     hy: Ատլանտյան Պիրենեյներ
     id: Pyrénées-Atlantiques
     it: Pirenei Atlantici
+    ja: ピレネー＝アトランティック県
     ka: ატლანტური პირენეები
     kn: ಪೈರಿನೀಸ್-ಅಟ್ಲಾಂಟಿಕ್ಸ್
     ko: 피레네자틀랑티크 주
@@ -5095,6 +5203,8 @@
     yue: 比利牛斯－大西洋
     az: Atlantik Pireney
     'no': Pyrénées-Atlantiques
+    ga: Pyrénées-Atlantiques
+    mk: Атлантски Пиринеи
   comments:
   type: metropolitan_department
 '65':
@@ -5132,6 +5242,7 @@
     hy: Վերին Պիրենեյներ
     id: Hautes-Pyrénées
     it: Alti Pirenei
+    ja: オート＝ピレネー県
     ka: ზემო პირენეები
     kn: ಹೌಟೆಸ್-ಪೈರಿನೀಸ್
     ko: 오트피레네 주
@@ -5172,6 +5283,7 @@
     az: Yuxarı Pireney
     mk: Горни Пиринеи
     'no': Hautes-Pyrénées
+    ga: Hautes-Pyrénées
   comments:
   type: metropolitan_department
 '66':
@@ -5211,6 +5323,7 @@
     hy: Արևելյան Պիրենեյներ
     id: Pyrénées-Orientales
     it: Pirenei Orientali
+    ja: ピレネー＝オリアンタル県
     ka: აღმოსავლეთ პირენეის დეპარტამენტი
     kn: ಪೈರಿನೀಸ್-ಓರಿಯಂಟೆಸ್
     ko: 피레네조리앙탈 주
@@ -5249,6 +5362,7 @@
     yue: 東比利牛斯省
     az: Şərqi Pireney
     'no': Pyrénées-Orientales
+    mk: Источни Пиринеи
   comments:
   type: metropolitan_department
 '67':
@@ -5289,6 +5403,7 @@
     hy: Ներքին Ռեն
     id: Bas-Rhin
     it: Basso Reno
+    ja: バ＝ラン県
     ka: ქვემო რეინი
     kn: ಬಾಸ್-ರೈನ್
     ko: 바랭 주
@@ -5327,6 +5442,8 @@
     az: Aşağı Reyn
     mk: Долна Рајна
     'no': Bas-Rhin
+    ga: Bas-Rhin
+    ml: ബാസ്-റിൻ
   comments:
   type: metropolitan_department
 '68':
@@ -5367,6 +5484,7 @@
     hy: Վերին Հռենոս
     id: Haut-Rhin
     it: Alto Reno
+    ja: オー＝ラン県
     ka: ზემო რეინი
     kn: ಹೌಟ್-ರೈನ್
     ko: 오랭 주
@@ -5406,6 +5524,7 @@
     az: Yuxarı Reyn
     mk: Горна Рајна
     'no': Haut-Rhin
+    ga: Haut-Rhin
   comments:
   type: metropolitan_department
 '69':
@@ -5500,6 +5619,7 @@
   translations:
     fr: Métropole de Lyon
     en: Lyon Metropolis
+    ja: メトロポール・ド・リヨン
   comments:
   type: metropolitan_collectivity_with_special_status
 6AE:
@@ -5510,6 +5630,16 @@
   translations:
     fr: Alsace
     en: Alsace
+    ca: Col·lectivitat europea d’Alsàcia
+    cs: Collectivité européenne d’Alsace
+    de: Europäische Gebietskörperschaft Elsass
+    el: Ελληνική Συλλογικότητα της Αλσατίας
+    es: Colectividad Europea de Alsacia
+    fi: Collectivité européenne d’Alsace
+    ja: アルザス地域圏
+    sv: Europeiska förvaltningsområdet Alsace
+    tr: Avrupa Alsas Kolektivitesi
+    zh: 阿尔萨斯欧洲集体
 '70':
   name: Haute-Saône
   code: '70'
@@ -5546,6 +5676,7 @@
     hy: Վերին Սոն
     id: Haute-Saône
     it: Alta Saona
+    ja: オート＝ソーヌ県
     ka: ზემო სონა
     kn: ಹಾಟೆ-ಸೊನೆ
     ko: 오트손 주
@@ -5623,6 +5754,7 @@
     hy: Սոն-է-Լուար
     id: Saône-et-Loire
     it: Saona e Loira
+    ja: ソーヌ＝エ＝ロワール県
     ka: სონა და ლუარა
     kn: ಸೌನೆ-ಎಟ್-ಲೋರೆ
     ko: 손에루아르 주
@@ -5662,6 +5794,8 @@
     yue: 索恩盧瓦
     az: Sona və Luara
     'no': Saône-et-Loire
+    ga: Saône-et-Loire
+    mk: Сона и Лоара
   comments:
   type: metropolitan_department
 '72':
@@ -5739,6 +5873,7 @@
     yue: 薩爾特
     az: Sarta
     'no': Sarthe
+    mk: Сарта
   comments:
   type: metropolitan_department
 '73':
@@ -5818,6 +5953,7 @@
     yue_Hans: 萨华
     yue: 薩華
     zh: 萨瓦省
+    ga: Savoie
   comments:
   type: metropolitan_department
 '74':
@@ -5856,6 +5992,7 @@
     hy: Վերին Սավոյ
     id: Haute-Savoie
     it: Alta Savoia
+    ja: オート＝サヴォワ県
     ka: ზემო სავოია
     kn: ಹೌಟೆ-ಸವೊಯಿ
     ko: 오트사부아 주
@@ -5896,6 +6033,7 @@
     yo: Haute-Savoie
     'no': Haute-Savoie
     yo_BJ: Haute-Savoie
+    mk: Горна Савоја
   comments:
   type: metropolitan_department
 75C:
@@ -5996,9 +6134,10 @@
     uz: Parij
     bs: Pariz
     mk: Париз
-    ha_NE: Pariis
+    ha_NE: Faris
     'no': Paris
     yo_BJ: Parisi
+    as: পেৰিছ
   comments:
   type: metropolitan_collectivity_with_special_status
 '76':
@@ -6038,6 +6177,7 @@
     hy: Ծովամերձ Սեն
     id: Seine-Maritime
     it: Senna Marittima
+    ja: セーヌ＝マリティーム県
     ka: ზღვისპირა სენა
     kn: ಸೀನ್-ಮಾರಿಟೈಮ್
     ko: 센마리팀 주
@@ -6075,6 +6215,7 @@
     az: Dənizkənarı Sena
     bs: Seine-Maritime
     'no': Seine-Maritime
+    mk: Приморска Сена
   comments:
   type: metropolitan_department
 '77':
@@ -6113,6 +6254,7 @@
     hy: Սեն-է-Մարն
     id: Seine-et-Marne
     it: Senna e Marna
+    ja: セーヌ＝エ＝マルヌ県
     ka: სენა და მარნა
     kn: ಸೀನ್-ಎಟ್-ಮರ್ನೆ
     ko: 센에마른 주
@@ -6151,6 +6293,8 @@
     yue: 塞納-馬恩
     az: Sena və Marna
     'no': Seine-et-Marne
+    ga: Seine-et-Marne
+    mk: Сена и Марна
   comments:
   type: metropolitan_department
 '78':
@@ -6267,6 +6411,7 @@
     hy: Դյու-Սևր
     id: Deux-Sèvres
     it: Deux-Sèvres
+    ja: ドゥー＝セーヴル県
     ka: დე-სევრი
     kn: ಡಿಯಕ್ಸ್-ಸೆವೆರೆಸ್
     ko: 되세브르 주
@@ -6305,6 +6450,7 @@
     yue: 德塞夫勒
     az: Dö-Sevr
     'no': Deux-Sèvres
+    mk: Де Севр
   comments:
   type: metropolitan_department
 '80':
@@ -6383,6 +6529,7 @@
     az: Somma
     mk: Сома
     'no': Somme
+    ga: Somme
   comments:
   type: metropolitan_department
 '81':
@@ -6461,6 +6608,7 @@
     yue: 塔恩
     az: Tarn (departament)
     'no': Tarn
+    mk: Тарн
   comments:
   type: metropolitan_department
 '82':
@@ -6499,6 +6647,7 @@
     hy: Թարն-է-Գարոն
     id: Tarn-et-Garonne
     it: Tarn e Garonna
+    ja: タルヌ＝エ＝ガロンヌ県
     ka: ტარნი და გარონა
     kn: ಟಾರ್ನ್-ಇಟ್-ಗ್ಯಾರೋನೆ
     ko: 타른에가론 주
@@ -6537,6 +6686,7 @@
     yue: 塔恩-加龍
     az: Tarn və Qaronna
     'no': Tarn-et-Garonne
+    mk: Тарн и Гарона
   comments:
   type: metropolitan_department
 '83':
@@ -6613,6 +6763,8 @@
     yue: 華爾
     az: Var (departament)
     'no': Var
+    he: ואר (מחוז)
+    mk: Вар
   comments:
   type: metropolitan_department
 '84':
@@ -6690,6 +6842,7 @@
     yue: 禾克呂茲
     az: Voklüz (departament)
     'no': Vaucluse
+    mk: Воклиз
   comments:
   type: metropolitan_department
 '85':
@@ -6849,6 +7002,7 @@
     az: Vyenna
     mk: Вјена
     'no': Vienne
+    is: Vienne
   comments:
   type: metropolitan_department
 '87':
@@ -6886,6 +7040,7 @@
     hy: Օտ-Վյեն
     id: Haute-Vienne
     it: Alta Vienne
+    ja: オート＝ヴィエンヌ県
     ka: ზემო ვიენა
     kn: ಹಾಟೆ-ವಿಯೆನ್
     ko: 오트비엔 주
@@ -7003,6 +7158,8 @@
     az: Vogezlər
     mk: Вогези
     'no': Vosges
+    ga: Vosges
+    ml: വോസ്ഗെസ്
   comments:
   type: metropolitan_department
 '89':
@@ -7080,6 +7237,9 @@
     yue: 約訥
     az: Yonna
     'no': Yonne
+    ga: Yonne
+    mk: Јона
+    ml: യോന്നെ
   comments:
   type: metropolitan_department
 '90':
@@ -7159,6 +7319,7 @@
     az: Belfor ərazisi
     mk: Територија Белфор
     'no': Territoire de Belfort
+    ga: Territoire de Belfort
   comments:
   type: metropolitan_department
 '91':
@@ -7277,6 +7438,7 @@
     hy: Օ-դը-Սեն
     id: Hauts-de-Seine
     it: Hauts-de-Seine
+    ja: オー＝ド＝セーヌ県
     ka: ო-დე-სენა
     kn: ಹೌಟ್ಸ್-ಡೆ-ಸೀನ್
     ko: 오드센 주
@@ -7354,6 +7516,7 @@
     hy: Սեն-Սեն-Դենի
     id: Seine-Saint-Denis
     it: Senna-Saint-Denis
+    ja: セーヌ＝サン＝ドニ県
     ka: სენა-სენ-დენი
     kn: ಸೈನ್-ಸೇಂಟ್-ಡೆನಿಸ್
     ko: 센생드니 주
@@ -7431,6 +7594,7 @@
     hy: Վալ-դը-Մարն
     id: Val-de-Marne
     it: Valle della Marna
+    ja: ヴァル＝ド＝マルヌ県
     ka: ვალ-დე-მარნი
     kn: ವ್ಯಾಲ್-ಡಿ-ಮರ್ನೆ
     ko: 발드마른 주
@@ -7469,6 +7633,7 @@
     yue: 馬恩河谷
     az: Val-de-Marn
     'no': Val-de-Marne
+    mk: Долина на Марна
   comments:
   type: metropolitan_department
 '95':
@@ -7511,6 +7676,7 @@
     hy: Վալ-դը-Ուազ
     id: Val-d’Oise
     it: Val-d’Oise
+    ja: ヴァル＝ドワーズ県
     kk: Валь-д’Уаз
     kn: ವ್ಯಾಲ್-ಡೈಸ್
     ko: 발두아즈 주
@@ -7541,6 +7707,7 @@
     yue_Hans: 华兹河谷
     yue: 華茲河谷
     zh: 瓦勒德瓦兹省
+    mk: Долина на Оаза
   comments:
   type: metropolitan_department
 '971':
@@ -7558,6 +7725,79 @@
     en: Guadeloupe
     fr: Guadeloupe
     ccp: "\U00011109\U0001112A\U00011120\U00011113\U0001112C\U00011123\U0001112F\U0001111B\U00011134"
+    af: Guadeloupe
+    am: ጓድሉፕ
+    ar: غوادلوب
+    az: Qvadelupa
+    be: Гвадэлупа
+    bg: Гваделупа
+    bn: গুয়াদলুপ
+    bs: Gvadalupe
+    ca: Guadalupe
+    ceb: Guadeloupe
+    cs: Guadeloupe
+    cy: Guadeloupe
+    da: Guadeloupe
+    de: Guadeloupe
+    el: Γουαδελούπη
+    es: Guadalupe
+    et: Guadeloupe
+    eu: Guadalupe
+    fa: جزیره گوادلوپ
+    fi: Guadeloupe
+    ga: Guadalúip
+    gl: Guadalupe
+    gu: ગ્વાડેલોપ
+    he: גוואדלופ
+    hi: गुआदेलूप
+    hr: Gvadalupa
+    hu: Guadeloupe
+    hy: Գվադելուպա
+    id: Guadeloupe
+    is: Gvadelúpeyjar
+    it: Guadalupa
+    ja: グアドループ
+    jv: Guadeloupe
+    ka: გვადელუპა
+    kk: Гваделупа
+    kn: ಗುಡೆಲೋಪ್
+    ko: 과들루프
+    ky: Гваделупа
+    lt: Gvadelupa
+    lv: Gvadelupa
+    mk: Гваделуп
+    ml: ഗ്വാദെലൂപ്
+    mr: ग्वादेलोप
+    ms: Guadeloupe
+    my: ဂွါဒလ်ကျွန်း
+    ne: ग्वाडलप
+    nl: Guadeloupe
+    pa: ਗੁਆਡਲੂਪ
+    pl: Gwadelupa
+    pt: Guadalupe
+    ro: Guadelupa
+    ru: Гваделупа
+    si: ගඩෙලුපේ
+    sk: Guadeloupe
+    sl: Gvadelup
+    sq: Guadalupa
+    sr: Гваделуп
+    sr_Latn: Gvadelup
+    sv: Guadeloupe
+    sw: Guadeloupe
+    ta: குவாதலூப்பே
+    te: గ్వాడెలోప్
+    th: กัวเดอลุป
+    tr: Guadeloupe
+    uk: Гваделупа
+    ur: گواڈیلوپ
+    uz: Gvadelupa
+    vi: Guadeloupe
+    yo: Guadeloupe
+    yo_BJ: Guadeloupe
+    yue: 瓜德羅普
+    yue_Hans: 瓜德罗普
+    zh: 瓜德羅普
   comments:
   type: overseas_departmental_collectivity
 '972':
@@ -7574,6 +7814,7 @@
   translations:
     en: Martinique
     ccp: "\U0001111F\U00011122\U00011134\U00011111\U00011128\U0001111A\U00011128\U00011107\U00011134"
+    ja: マルティニーク
   comments:
   type: overseas_unique_territorial_collectivity
 '973':
@@ -7584,6 +7825,7 @@
     en: French Guiana
     fr: Guyane
     ccp: "\U0001111C\U00011133\U00011122\U0001112C\U0001111A\U00011134\U0001110C\U00011134\U00011109\U0001112D\U0001112A\U00011120\U0001111A"
+    ja: フランス領ギアナ
   code: '973'
   type: overseas_unique_territorial_collectivity
 '974':
@@ -7601,6 +7843,7 @@
   translations:
     en: La Réunion
     ccp: "\U00011123 \U00011122\U0001112C\U00011105\U0001112A\U0001111A\U00011128\U00011120\U00011127\U0001111A\U00011134"
+    ja: レユニオン
   comments:
   type: overseas_departmental_collectivity
 '976':
@@ -7618,6 +7861,7 @@
     en: Mayotte
     fr: Mayotte
     ccp: "\U0001111F\U00011120\U0001112E\U00011116\U00011133\U00011120\U0001112C"
+    ja: マヨット
   comments:
   type: overseas_departmental_collectivity
 ARA:
@@ -7657,6 +7901,7 @@ ARA:
     id: Auvergne-Rhône-Alpes
     is: Auvergne-Rhône-Alpes
     it: Alvernia-Rodano-Alpi
+    ja: オーヴェルニュ＝ローヌ＝アルプ地域圏
     ko: 오베르뉴론알프
     lt: Overnė-Rona-Alpės
     lv: Overņa-Rona-Alpi
@@ -7688,6 +7933,11 @@ ARA:
     nb: Auvergne-Rhône-Alpes
     mk: Оверњ-Рона-Алпи
     'no': Auvergne-Rhône-Alpes
+    bn: ওভের্ন-রোন-আল্প
+    hy: Օվրեն-Ռոն-Ալպեր
+    mn: Овернь-Рона-Альп
+    mr: ऑव्हेर्न्य-रोन-आल्प
+    sl: Auvergne-Rona-Alpe
   comments:
   type: metropolitan_region
 BFC:
@@ -7728,6 +7978,7 @@ BFC:
     hi: बोरगोग्न-फ़्रेन्च-कोम्टे
     id: Bourgogne-Franche-Comté
     it: Borgogna-Franca Contea
+    ja: ブルゴーニュ＝フランシュ＝コンテ地域圏
     ko: 부르고뉴프랑슈콩테
     lt: Burgundija–Franš Kontė
     mn: Бургунд муж
@@ -7748,6 +7999,14 @@ BFC:
     yue_Hans: 布尔冈-法朗殊-康堤
     yue: 布爾岡-法朗殊-康堤
     zh: 勃艮第-弗朗什-孔泰大區
+    bn: বুর্গোইন-ফ্রঁশ-কোঁতে
+    et: Bourgogne-Franche-Comté
+    is: Búrgund-Franche-Comté
+    lv: Burgundija—Franškontē
+    mk: Бургундија-Франш Конте
+    mr: बूर्गान्य-फ्रांश-कोंते
+    ro: Burgundia-Franche-Comté
+    tr: Bourgogne-Franche-Comté
   comments:
   type: metropolitan_region
 BL:
@@ -7760,6 +8019,7 @@ BL:
     en: Saint Barthélemy
     fr: Saint Barthélemy
     ccp: "\U00011125\U0001112C\U0001111A\U00011134 \U0001111D\U00011122\U00011134\U00011117\U0001112C\U00011123\U0001112C\U0001111F\U00011128"
+    ja: サン・バルテルミー島
   geo:
     latitude: 17.9139222
     longitude: -62.8338521
@@ -7848,6 +8108,8 @@ BRE:
     uz: Bretan
     yue: 布禮斯大區
     yue_Hans: 布礼斯大区
+    ga: an Bhriotáin
+    ky: Бретан
   type: metropolitan_region
 CP:
   name: Clipperton
@@ -7865,6 +8127,7 @@ CP:
     en: Clipperton Island
     ccp: "\U00011107\U00011133\U00011123\U00011128\U0001111B\U00011122\U00011134\U00011111\U00011127\U0001111A\U00011134
       \U00011103\U00011128\U0001110C\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
+    ja: クリッパートン島
   comments:
   type: metropolitan_region
 CVL:
@@ -7935,6 +8198,9 @@ CVL:
     sq: Centre
     yue: 中央－盧華爾山谷大區
     yue_Hans: 中央－卢华尔山谷大区
+    am: ሶንትር-ቫል ደ ሏር
+    hy: Լուարի Կենտրոնական Հովիտ
+    mn: Төв-Вал де Луар
   geo:
     latitude: 47.64405
     longitude: 1.59046
@@ -8006,6 +8272,16 @@ GES:
     be: Гранд Эст
     mk: Голем Исток
     'no': Grand Est
+    bn: গ্রঁতেস্ত
+    et: Grand Est
+    hr: Grand Est
+    is: Grand Est
+    lt: Grand Estas
+    lv: Grandesta
+    mn: Гранд Эст
+    mr: ग्रांद एस्त
+    ro: Grand Est
+    sl: Grand Est
   comments:
   type: metropolitan_region
 HDF:
@@ -8039,6 +8315,7 @@ HDF:
     hu: Felső-Franciaország
     id: Nord-Pas-de-Calais-Picardie
     it: Alta Francia
+    ja: オー＝ド＝フランス地域圏
     ko: 오드프랑스
     nb: Hauts-de-France
     nl: Opper-Frankrijk
@@ -8068,6 +8345,14 @@ HDF:
     mk: Горна Франција
     'no': Hauts-de-France
     cy: Nord-Pas-de-Calais-Picardie
+    ar: أوت دو فرانس
+    bn: ও-দ্য-ফ্রঁস
+    et: Hauts-de-France
+    is: Hauts-de-France
+    lv: Odefransa
+    mn: О-де-Франс
+    mr: ऑत-दा-फ्रान्स
+    ro: Hauts-de-France
   comments:
   type: metropolitan_region
 IDF:
@@ -8109,6 +8394,7 @@ IDF:
     id: Île-de-France
     is: Île-de-France
     it: Île-de-France
+    ja: イル＝ド＝フランス地域圏
     ka: ილ-დე-ფრანსი
     km: អ៊ីលដឺហ្រ្វែន
     ko: 일드프랑스
@@ -8162,6 +8448,7 @@ MF:
     en: St. Martin
     fr: Saint-Martin
     ccp: "\U00011125\U0001112C\U0001111A\U00011134 \U0001111F\U00011122\U00011134\U00011111\U00011128\U0001111A\U00011134"
+    ja: サン・マルタン
   geo:
     latitude:
     longitude:
@@ -8202,6 +8489,7 @@ NAQ:
     hu: Új-Aquitania
     id: Aquitaine-Baru
     it: Nuova Aquitania
+    ja: ヌーヴェル＝アキテーヌ地域圏
     ko: 누벨아키텐
     nl: Nouvelle-Aquitaine
     oc: Nòva Aquitània
@@ -8236,6 +8524,14 @@ NAQ:
     uz: Yangi Akvitaniya
     mk: Нова Аквитанија
     'no': Nouvelle-Aquitaine
+    am: ኑቨል-አኪተን
+    bn: নুভেল-আকিতেন
+    ga: Nouvelle-Aquitaine
+    lt: Naujoji Akvitanija
+    mn: Нувел-Аквитани
+    mr: नुव्हेल-अॅकितेन
+    ro: Nouvelle-Aquitaine
+    sl: Nova Akvitanija
   comments:
   type: metropolitan_region
 NC:
@@ -8246,6 +8542,7 @@ NC:
     en: New Caledonia
     fr: Nouvelle-Calédonie
     ccp: "\U0001111A\U00011131 \U00011107\U00011127\U00011123\U0001112C\U00011113\U0001112E\U0001111A\U00011128\U00011120"
+    ja: ニューカレドニア
   geo:
     latitude: 35.7595731
     longitude: -79.01929969999999
@@ -8310,6 +8607,16 @@ NOR:
     yue_Hans: 诺曼第
     yue: 諾曼第
     zh: 诺曼底大区
+    bn: নরমঁদি
+    ga: An Normainn
+    ha: Normandie
+    ha_NE: Normandie
+    hy: Նորմանդիա
+    mn: Норманди
+    mr: नॉर्मंदी (प्रशासकीय प्रदेश)
+    ro: Normandia (regiune administrativă)
+    sl: Normandija
+    ta: நார்மாண்டி
   type: metropolitan_region
 OCC:
   name: Occitanie
@@ -8373,6 +8680,19 @@ OCC:
     nb: Occitanie
     be: рэгіён Аксітанія
     'no': Occitanie
+    bn: অক্সিতানি
+    ga: An Ocsatáin
+    ha: Occitanie
+    ha_NE: Occitanie
+    hu: Okcitánia
+    is: Occitanie
+    lt: Oksitanija (regionas)
+    lv: Oksitānija
+    mk: Окситанија
+    mn: Окситани (муж)
+    mr: ऑक्सितानी
+    ro: Occitania
+    sl: Oksitanija
   comments:
   type: metropolitan_region
 PAC:
@@ -8412,6 +8732,7 @@ PAC:
     hy: Պրովանս-Ալպեր-Լազուր ափ
     id: Provence-Alpes-Côte d’Azur
     it: Provenza-Alpi-Costa Azzurra
+    ja: プロヴァンス＝アルプ＝コート・ダジュール地域圏
     jv: Provence-Alpes-Côte d’Azur
     ka: პროვანსი-ალპები-ლაჟვარდოვანი ნაპირი
     ko: 프로방스알프코트다쥐르
@@ -8443,6 +8764,8 @@ PAC:
     yue_Hans: 普罗旺斯-阿尔卑斯-蔚蓝海岸
     yue: 普羅旺斯-阿爾卑斯-蔚藍海岸
     zh: 普罗旺斯-阿尔卑斯-蓝色海岸
+    is: Provence-Alpes-Côte d’Azur
+    mn: Прованс-Альп-Номин эрэг
   geo:
     latitude: 43.9352
     longitude: 6.0679
@@ -8529,6 +8852,10 @@ PDL:
     yue: 盧華爾河區
     mk: Лоарски Крај
     'no': Pays de la Loire
+    ha: Pays de la Loire
+    ha_NE: Pays de la Loire
+    is: Pays de la Loire
+    mn: Пеи де ла Луар
   comments:
   type: metropolitan_region
 PF:
@@ -8542,6 +8869,7 @@ PF:
     fr: Polynésie française
     ccp: "\U0001111C\U00011133\U00011122\U0001112C\U0001111A\U00011134\U0001110C\U00011134
       \U0001111B\U00011127\U00011123\U00011128\U0001111A\U0001112C\U00011125\U00011128\U00011120"
+    ja: フランス領ポリネシア
   geo:
     latitude:
     longitude:
@@ -8562,6 +8890,7 @@ PM:
     fr: Saint Pierre et Miquelon
     ccp: "\U00011125\U0001112C\U0001111A\U00011134 \U0001111B\U00011128\U00011122\U0001112C
       & \U0001111F\U00011128\U00011107\U0001112D\U0001112A\U00011123\U00011127\U0001111A\U00011134"
+    ja: サンピエール島・ミクロン島
   geo:
     latitude:
     longitude:
@@ -8587,6 +8916,7 @@ TF:
     ccp: "\U0001111B\U00011133\U00011122\U0001112C\U0001111A\U00011134\U0001110C\U00011134
       \U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134\U0001111F\U0001112C\U00011107\U00011134\U00011108\U0001112C
       \U00011122\U0001112C\U0001110E\U00011133\U00011120\U00011127\U0001111A\U00011128"
+    ja: フランス領南方・南極地域
   comments:
   code: TF
   type: overseas_collectivity
@@ -8599,6 +8929,7 @@ WF:
     en: Wallis & Futuna
     ccp: "\U00011124\U00011123\U00011133\U00011126\U00011128\U0001110C\U00011134 &
       \U0001111C\U00011128\U00011105\U0001112A\U00011111\U0001111A"
+    ja: ウォリス・フツナ
   geo:
     latitude:
     longitude:

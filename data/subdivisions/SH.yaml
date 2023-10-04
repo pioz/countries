@@ -84,6 +84,8 @@ AC:
     bs: Ascension
     mk: Вознесение
     'no': Ascension
+    pa: ਅਸੈਂਸ਼ਨ
+    sw: Ascension
   comments:
   type: geographical_entity
 HL:
@@ -172,6 +174,9 @@ HL:
     mk: Света Елена
     'no': St. Helena
     yo_BJ: Saint Helena
+    ceb: Saint Helena Island
+    ky: Ыйык Елена аралы
+    ps: سنت هلن
   comments:
   type: geographical_entity
 TA:
@@ -189,5 +194,6 @@ TA:
     en: Tristan da Cunha
     ccp: "\U00011111\U00011133\U00011122\U00011128\U0001110C\U00011134\U00011111\U0001111A\U00011134
       \U00011113 \U00011107\U0001112A\U0001111A\U00011134\U00011126"
+    ja: トリスタンダクーニャ
   comments:
   type: geographical_entity

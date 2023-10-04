@@ -169,6 +169,7 @@
     mk: Средночешки крај
     'no': Sentralbøhmen region
     sr_Latn: Srednjočeški kraj
+    sl: Osrednječeški okraj
   geo:
     latitude: 49.8782223
     longitude: 14.9362955
@@ -217,6 +218,7 @@
     sr_Latn: Okrug Benešov
     tr: Benešov ilçesi
     zh: 貝內紹夫縣
+    ko: 베네쇼프구
   name: Benešov
   code: '201'
   type: district
@@ -257,6 +259,8 @@
     tr: Beroun ilçesi
     uk: Бероун (округ)
     zh: 貝龍縣
+    ja: ベロウン郡
+    ko: 베로운구
   name: Beroun
   code: '202'
   type: district
@@ -276,6 +280,7 @@
     hu: Kladnói járás
     hy: Սոկոլովի շրջան
     it: Distretto di Kladno
+    ja: クラドノ郡
     ka: კლადნოს რაიონი
     ms: Daerah Kladno
     nl: Okres Kladno
@@ -296,6 +301,7 @@
     tr: Kladno ilçesi
     uk: Кладно
     zh: 克拉德諾縣
+    ko: 클라드노구
   name: Kladno
   code: '203'
   type: district
@@ -313,6 +319,7 @@
     hu: Kolíni járás
     hy: Բենեշովի շրջան
     it: Distretto di Kolín
+    ja: コリーン群
     ka: კოლინის რაიონი
     ms: Daerah Kolín
     nl: Okres Kolín
@@ -334,6 +341,8 @@
     tr: Kolín ilçesi
     uk: Колін
     zh: 科林縣
+    be: Колінская акруга
+    ko: 콜린구
   name: Kolín
   code: '204'
   type: district
@@ -350,6 +359,7 @@
     hu: Kutná Hora-i járás
     hy: Բերոունի շրջան
     it: Distretto di Kutná Hora
+    ja: クトナー・ホラ群
     ka: კუტნა-ჰორის რაიონი
     ms: Daerah Kutná Hora
     nl: Okres Kutná Hora
@@ -374,6 +384,7 @@
     sr_Latn: Okrug Kutna Hora
     tr: Kutná Hora ilçesi
     zh: 庫特納霍拉縣
+    ko: 쿠트나호라구
   name: Kutná Hora
   code: '205'
   type: district
@@ -413,6 +424,7 @@
     sr_Latn: Okrug Mjelnjik
     tr: Mělník ilçesi
     zh: 梅爾尼克縣
+    ko: 멜니크구
   name: Mělník
   code: '206'
   type: district
@@ -430,6 +442,7 @@
     hu: Mladá Boleslav-i járás
     hy: Կոլինի շրջան
     it: Distretto di Mladá Boleslav
+    ja: ムラダー・ボレスラフ群
     ka: მლადა-ბოლესლავის რაიონი
     ms: Daerah Mladá Boleslav
     nl: Okres Mladá Boleslav
@@ -452,6 +465,7 @@
     tr: Mladá Boleslav ilçesi
     uk: Млада-Болеслав
     zh: 姆拉達-博萊斯拉夫縣
+    ko: 믈라다볼레슬라프구
   name: Mladá Boleslav
   code: '207'
   type: district
@@ -469,6 +483,7 @@
     hu: Nymburki járás
     hy: Կուտնա Հորայի շրջան
     it: Distretto di Nymburk
+    ja: ニンブルク郡
     ka: ნიმბურკის რაიონი
     ms: Daerah Nymburk
     nl: Okres Nymburk
@@ -489,6 +504,8 @@
     lv: Nimburkas apriņķis
     sr_Latn: Okrug Nimburk
     zh: 寧布爾克縣
+    ko: 님부르크구
+    tr: Nymburk ilçesi
   name: Nymburk
   code: '208'
   type: district
@@ -504,6 +521,7 @@
     he: מחוז משנה פראג-מזרח
     hu: Kelet-prágai járás
     it: Distretto di Praha-východ
+    ja: 東プラハ群
     ka: პრაღა-ვიხოდის რაიონი
     ms: Daerah Prague-Timur
     nl: Okres Praha-východ
@@ -526,6 +544,7 @@
     lv: Prāgas Austrumu apriņķis
     sr_Latn: Okrug Prag-istok
     zh: 東布拉格縣
+    ko: 동프라하구
   name: Praha-východ
   code: '209'
   type: district
@@ -541,6 +560,7 @@
     he: מחוז משנה פראג-מערב
     hu: Nyugat-prágai járás
     it: Distretto di Praha-západ
+    ja: 西プラハ群
     ka: პრაღა-ზაპადის რაიონი
     ms: Daerah Prague-Barat
     nl: Okres Praha-západ
@@ -559,6 +579,10 @@
     lt: Prahos vakarinis rajonas
     sr_Latn: Okrug Prag-zapad
     zh: 西布拉格縣
+    be: Прага-захад
+    hy: Արևմտապրահյան շրջան²
+    ko: 서프라하구
+    ro: Praga-Vest
   name: Praha-západ
   code: 20A
   type: district
@@ -575,6 +599,7 @@
     hu: Příbrami járás
     hy: Նիմբուրկի շրջան
     it: Distretto di Příbram
+    ja: プシーブラム郡
     ka: პრშიბრამის რაიონი
     ms: Daerah Příbram
     nl: Okres Příbram
@@ -597,6 +622,9 @@
     sr_Latn: Okrug Pribram
     tr: Příbram ilçesi
     zh: 普日布拉姆縣
+    az: Prşibram
+    be: раён Пршыбрам
+    ko: 프르지브람구
   name: Příbram
   code: 20B
   type: district
@@ -613,6 +641,7 @@
     hu: Rakovníki járás
     hy: Արևելապրահյան շրջան
     it: Distretto di Rakovník
+    ja: ラコヴニーク郡
     ka: რაკოვნიკის რაიონი
     ms: Daerah Rakovník
     nl: Okres Rakovník
@@ -634,6 +663,7 @@
     tr: Rakovník ilçesi
     uk: Раковнік
     zh: 拉科夫尼克縣
+    ko: 라코브니크구
   name: Rakovník
   code: 20C
   type: district
@@ -698,6 +728,9 @@
     mk: Јужночешки крај
     'no': Sydbøhmen region
     sr_Latn: Južnočeški kraj
+    gl: Rexión de Bohemia Meridional
+    hy: Հարավչեխական երկրամաս
+    sl: Južnočeški okraj
   geo:
     latitude: 48.9457789
     longitude: 14.4416055
@@ -723,6 +756,7 @@
     hu: České Budějovice-i járás
     hy: Չեսկե Բուդեյովիցեի շրջան
     it: Distretto di České Budějovice
+    ja: チェスケー・ブジェヨヴィツェ郡
     ka: ჩესკე-ბუდეიოვიცეს რაიონი
     ms: Daerah České Budějovice
     nb: České Budějovice
@@ -746,6 +780,8 @@
     tr: České Budějovice ilçesi
     uk: Чеське Будейовіце (округ)
     zh: 捷克布傑約維采縣
+    az: Çeske-Budeyovitse rayonu
+    ko: 체스케부데요비체구
   name: České Budějovice
   code: '311'
   type: district
@@ -788,6 +824,7 @@
     tr: Český Krumlov ilçesi
     uk: Чеський Крумлов
     zh: 捷克克魯姆洛夫縣
+    ko: 체스키크룸로프구
   name: Český Krumlov
   code: '312'
   type: district
@@ -830,6 +867,7 @@
     tr: Jindřichův Hradec ilçesi
     uk: Їндржіхув Градець
     zh: 因德日赫城堡縣
+    ko: 인드르지후프흐라데츠구
   name: Jindřichův Hradec
   code: '313'
   type: district
@@ -846,6 +884,7 @@
     hu: Píseki járás
     hy: Պիսեկի շրջան
     it: Distretto di Písek
+    ja: ピーセク群
     ka: პისეკის რაიონი
     ms: Daerah Písek
     nb: Písek
@@ -870,6 +909,8 @@
     tr: Písek ilçesi
     uk: Пісек
     zh: 皮塞克縣
+    gl: Distrito de Písek
+    ko: 피세크구
   name: Písek
   code: '314'
   type: district
@@ -886,6 +927,7 @@
     hu: Prachaticei járás
     hy: Պրախատիցեի շրջան
     it: Distretto di Prachatice
+    ja: プラハチツェ郡
     ka: პრახატიცეს რაიონი
     ms: Daerah Prachatice
     nb: Prachatice
@@ -910,6 +952,7 @@
     tr: Prachatice İlçesi
     uk: Прахатіце
     zh: 普拉哈季采縣
+    ko: 프라하티체구
   name: Prachatice
   code: '315'
   type: district
@@ -926,6 +969,7 @@
     hu: Strakonicei járás
     hy: Ստրակոնիցեի շրջան
     it: Distretto di Strakonice
+    ja: ストラコニツェ郡
     ka: სტრაკონიცეს რაიონი
     ms: Daerah Strakonice
     nb: Strakonice
@@ -950,6 +994,7 @@
     tr: Strakonice ilçesi
     uk: Страконіце
     zh: 斯特拉科尼采縣
+    ko: 스트라코니체구
   name: Strakonice
   code: '316'
   type: district
@@ -968,6 +1013,7 @@
     hu: Tábori járás
     hy: Տաբորի շրջան
     it: Distretto di Tábor
+    ja: ターボル群
     ka: ტაბორის რაიონი
     ms: Daerah Tábor
     nb: Tábor
@@ -989,6 +1035,10 @@
     tr: Tábor ilçesi
     uk: Табор
     zh: 塔博爾縣
+    id: Distrik Tábor
+    ko: 타보르구
+    pt: Tábor (distrito)
+    ro: Tábor
   name: Tábor
   code: '317'
   type: district
@@ -1050,6 +1100,8 @@
     lv: Plzeņas apgabals
     'no': Plzeň region
     sr_Latn: Plzenjski kraj
+    hy: Պլզենի երկրամաս
+    sl: Plzenski okraj
   geo:
     latitude: 49.4134812
     longitude: 13.3157246
@@ -1073,6 +1125,7 @@
     hu: Domažlicei járás
     hy: Դոմաժլիցեի շրջան
     it: Distretto di Domažlice
+    ja: ドマジュリツェ郡
     ka: დომაჟლიცეს რაიონი
     ms: Daerah Domažlice
     nl: Okres Domažlice
@@ -1094,6 +1147,8 @@
     tr: Domažlice ilçesi
     uk: Домажліце
     zh: 多馬日利采縣
+    az: Domajlitse rayonu
+    ko: 도마줄리체구
   name: Domažlice
   code: '321'
   type: district
@@ -1112,6 +1167,7 @@
     hu: Klatovy-i járás
     hy: Կլատովի շրջան
     it: Distretto di Klatovy
+    ja: クラトヴィ郡
     ka: კლატოვის რაიონი
     ms: Daerah Klatovy
     nl: Okres Klatovy
@@ -1132,6 +1188,7 @@
     tr: Klatovy ilçesi
     uk: Клатови
     zh: 克拉托維縣
+    ko: 클라토비구
   name: Klatovy
   code: '322'
   type: district
@@ -1148,6 +1205,7 @@
     he: מחוז משנה פלזן מסטו
     hu: Plzeň városi járás
     it: Distretto di Plzeň-město
+    ja: プルゼニ都市群
     ms: Daerah Bandaraya Plzeň
     nl: Okres Plzeň-město
     pt: Distrito de Plzeň-Ciudad
@@ -1165,6 +1223,8 @@
     sr_Latn: Okrug Plzenj-grad
     uk: Пльзень-місто
     zh: 比爾森城縣
+    hy: Պլզենի շրջան
+    ko: 플젠 도시구
   name: Plzeň-město
   code: '323'
   type: district
@@ -1180,6 +1240,7 @@
     fr: District de Plzeň-jih
     hu: Dél-plzeňi járás
     it: Distretto di Plzeň-jih
+    ja: 南プルゼニ郡
     ka: პლზენ-იიჰის რაიონი
     ms: Daerah Plzeň-Selatan
     nl: Okres Plzeň-jih
@@ -1199,6 +1260,9 @@
     sr_Latn: Okrug Plzenj-jug
     uk: Пльзень-південь
     zh: 南比爾森縣
+    hy: Հարավպլզենյան շրջան
+    ko: 남플젠구
+    ro: Plzeň-Sud
   name: Plzeň-jih
   code: '324'
   type: district
@@ -1213,6 +1277,7 @@
     fr: District de Plzeň-sever
     hu: Észak-plzeňi járás
     it: Distretto di Plzeň-sever
+    ja: 北プルゼニ郡
     ka: პლზენ-სევერის რაიონი
     ms: Daerah Plzeň-Utara
     nl: Okres Plzeň-sever
@@ -1232,6 +1297,10 @@
     sr_Latn: Okrug Plzenj-sever
     uk: Пльзень-північ
     zh: 北比爾森縣
+    hy: Պլզեն հյուսիս
+    ko: 북플젠구
+    pt: Distrito de Plzeň-Norte
+    ro: Plzeň-Nord
   name: Plzeň-sever
   code: '325'
   type: district
@@ -1248,6 +1317,7 @@
     hu: Rokycany-i járás
     hy: Ռոկիցանկի շրջան
     it: Distretto di Rokycany
+    ja: ロキツァニ郡
     ka: როკიცანის რაიონი
     ms: Daerah Rokycany
     nl: Okres Rokycany
@@ -1269,6 +1339,7 @@
     tr: Rokycany ilçesi
     uk: Рокицани
     zh: 羅基察尼縣
+    ko: 로키차니구
   name: Rokycany
   code: '326'
   type: district
@@ -1307,6 +1378,8 @@
     tr: Tachov ilçesi
     uk: Тахов
     zh: 塔霍夫縣
+    ko: 타호프구
+    ro: Tachov
   name: Tachov
   code: '327'
   type: district
@@ -1369,6 +1442,8 @@
     mk: Карловарски крај
     'no': Karlovy Vary region
     sr_Latn: Karlovarski kraj
+    hy: Կառլովի Վարիի երկրամաս
+    sl: Karlovarski okraj
   geo:
     latitude: 50.1435
     longitude: 12.7501899
@@ -1393,6 +1468,7 @@
     hu: Chebi járás
     hy: Նախոդի շրջան
     it: Distretto di Cheb
+    ja: ヘプ郡
     ka: ხების რაიონი
     lt: Chebo rajonas
     ms: Daerah Cheb
@@ -1416,6 +1492,7 @@
     tr: Cheb ilçesi
     uk: округ Хеб
     zh: 海布縣
+    ko: 헤프구
   name: Cheb
   code: '411'
   type: district
@@ -1433,6 +1510,7 @@
     hu: Karlovy Vary-i járás
     hy: Ռիխնով-նադ-Կնեժնոուի շրջան
     it: Distretto di Karlovy Vary
+    ja: カルロヴィ・ヴァリ郡
     ka: კარლოვი-ვარის რაიონი
     lt: Karlovi Varų rajonas
     ms: Daerah Karlovy Vary²
@@ -1454,6 +1532,7 @@
     tr: Karlovy Vary ilçesi
     uk: Округ Карлові Вари
     zh: 卡羅維發利縣
+    ko: 카를로비바리구
   name: Karlovy Vary
   code: '412'
   type: district
@@ -1492,6 +1571,8 @@
     tr: Sokolov ilçesi
     uk: Соколов
     zh: 索洛洛夫縣
+    ko: 소콜로프구
+    ro: Sokolov
   name: Sokolov
   code: '413'
   type: district
@@ -1554,6 +1635,9 @@
     mk: Устечки крај
     'no': Ústí nad Labem region
     sr_Latn: Ustečki kraj
+    gl: Rexión de Ústí nad Labem
+    hy: Ուստեցկի տարածաշրջան
+    sl: Usteški okraj
   geo:
     latitude: 50.6119037
     longitude: 13.7870086
@@ -1577,6 +1661,7 @@
     hu: Děčíni járás
     hy: Դեչինի շրջան
     it: Distretto di Děčín
+    ja: ジェチーン郡
     ka: დეჩინის რაიონი
     ms: Daerah Děčín
     nl: Okres Děčín
@@ -1599,6 +1684,7 @@
     tr: Děčín ilçesi
     uk: Дечин
     zh: 傑欽縣
+    ko: 데친구
   name: Děčín
   code: '421'
   type: district
@@ -1615,6 +1701,7 @@
     hu: Chomutovi járás
     hy: Խոմուտովի շրջան
     it: Distretto di Chomutov
+    ja: ホムトフ郡
     ka: ხომუტოვის რაიონი
     ms: Daerah Chomutov
     nl: Okres Chomutov
@@ -1636,6 +1723,8 @@
     sr_Latn: Okrug Homutov
     tr: Chomutov ilçesi
     zh: 霍穆托夫縣
+    be: раён Хомутаў
+    ko: 호무토프구
   name: Chomutov
   code: '422'
   type: district
@@ -1653,6 +1742,7 @@
     hu: Litoměřicei járás
     hy: Լիտոմերիցեի շրջան
     it: Distretto di Litoměřice
+    ja: リトムニェジツェ郡
     ka: ლიტომერჟიცეს რაიონი
     ms: Daerah Litoměřice
     nl: Okres Litoměřice
@@ -1674,6 +1764,8 @@
     tr: Litoměřice ilçesi
     uk: Літомержице
     zh: 利托梅日采縣
+    az: Litomerjitse
+    ko: 리토메르지체구
   name: Litoměřice
   code: '423'
   type: district
@@ -1692,6 +1784,7 @@
     hu: Louny-i járás
     hy: Լոունի շրջան
     it: Distretto di Louny
+    ja: ロウニ郡
     ka: ლოუნის რაიონი
     ms: Daerah Louny
     nl: Okres Louny
@@ -1712,6 +1805,7 @@
     tr: Louny ilçesi
     uk: Лоуни
     zh: 洛烏尼縣
+    ko: 로우니구
   name: Louny
   code: '424'
   type: district
@@ -1728,6 +1822,7 @@
     hu: Mosti járás
     hy: Մոստի շրջան
     it: Distretto di Most
+    ja: モスト郡
     ka: მოსტის რაიონი
     ms: Daerah Most
     nl: Okres Most
@@ -1747,6 +1842,9 @@
     sr_Latn: Okrug Most
     uk: Мост
     zh: 莫斯特縣
+    be: раён Мост
+    ko: 모스트구
+    tr: Most ilçesi
   name: Most
   code: '425'
   type: district
@@ -1764,6 +1862,7 @@
     hu: Teplicei járás
     hy: Տեպլիցեի շրջան
     it: Distretto di Teplice
+    ja: テプリツェ郡
     ka: ტეპლიცეს რაიონი
     ms: Daerah Teplice
     nl: Okres Teplice
@@ -1784,6 +1883,8 @@
     tr: Teplice ilçesi
     uk: Тепліце
     zh: 特普利采縣
+    ko: 테플리체구
+    ro: Teplice
   name: Teplice
   code: '426'
   type: district
@@ -1800,6 +1901,7 @@
     hu: Ústí nad Labem-i járás
     hy: Ուստի-նադ-Լաբեմի շրջան
     it: Distretto di Ústí nad Labem
+    ja: ウースチー・ナド・ラベム郡
     ka: უსტი-ნად-ლაბემის რაიონი
     ms: Daerah Ústí nad Labem²
     nl: Okres Ústí nad Labem
@@ -1820,6 +1922,9 @@
     lt: Ūsčio prie Labės rajonas
     sr_Latn: Okrug Usti na Labi
     zh: 拉貝河畔烏斯季縣
+    ko: 우스티나트라벰구
+    ro: Ústí nad Labem
+    tr: Ústí nad Labem ilçesi
   name: Ústí nad Labem
   code: '427'
   type: district
@@ -1882,6 +1987,7 @@
     mk: Либеречки крај
     'no': Liberec
     sr_Latn: Liberečki kraj
+    sl: Libereški okraj
   geo:
     latitude: 50.65942399999999
     longitude: 14.7632424
@@ -1905,6 +2011,7 @@
     hu: Česká Lípa-i járás
     hy: Չեսկա Լիպայի շրջան
     it: Distretto di Česká Lípa
+    ja: チェスカー・リーパ郡
     ka: ჩესკა-ლიპის რაიონი
     lt: Česka Lypos rajonas
     ms: Daerah Česká Lípa
@@ -1925,6 +2032,8 @@
     tr: Česká Lípa ilçesi
     uk: Чеська Липа
     zh: 捷克利帕縣
+    ko: 체스카리파구
+    pt: Česká Lípa (distrito)
   name: Česká Lípa
   code: '511'
   type: district
@@ -1941,6 +2050,7 @@
     hu: Jablonec nad Nisou-i járás
     hy: Յաբլոնեց-նադ-Նիսոուի շրջան
     it: Distretto di Jablonec nad Nisou
+    ja: ヤブロネツ・ナド・ニソウ郡
     ka: იაბლონეც-ნად-ნისოუს რაიონი
     lt: Jabloneco prie Nisos rajonas
     ms: Daerah Jablonec nad Nisou
@@ -1963,6 +2073,8 @@
     tr: Jablonec nad Nisou ilçesi
     uk: Яблонець-над-Нисою
     zh: 尼斯河畔亞布洛內茨縣
+    ko: 야블로네츠나트니소우구
+    ro: Jablonec nad Nisou
   name: Jablonec nad Nisou
   code: '512'
   type: district
@@ -1979,6 +2091,7 @@
     hu: Libereci járás
     hy: Լիբերեցի շրջան
     it: Distretto di Liberec
+    ja: リベレツ郡
     ka: ლიბერეცის რაიონი
     lt: Libereco rajonas
     ms: Daerah Liberec²
@@ -2000,6 +2113,7 @@
     tr: Liberec ilçesi
     uk: округ Ліберець
     zh: 利貝雷茨縣
+    ko: 리베레츠구
   name: Liberec
   code: '513'
   type: district
@@ -2016,6 +2130,7 @@
     hu: Semily-i járás
     hy: Սեմիլիի շրջան
     it: Distretto di Semily
+    ja: セミリ郡
     ka: სემილის რაიონი
     lt: Semilų rajonas
     ms: Daerah Semily
@@ -2039,6 +2154,8 @@
     tr: Semily ilçesi
     uk: Семіли
     zh: 塞米利縣
+    ko: 세밀리구
+    ro: Semily
   name: Semily
   code: '514'
   type: district
@@ -2101,6 +2218,8 @@
     mk: Краловохрадечки крај
     'no': Hradec Králové
     sr_Latn: Kralovehradečki kraj
+    hy: Կրալովեգրադեցկի երկրամաս
+    sl: Kralovehraški okraj
   geo:
     latitude: 50.3512484
     longitude: 15.7976459
@@ -2147,6 +2266,8 @@
     tr: Hradec Králové ilçesi
     uk: Градець-Кралове
     zh: 赫拉德茨克拉洛韋縣
+    ko: 흐라데츠크랄로베구
+    ro: Hradec Králové
   name: Hradec Králové
   code: '521'
   type: district
@@ -2163,6 +2284,7 @@
     hu: Jičíni járás
     hy: Պրիբրամի շրջան
     it: Distretto di Jičín
+    ja: イチーン郡
     ka: იიჩინის რაიონი
     lt: Jičyno rajonas
     ms: Daerah Jičín
@@ -2184,6 +2306,7 @@
     tr: Jičín ilçesi
     uk: Їчін
     zh: 伊欽縣
+    ko: 이친구
   name: Jičín
   code: '522'
   type: district
@@ -2200,6 +2323,7 @@
     hu: Náchodi járás
     hy: Ռակովնիկի շրջան
     it: Distretto di Náchod
+    ja: ナーホト郡
     ka: ნახოდის რაიონი
     lt: Nachodo rajonas
     ms: Daerah Náchod
@@ -2222,6 +2346,8 @@
     tr: Náchod ilçesi
     uk: Наход
     zh: 納霍德縣
+    be: раён Нахад
+    ko: 나호트구
   name: Náchod
   code: '523'
   type: district
@@ -2261,6 +2387,9 @@
     tr: Rychnov nad Kněžnou ilçesi
     uk: Рихнов-над-Кнєжной
     zh: 科內日諾河畔里赫諾夫縣
+    ko: 리흐노프나트크네주노우구
+    pt: Rychnov nad Kněžnou (distrito)
+    ro: Rychnov nad Kněžnou
   name: Rychnov nad Kněžnou
   code: '524'
   type: district
@@ -2278,6 +2407,7 @@
     hu: Trutnovi járás
     hy: Յիչինի շրջան
     it: Distretto di Trutnov
+    ja: トルトノフ郡
     ka: ტრუტნოვის რაიონი
     lt: Trutnovo rajonas
     ms: Daerah Trutnov
@@ -2302,6 +2432,7 @@
     tr: Trutnov İlçesi
     uk: Трутнов
     zh: 特魯特諾夫縣
+    ko: 트루트노프구
   name: Trutnov
   code: '525'
   type: district
@@ -2364,6 +2495,8 @@
     mk: Пардубички крај
     'no': Pardubice region
     sr_Latn: Pardubički kraj
+    hy: Պարդուբիցեի երկրամաս
+    sl: Pardubiški okraj
   geo:
     latitude: 49.9444479
     longitude: 16.2856916
@@ -2388,6 +2521,7 @@
     hu: Chrudimi járás
     hy: Խրուդիմի շրջան
     it: Distretto di Chrudim
+    ja: フルジム郡
     ka: ხრუდიმის რაიონი
     lt: Chrudimo rajonas
     lv: Hrudimas apriņķis
@@ -2409,6 +2543,8 @@
     tr: Chrudim ilçesi
     uk: Хрудім
     zh: 赫魯迪姆縣
+    az: Xrudim
+    ko: 흐루딤구
   name: Chrudim
   code: '531'
   type: district
@@ -2426,6 +2562,7 @@
     hu: Pardubicei járás
     hy: Պարուբիցեի շրջան
     it: Distretto di Pardubice
+    ja: パルドゥビツェ郡
     ka: პარდუბიცეს რაიონი
     lt: Pardubicių rajonas
     lv: Pardubices apriņķis
@@ -2448,6 +2585,7 @@
     tr: Pardubice ilçesi
     uk: Пардубице
     zh: 帕爾杜比采縣
+    ko: 파르두비체구
   name: Pardubice
   code: '532'
   type: district
@@ -2488,6 +2626,9 @@
     tr: Svitavy ilçesi
     uk: Світави
     zh: 斯維塔維縣
+    az: Svitavi rayonu
+    ko: 스비타비구
+    ro: Svitavy
   name: Svitavy
   code: '533'
   type: district
@@ -2530,6 +2671,9 @@
     tr: Ústí nad Orlicí ilçesi
     uk: Усті-над-Орлиццю
     zh: 奧爾利采河畔烏斯季縣
+    ko: 우스티나트오를리치구
+    pt: Ústí nad Orlicí (distrito)
+    ro: Ústí nad Orlicí
   name: Ústí nad Orlicí
   code: '534'
   type: district
@@ -2594,6 +2738,7 @@
     mk: Височински крај
     'no': Vysočina region
     sr_Latn: Kraj Visočina
+    sl: Visočinski okraj
   geo:
     latitude: 49.44900519999999
     longitude: 15.6405934
@@ -2618,6 +2763,7 @@
     hu: Havlíčkův Brod-i járás
     hy: Հավլիչկուվ Բրոդի շրջան
     it: Distretto di Havlíčkův Brod
+    ja: ハヴリーチュクーフ・ブロト郡
     ka: ჰავლიცკუვ-ბროდის რაიონი
     lv: Havlīčkūvbrodas apriņķis
     ms: Daerah Havlíčkův Brod
@@ -2642,6 +2788,9 @@
     tr: Havlíčkův Brod ilçesi
     uk: Гавличкув-Брод
     zh: 哈夫利奇庫夫布羅德縣
+    hr: Okrug Havlíčkův Brod
+    ko: 하블리치쿠프브로트구
+    pt: Havlíčkův Brod (distrito)
   name: Havlíčkův Brod
   code: '631'
   type: district
@@ -2660,6 +2809,7 @@
     hu: Jihlavai járás
     hy: Յիհլավայի շրջան
     it: Distretto di Jihlava
+    ja: イフラヴァ郡
     ka: იიჰლავის რაიონი
     lv: Jihlavas apriņķis
     ms: Daerah Jihlava
@@ -2684,6 +2834,9 @@
     tr: Jihlava ilçesi
     uk: Їглава
     zh: 伊赫拉瓦縣
+    hr: Okrug Jihlava
+    ko: 이흘라바구
+    mk: Јихлава
   name: Jihlava
   code: '632'
   type: district
@@ -2702,6 +2855,7 @@
     hu: Pelhřimovi járás
     hy: Պելհրիմովի շրջան
     it: Distretto di Pelhřimov
+    ja: ペルフジモフ郡
     ka: პელჰრჟიმოვის რაიონი
     lv: Pelhržimovas apriņķis
     ms: Daerah Pelhřimov
@@ -2725,6 +2879,8 @@
     tr: Pelhřimov ilçesi
     uk: Пельгржимов
     zh: 佩爾赫日莫夫縣
+    hr: Okrug Pelhřimov
+    ko: 펠흐르지모프구
   name: Pelhřimov
   code: '633'
   type: district
@@ -2742,6 +2898,7 @@
     hu: Třebíči járás
     hy: Տրեբիչի շրջան
     it: Distretto di Třebíč
+    ja: トシェビーチ郡
     ka: ტრჟებიცის რაიონი
     lv: Tršebīčas apriņķis
     ms: Daerah Třebíč
@@ -2767,6 +2924,8 @@
     tr: Třebíč ilçesi
     uk: Тршебич
     zh: 特熱比奇縣
+    hr: Okrug Třebíč
+    ko: 트르제비치구
   name: Třebíč
   code: '634'
   type: district
@@ -2783,6 +2942,7 @@
     hu: Žďár nad Sázavou-i járás
     hy: Զդար-նադ-Սազավոուի շրջան
     it: Distretto di Žďár nad Sázavou
+    ja: ジュジャール・ナド・サーザヴォウ郡
     ka: ჟდიარ-ნად-საზავოის რაიონი
     lv: Ždjāras pie Sāzavas apriņķis
     ms: Daerah Žďár nad Sázavou
@@ -2807,6 +2967,10 @@
     tr: Žďár nad Sázavou ilçesi
     uk: Ждяр-над-Сазавою
     zh: 薩扎瓦河畔日賈爾縣
+    be: раён Ждзяр-над-Сазаваў
+    hr: Okrug Žďár nad Sázavou
+    ko: 주댜르나트사자보우구
+    ro: Žďár nad Sázavou
   name: Žďár nad Sázavou
   code: '635'
   type: district
@@ -2872,6 +3036,7 @@
     mk: Јужноморавски крај
     'no': Sydmähriske region
     sr_Latn: Južnomoravski kraj
+    sl: Južnomoravski okraj
   geo:
     latitude: 48.9544528
     longitude: 16.7676899
@@ -2919,6 +3084,8 @@
     tr: Blansko ilçesi
     uk: Бланско
     zh: 布蘭斯科縣
+    ja: ブランスコ地区
+    ko: 블란스코구
   name: Blansko
   code: '641'
   type: district
@@ -2934,6 +3101,7 @@
     fr: District de Brno-město
     hu: Brno városi járás
     it: Distretto di Brno-město
+    ja: ブルノ都市郡
     ms: Daerah Bandaraya Brno
     nl: Okres Brno-město
     pt: Brno (distrito)
@@ -2951,6 +3119,10 @@
     sr_Latn: Okrug Brno-grad
     uk: Брно-місто
     zh: 布爾諾城縣
+    es: Distrito de Brno-ciudad
+    hy: Բռնո-քաղաք շրջան
+    ko: 브르노 도시구
+    ro: Brno-Oraș
   name: Brno-město
   code: '642'
   type: district
@@ -2968,6 +3140,7 @@
     hu: Brno-vidéki járás
     hy: Բրնո-վենկովի շրջան
     it: Distretto di Brno-venkov
+    ja: ブルノ郊外郡
     ka: ბრნო-ვენკოვის რაიონი
     lv: Brno lauku apriņķis
     ms: Daerah Brno-Country
@@ -2990,6 +3163,8 @@
     sr_Latn: Okrug Brno-okolina
     uk: Брно-околиця
     zh: 布爾諾郊縣
+    ko: 브르노 교외구
+    ro: Brno-Rural
   name: Brno-venkov
   code: '643'
   type: district
@@ -3030,6 +3205,8 @@
     tr: Břeclav ilçesi
     uk: Бржецлав
     zh: 布熱茨拉夫縣
+    id: Distrik Břeclav
+    ko: 브르제츨라프구
   name: Břeclav
   code: '644'
   type: district
@@ -3047,6 +3224,7 @@
     hu: Hodoníni járás
     hy: Հոդոնինի շրջան
     it: Distretto di Hodonín
+    ja: ホドニーン郡
     ka: ჰოდონინის რაიონი
     lv: Hodonīnas apriņķis
     ms: Daerah Hodonín
@@ -3068,6 +3246,8 @@
     tr: Hodonín ilçesi
     uk: Годонін
     zh: 霍多寧縣
+    id: Distrik Hodonín
+    ko: 호도닌구
   name: Hodonín
   code: '645'
   type: district
@@ -3085,6 +3265,7 @@
     hu: Vyškovi járás
     hy: Վիշկովի շրջան
     it: Distretto di Vyškov
+    ja: ヴィシュコフ郡
     ka: ვისკოვის რაიონი
     lv: Viškovas apriņķis
     ms: Daerah Vyškov
@@ -3105,6 +3286,8 @@
     tr: Vyškov ilçesi
     uk: Вишков
     zh: 維什科夫縣
+    ko: 비슈코프구
+    ro: Vyškov
   name: Vyškov
   code: '646'
   type: district
@@ -3121,6 +3304,7 @@
     hu: Znojmói járás
     hy: Զնոյմոյի շրջան
     it: Distretto di Znojmo
+    ja: ズノイモ郡
     ka: ზნოიმოს რაიონი
     lv: Znojmo apriņķis
     ms: Daerah Znojmo
@@ -3142,6 +3326,8 @@
     tr: Znojmo ilçesi
     uk: Зноймо
     zh: 茲諾伊莫縣
+    ko: 즈노이모구
+    ro: Znojmo
   name: Znojmo
   code: '647'
   type: district
@@ -3204,6 +3390,7 @@
     mk: Оломоучки крај
     'no': Olomouc region
     sr_Latn: Olomoucki kraj
+    sl: Olomuški okraj
   geo:
     latitude: 49.65865489999999
     longitude: 17.0811406
@@ -3249,6 +3436,8 @@
     tr: Jeseník ilçesi
     uk: Єсенік
     zh: 耶塞尼克縣
+    ja: イェセニーク郡
+    ko: 예세니크구
   name: Jeseník
   code: '711'
   type: district
@@ -3265,6 +3454,7 @@
     hu: Olomouci járás
     hy: Օլոմոուցի շրջան
     it: Distretto di Olomouc
+    ja: オロモウツ郡
     ka: ოლომოუცის რაიონი
     lt: Olomouco rajonas
     lv: Olomoucas apriņķis
@@ -3288,6 +3478,8 @@
     tr: Olomouc ilçesi
     uk: Оломоуц
     zh: 奧洛莫烏茨縣
+    id: Distrik Olomouc
+    ko: 올로모우츠구
   name: Olomouc
   code: '712'
   type: district
@@ -3328,6 +3520,8 @@
     tr: Prostějov ilçesi
     uk: Простейов
     zh: 普羅斯捷約夫縣
+    id: Distrik Prostějov
+    ko: 프로스테요프구
   name: Prostějov
   code: '713'
   type: district
@@ -3367,6 +3561,8 @@
     tr: Přerov ilçesi
     uk: Пршеров
     zh: 普熱羅夫縣
+    ko: 프르제로프구
+    ro: Přerov
   name: Přerov
   code: '714'
   type: district
@@ -3383,6 +3579,7 @@
     hu: Šumperki járás
     hy: Շումպերկի շրջան
     it: Distretto di Šumperk
+    ja: シュンペルク郡
     ka: შუმპერკის რაიონი
     lt: Šumperko rajonas
     lv: Šumperkas apriņķis
@@ -3404,6 +3601,8 @@
     tr: Šumperk İlçesi
     uk: Шумперк
     zh: 順佩爾克縣
+    ko: 슘페르크구
+    ro: Šumperk
   name: Šumperk
   code: '715'
   type: district
@@ -3467,6 +3666,7 @@
     mk: Злински крај
     'no': Zlín
     sr_Latn: Zlinski kraj
+    sl: Zlinski okraj
   geo:
     latitude: 49.2162296
     longitude: 17.7720353
@@ -3514,6 +3714,7 @@
     sr_Latn: Okrug Kromjeržiž
     tr: Kroměříž ilçesi
     zh: 克羅梅日什縣
+    ko: 크로메르지시구
   name: Kroměříž
   code: '721'
   type: district
@@ -3530,6 +3731,7 @@
     hu: Uherské Hradiště-i járás
     hy: Ուհարսյե Հրադանիշտեի շրջան
     it: Distretto di Uherské Hradiště
+    ja: ウヘルスケー・フラジシチェ郡
     ka: უჰერსკე-ჰრადიშტეს რაიონი
     lv: Uherske Hradištes apriņķis
     ms: Daerah Uherské Hradiště
@@ -3553,6 +3755,8 @@
     tr: Uherské Hradiště ilçesi
     uk: Угерске Градіште
     zh: 烏赫爾堡縣
+    ko: 우헤르스케흐라디슈테구
+    ro: Uherské Hradiště
   name: Uherské Hradiště
   code: '722'
   type: district
@@ -3591,6 +3795,9 @@
     sr_Latn: Okrug Vsetin
     tr: Vsetín ilçesi
     zh: 弗塞廷縣
+    ko: 브세틴구
+    pt: Vsetín (distrito)
+    ro: Vsetín
   name: Vsetín
   code: '723'
   type: district
@@ -3631,6 +3838,7 @@
     tr: Zlín ilçesi
     uk: Злін
     zh: 茲林縣
+    ko: 즐린구
   name: Zlín
   code: '724'
   type: district
@@ -3695,6 +3903,7 @@
     mk: Моравскошлески крај
     'no': Mähren-Schlesien region
     sr_Latn: Moravsko-Šleski kraj
+    sl: Moravsko-šlezijski okraj
   geo:
     latitude: 49.7305327
     longitude: 18.2332637
@@ -3718,6 +3927,7 @@
     hu: Bruntáli járás
     hy: Բրունտալի շրջան
     it: Distretto di Bruntál
+    ja: ブルンタール郡
     ka: ბრუნტალის რაიონი
     lt: Bruntalo rajonas
     lv: Bruntālas apriņķis
@@ -3738,6 +3948,9 @@
     sr_Latn: Okrug Bruntal
     uk: Округ Брунталь
     zh: 布倫塔爾縣
+    ko: 브룬탈구
+    pt: Bruntál
+    tr: Bruntál ilçesi
   name: Bruntál
   code: '801'
   type: district
@@ -3755,6 +3968,7 @@
     hu: Frýdek-místeki járás
     hy: Ֆրիդեկ-Միստեկի շրջան
     it: Distretto di Frýdek-Místek
+    ja: フリーデク＝ミーステク郡
     ka: ფრიდეკ-მისტეკის რაიონი
     lt: Frydek Mysteko rajonas
     lv: Frīdekmīstekas apriņķis
@@ -3777,6 +3991,8 @@
     tr: Frýdek-Místek ilçesi
     uk: Фридек-Містек
     zh: 弗里代克-米斯泰克縣
+    be: раён Фрыдак-Містак
+    ko: 프리데크미스테크구
   name: Frýdek-Místek
   code: '802'
   type: district
@@ -3794,6 +4010,7 @@
     hu: Karvinái járás
     hy: Կարվինայի շրջան
     it: Distretto di Karviná
+    ja: カルヴィナー郡
     ka: კარვინის რაიონი
     lt: Karvinos rajonas
     lv: Karvinas apriņķis
@@ -3815,6 +4032,8 @@
     tr: Karviná ilçesi
     uk: Карвіна
     zh: 卡爾維納縣
+    ko: 카르비나구
+    pt: Karviná (distrito)
   name: Karviná
   code: '803'
   type: district
@@ -3832,6 +4051,7 @@
     hu: Nový Jičín-i járás
     hy: Նովի Յիչինի շրջան
     it: Distretto di Nový Jičín
+    ja: ノヴィー・イチーン郡
     ka: ნოვი-იიჩინის რაიონი
     lt: Novy Jičyno rajonas
     lv: Novi Jičīnas apriņķis
@@ -3854,6 +4074,8 @@
     tr: Nový Jičín ilçesi
     uk: Новий Їчин
     zh: 新伊欽縣
+    ko: 노비이친구
+    pt: Nový Jičín (distrito)
   name: Nový Jičín
   code: '804'
   type: district
@@ -3870,6 +4092,7 @@
     hu: Opavai járás
     hy: Օպավայի շրջան
     it: Distretto di Opava
+    ja: オパヴァ郡
     ka: ოპავის რაიონი
     lt: Opavos rajonas
     lv: Opavas apriņķis
@@ -3893,6 +4116,7 @@
     tr: Opava ilçesi
     uk: Опава
     zh: 奧帕瓦縣
+    ko: 오파바구
   name: Opava
   code: '805'
   type: district
@@ -3908,6 +4132,7 @@
     hu: Ostrava városi járás
     hy: Օստրավայի շրջան
     it: Distretto di Ostrava
+    ja: オストラヴァ都市郡
     lt: Ostravos miesto rajonas
     lv: Ostravas-pilsētas apriņķis
     ms: Daerah Bandaraya Ostrava
@@ -3928,6 +4153,8 @@
     sr_Latn: Okrug Ostrava-grad
     uk: Острава-місто
     zh: 俄斯特拉發城縣
+    ko: 오스트라바 도시구
+    ro: Ostrava-Oraș
   name: Ostrava-město
   code: '806'
   type: district

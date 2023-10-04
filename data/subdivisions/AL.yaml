@@ -56,6 +56,7 @@
     ta: பிரெட் கவுண்டி
     te: బెరాట్ కౌంటీ
     th: เบราท
+    tk: Berat
     tr: Berat ili
     uk: Берат
     ur: صوبہ بیرات
@@ -69,6 +70,10 @@
     bs: Okrug Berat
     mk: Белград
     'no': Berat
+    az: Berat vilayəti
+    cy: Sir Berat
+    sr: Округ Берат
+    sr_Latn: Okrug Berat
   comments:
   type: county
 '02':
@@ -126,6 +131,7 @@
     ta: டூர்ஸ் கவுண்டி
     te: డురెస్ కౌంటీ
     th: โลวเรนซ์ นา โพฮอร์จู
+    tk: Durres
     tr: Dıraç ili
     uk: Дуррес
     ur: صوبہ دراج
@@ -141,6 +147,9 @@
     bs: Okrug Drač
     mk: Драч
     'no': Durrës
+    cy: Sir Durrës
+    sr: Округ Драч
+    sr_Latn: Okrug Drač
   comments:
   type: county
 '03':
@@ -185,6 +194,7 @@
     ru: Эльбасан
     sk: Elbasan
     sv: Elbasan prefektur
+    tk: Elbasan
     tr: Elbasan ili
     uk: Ельбасан
     ur: صوبہ الباسان
@@ -200,6 +210,13 @@
     bs: Okrug Elbasan
     mk: Елбасан
     'no': Elbasan
+    az: Elbasan vilayəti
+    cy: Sir Elbasan
+    da: Elbasan
+    id: County Elbasan
+    lv: Eļbasani ķarka
+    sr: Округ Елбасан
+    sr_Latn: Okrug Elbasan
   comments:
   type: county
 '04':
@@ -243,6 +260,7 @@
     ru: Фиери
     sk: Fier
     sv: Fier prefektur
+    tk: Fiýeri
     tr: Fier ili
     uk: Фієр
     ur: صوبہ فیر
@@ -257,6 +275,14 @@
     bs: Okrug Fier
     mk: Фиер
     'no': Fier
+    az: Fieri
+    be: вобласць Фіеры
+    cy: Sir Fier
+    da: Fier
+    id: County Fier
+    lv: Fieri ķarka
+    sr: Округ Фјер
+    sr_Latn: Okrug Fjer
   comments:
   type: county
 '05':
@@ -313,6 +339,7 @@
     ta: கிஜிரோகஸ்ட்டர் கவுண்டி
     te: గిజిరోకాస్టర్ కౌంటీ
     th: เมืองกีโรคาสเตอร์
+    tk: Girokastra
     tr: Ergiri ili
     uk: Ґʼїрокастер
     ur: صوبہ ارجیر
@@ -330,6 +357,9 @@
     bs: Okrug Gjirokastër
     mk: Ѓирокастро
     'no': Gjirokastër
+    cy: Sir Gjirokastër
+    sr: Округ Ђирокастра
+    sr_Latn: Okrug Đirokastra
   comments:
   type: county
 '06':
@@ -387,6 +417,7 @@
     ta: கூர்க்ஏ கவுண்டி
     te: కోర్సె కౌంటీ
     th: คอซี่
+    tk: Korça
     tr: Görice ili
     uk: Корча
     ur: صوبہ کورچہ
@@ -400,6 +431,9 @@
     bs: Okrug Korča
     mk: Горица
     'no': Korçë
+    cy: Sir Korçë
+    sr: Округ Корча
+    sr_Latn: Okrug Korča
   comments:
   type: county
 '07':
@@ -444,6 +478,7 @@
     ru: Кукес
     sk: Kukës
     sv: Kukës prefektur
+    tk: Kukes
     tr: Kukës ili
     uk: Кукес
     ur: صوبہ کوکس
@@ -457,6 +492,12 @@
     bs: Okrug Kukës
     mk: Кукуш
     'no': Kukës
+    cy: Sir Kukës
+    da: Kukës
+    he: מחוז קוקס
+    id: County Kukës
+    sr: Округ Кукес
+    sr_Latn: Okrug Kukes
   comments:
   type: county
 '08':
@@ -501,6 +542,7 @@
     ru: Лежа
     sk: Lezhë
     sv: Lezhë prefektur
+    tk: Leža
     tr: Leç ili
     uk: Лежа
     ur: صوبہ لژہ
@@ -515,6 +557,11 @@
     bs: Okrug Lješ
     mk: Леска
     'no': Lezhë
+    cy: Sir Lezhë
+    da: Lezhë
+    id: County Lezhë
+    sr: Округ Љеш
+    sr_Latn: Okrug Lješ
   comments:
   type: county
 '09':
@@ -561,6 +608,7 @@
     ru: Дибра
     sk: Dibër
     sv: Dibër prefektur
+    tk: Dibra
     tr: Debre ili
     uk: Дібер
     ur: صوبہ دیبر
@@ -574,6 +622,11 @@
     bs: Okrug Dibr
     mk: Дебар
     'no': Dibër
+    cy: Sir Dibër
+    da: Dibër
+    id: County Dibër
+    sr: Округ Дибер
+    sr_Latn: Okrug Diber
   comments:
   type: county
 '10':
@@ -619,6 +672,7 @@
     ru: Шкодер
     sk: Shkodër
     sv: Shkodër prefektur
+    tk: Şkodra
     tr: İşkodra ili
     uk: Шкодер
     ur: صوبہ شکودر
@@ -635,6 +689,9 @@
     bs: Okrug Skadar
     mk: Скадар
     'no': Shkodër
+    cy: Sir Shkodër
+    id: County Shkodër
+    lv: Škodras ķarka
   comments:
   type: county
 '11':
@@ -683,6 +740,7 @@
     sk: Tirana
     sv: Tiranë prefektur
     th: มณฑลติรานา
+    tk: Tirana
     tr: Tiran ili
     uk: Тирана
     ur: صوبہ تیرانا
@@ -699,6 +757,12 @@
     bs: Okrug Tirana
     mk: Тирана
     'no': Tiranë
+    cy: Sir Tirana
+    da: Tirana
+    id: County Tiranë
+    ka: ტირანის ოლქი
+    sr: Округ Тирана
+    sr_Latn: Okrug Tirana
   comments:
   type: county
 '12':
@@ -756,6 +820,7 @@
     ta: வல்லோர் கவுண்டி
     te: లోర్ కౌంటీ
     th: เทศมณฑลวโลเร
+    tk: Wlýora
     tr: Avlonya ili
     uk: Вльора
     ur: صوبہ ولورہ
@@ -769,5 +834,9 @@
     bs: Okrug Vlora
     mk: Валона
     'no': Vlorë
+    cy: Sir Vlorë
+    he: ולורה
+    sr: Округ Валона
+    sr_Latn: Okrug Valona
   comments:
   type: county

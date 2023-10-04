@@ -61,6 +61,7 @@
     ta: பெர்ஜென்லாண்ட்
     te: బర్జెన్లాండ్
     th: รัฐบูร์เกนลันด์
+    tk: Burgenland
     tr: Burgenland
     uk: Бургенланд
     ur: بورگنلینڈ
@@ -76,6 +77,11 @@
     bs: Gradišće
     mk: Градиште
     'no': Burgenland
+    az: Burqenland
+    ps: بورګن لاند
+    sd: برجنلينڊ
+    sq: Burgenland
+    sw: Burgenland
   comments:
   type: state
 '2':
@@ -143,6 +149,7 @@
     ta: காரின்திஆ
     te: కెంర్టెన్
     th: รัฐคารินเทีย
+    tk: Karintiýa
     tr: Karintiya
     uk: Каринтія
     ur: کارنتھیا (ریاست)
@@ -158,6 +165,9 @@
     bs: Koruška
     mk: Корушка
     'no': Kärnten
+    az: Karintiya
+    sd: ڪرينٿيا
+    sq: Kärnten
   comments:
   type: state
 '3':
@@ -241,6 +251,10 @@
     bs: Donja Austrija
     mk: Долна Австрија
     'no': Niederösterreich
+    az: Aşağı Avstriya
+    ga: An Ostair Íochtarach
+    sd: لوئر آسٽريا
+    sq: Austria e Poshtme
   comments:
   type: state
 '4':
@@ -307,6 +321,7 @@
     ta: அப்பர் ஆஸ்திரியா
     te: అప్పర్ ఆస్ట్రియా
     th: รัฐอัปเปอร์ออสเตรีย
+    tk: Ýokarky Awstriýa
     tr: Yukarı Avusturya
     uk: Верхня Австрія
     ur: بالائی آسٹریا
@@ -322,6 +337,10 @@
     bs: Gornja Austrija
     mk: Горна Австрија
     'no': Oberösterreich
+    az: Yuxarı Avstriya
+    ga: An Ostair Uachtarach
+    sd: اپر آسٽريا
+    sq: Austria e Epërme
   comments:
   type: state
 '5':
@@ -388,6 +407,7 @@
     ta: சலஸ்புரஃ
     te: సాల్జ్‌బర్గ్
     th: รัฐซาลซ์บูร์ก
+    tk: Zaltsburg
     tr: Salzburg
     uk: Зальцбург
     ur: سالزبرگ (ریاست)
@@ -402,6 +422,9 @@
     bs: Salzburg
     mk: Салцбург
     'no': Salzburg
+    az: Zalsburq
+    sd: سلزبرگ (رياست)
+    sq: Salzburgu (shteti federal)
   comments:
   type: state
 '6':
@@ -469,6 +492,7 @@
     ta: ஸ்டைரியா
     te: స్టైరియా
     th: รัฐสตีเรีย
+    tk: Ştiriýa
     tr: Steiermark
     uk: Штирія
     ur: سٹیریا
@@ -484,6 +508,8 @@
     bs: Štajerska
     mk: Штаерска
     'no': Steiermark
+    sd: اسٽيريا
+    sq: Stiria
   comments:
   type: state
 '7':
@@ -549,6 +575,7 @@
     ta: டிரோள்
     te: టైరోల్
     th: รัฐทีโรล
+    tk: Tirol
     tr: Tirol
     uk: Тіроль
     ur: ٹیرول (ریاست)
@@ -564,6 +591,10 @@
     bs: Tirol
     mk: Тирол
     'no': Tirol
+    az: Tirol
+    ky: Тирол (Австрия)
+    sd: ٽرول (رياست)
+    sq: Tiroli
   comments:
   type: state
 '8':
@@ -629,6 +660,7 @@
     ta: வோரால்பேர்க்
     te: వోరార్ల్ బెర్గ్
     th: รัฐโฟราร์ลแบร์ก
+    tk: Forarlberg
     tr: Vorarlberg
     uk: Форарльберг
     ur: وورارلبرگ
@@ -645,6 +677,8 @@
     bs: Vorarlberg
     mk: Предарлска
     'no': Vorarlberg
+    az: Forarlberq
+    sd: وورارلبرگ
   comments:
   type: state
 '9':
@@ -746,5 +780,6 @@
     ha_NE: Vienna
     'no': Wien
     yo_BJ: Fienna
+    sd: ويانا
   comments:
   type: state

@@ -10,6 +10,7 @@ AU:
   continent: Australia
   country_code: '61'
   currency_code: AUD
+  g20_member: true
   gec: AS
   geo:
     latitude: -25.274398
@@ -47,6 +48,7 @@ AU:
   subregion: Australia and New Zealand
   un_locode: AU
   unofficial_names:
+  - Australia
   - Australien
   - Australie
   - オーストラリア
