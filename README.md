@@ -209,6 +209,14 @@ fmt.Println(c.ESMMember)
 // Output: true
 ```
 
+### GDPR Compliant
+
+```go
+c := countries.Get("IT")
+fmt.Println(c.GDPRCompliant())
+// Output: true
+```
+
 ### Country Finders
 
 ```go

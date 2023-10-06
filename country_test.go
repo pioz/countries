@@ -233,6 +233,12 @@ func ExampleGet_readmeEuropeanSingleMarketMembership() {
 	// Output: true
 }
 
+func ExampleGet_readmeGDPRCompliant() {
+	c := countries.Get("IT")
+	fmt.Println(c.GDPRCompliant())
+	// Output: true
+}
+
 func ExampleGet_readmeCountryFinders() {
 	allCountries := countries.All
 	countriesInEurope := countries.InRegion("Europe")
