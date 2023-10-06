@@ -50,6 +50,8 @@ type Country struct {
 	CurrencyCode                   string                 `yaml:"currency_code"`
 	EEAMember                      bool                   `yaml:"eea_member"`
 	EUMember                       bool                   `yaml:"eu_member"`
+	G7Member                       bool                   `yaml:"g7_member"`
+	G20Member                      bool                   `yaml:"g20_member"`
 	ESMMember                      bool                   `yaml:"esm_member"`
 	GEC                            string                 `yaml:"gec"`
 	Geo                            Geo                    `yaml:"geo"`

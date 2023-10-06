@@ -24,6 +24,8 @@ func TestCountry(t *testing.T) {
 	assert.Equal(t, "EUR", c.CurrencyCode)
 	assert.Equal(t, true, c.EEAMember)
 	assert.Equal(t, true, c.EUMember)
+	assert.Equal(t, true, c.G7Member)
+	assert.Equal(t, true, c.G20Member)
 	assert.Equal(t, false, c.ESMMember)
 	assert.Equal(t, "IT", c.GEC)
 	assert.Equal(t, 41.87194, c.Geo.Latitude)
