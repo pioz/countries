@@ -12,7 +12,7 @@ import (
 	"strings"
 
 	"github.com/pioz/countries"
-	"gopkg.in/yaml.v2"
+	"gopkg.in/yaml.v3"
 )
 
 type Generator struct {
