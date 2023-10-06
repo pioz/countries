@@ -400,6 +400,23 @@ func ExampleCountry_FormatAddress() {
 	// United States of America
 }
 
+func ExampleCountry_GDPRCompliant() {
+	c := countries.Get("IT")
+	fmt.Println(c.GDPRCompliant())
+	// Output: true
+}
+
+func TestGDPRCompliant(t *testing.T) {
+	c := countries.Get("IT")
+	assert.True(t, c.GDPRCompliant())
+
+	c = countries.Get("GB")
+	assert.True(t, c.GDPRCompliant())
+
+	c = countries.Get("US")
+	assert.False(t, c.GDPRCompliant())
+}
+
 func ExampleCountry_EmojiFlag() {
 	c := countries.Get("US")
 	fmt.Println(c.EmojiFlag())

@@ -182,6 +182,13 @@ func (c *Country) FormatAddress(recipient, street, postalCode, city, region stri
 	return a
 }
 
+// GDPRCompliant returns true if the country is GDPR (General Data Protection
+// Regulation) compliant. A country is GDPR compliant if is a member of the
+// European Economic Area or it is UK.
+func (c *Country) GDPRCompliant() bool {
+	return c.EEAMember || c.Alpha2 == "GB"
+}
+
 var flagsCodePoints = map[rune]rune{
 	'a': '🇦',
 	'b': '🇧',
