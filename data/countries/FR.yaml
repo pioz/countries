@@ -10,10 +10,11 @@ FR:
   continent: Europe
   country_code: '33'
   currency_code: EUR
+  distance_unit: KM
   eea_member: true
   eu_member: true
-  g7_member: true
   g20_member: true
+  g7_member: true
   gec: FR
   geo:
     latitude: 46.227638
@@ -51,6 +52,7 @@ FR:
   start_of_week: monday
   subregion: Western Europe
   un_locode: FR
+  un_member: true
   unofficial_names:
   - France
   - Frankreich
@@ -65,4 +67,5 @@ FR:
     - 10
     super_reduced: 2.1
     parking:
+  vehicle_registration_code: F
   world_region: EMEA

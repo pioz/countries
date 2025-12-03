@@ -5,6 +5,7 @@ FO:
   continent: Europe
   country_code: '298'
   currency_code: DKK
+  distance_unit: KM
   gec: FO
   geo:
     latitude: 61.89263500000001
@@ -24,6 +25,7 @@ FO:
   ioc: FRO
   iso_long_name: The Faroe Islands
   iso_short_name: Faroe Islands
+  iso_short_name_lower_case: Faroe Islands (the)
   languages_official:
   - fo
   languages_spoken:
@@ -41,6 +43,7 @@ FO:
   start_of_week: monday
   subregion: Northern Europe
   un_locode: FO
+  un_member: false
   unofficial_names:
   - Faroe Islands
   - Färöer-Inseln
@@ -48,4 +51,5 @@ FO:
   - Islas Faroe
   - フェロー諸島
   - Faeröer
+  vehicle_registration_code: FO
   world_region: EMEA

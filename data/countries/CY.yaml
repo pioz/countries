@@ -5,6 +5,7 @@ CY:
   continent: Asia
   country_code: '357'
   currency_code: EUR
+  distance_unit: KM
   eea_member: true
   eu_member: true
   gec: CY
@@ -47,6 +48,7 @@ CY:
   start_of_week: monday
   subregion: Western Asia
   un_locode: CY
+  un_member: true
   unofficial_names:
   - Cyprus
   - Zypern
@@ -60,4 +62,5 @@ CY:
     - 9
     super_reduced:
     parking:
+  vehicle_registration_code: CY
   world_region: EMEA

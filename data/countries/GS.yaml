@@ -5,6 +5,7 @@ GS:
   continent: Antarctica
   country_code: '500'
   currency_code: GBP
+  distance_unit: KM
   gec: SX
   geo:
     latitude: -54.429579
@@ -39,6 +40,7 @@ GS:
   start_of_week: monday
   subregion: South America
   un_locode: GS
+  un_member: false
   unofficial_names:
   - South Georgia
   - South Georgia and the South Sandwich Islands

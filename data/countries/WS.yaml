@@ -5,6 +5,7 @@ WS:
   continent: Australia
   country_code: '685'
   currency_code: WST
+  distance_unit: MI
   gec: WS
   geo:
     latitude: -13.759029
@@ -43,7 +44,9 @@ WS:
   start_of_week: monday
   subregion: Polynesia
   un_locode: WS
+  un_member: true
   unofficial_names:
   - Samoa
   - サモア
+  vehicle_registration_code: WS
   world_region: APAC

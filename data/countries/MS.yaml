@@ -5,6 +5,7 @@ MS:
   continent: North America
   country_code: '1'
   currency_code: XCD
+  distance_unit: KM
   gec: MH
   geo:
     latitude: 16.742498
@@ -41,6 +42,7 @@ MS:
   start_of_week: monday
   subregion: Caribbean
   un_locode: MS
+  un_member: false
   unofficial_names:
   - Montserrat
   - モントセラト

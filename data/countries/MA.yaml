@@ -5,6 +5,7 @@ MA:
   continent: Africa
   country_code: '212'
   currency_code: MAD
+  distance_unit: KM
   gec: MO
   geo:
     latitude: 31.791702
@@ -41,6 +42,7 @@ MA:
   start_of_week: monday
   subregion: Northern Africa
   un_locode: MA
+  un_member: true
   unofficial_names:
   - Morocco
   - المغرب
@@ -48,4 +50,5 @@ MA:
   - Maroc
   - Marruecos
   - モロッコ
+  vehicle_registration_code: MA
   world_region: EMEA

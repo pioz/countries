@@ -6,6 +6,7 @@ PA:
   continent: North America
   country_code: '507'
   currency_code: PAB
+  distance_unit: KM
   gec: PM
   geo:
     latitude: 8.537981
@@ -41,8 +42,10 @@ PA:
   start_of_week: monday
   subregion: Central America
   un_locode: PA
+  un_member: true
   unofficial_names:
   - Panama
   - Panamá
   - パナマ
+  vehicle_registration_code: PA
   world_region: AMER

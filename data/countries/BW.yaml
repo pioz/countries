@@ -5,6 +5,7 @@ BW:
   continent: Africa
   country_code: '267'
   currency_code: BWP
+  distance_unit: KM
   gec: BC
   geo:
     latitude: -22.328474
@@ -42,7 +43,9 @@ BW:
   start_of_week: monday
   subregion: Southern Africa
   un_locode: BW
+  un_member: true
   unofficial_names:
   - Botswana
   - ボツワナ
+  vehicle_registration_code: RB
   world_region: EMEA

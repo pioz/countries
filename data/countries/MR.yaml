@@ -5,6 +5,7 @@ MR:
   continent: Africa
   country_code: '222'
   currency_code: MRU
+  distance_unit: KM
   gec: MR
   geo:
     latitude: 21.00789
@@ -42,6 +43,7 @@ MR:
   start_of_week: monday
   subregion: Western Africa
   un_locode: MR
+  un_member: true
   unofficial_names:
   - Mauritania
   - موريتانيا
@@ -49,4 +51,5 @@ MR:
   - Mauritanie
   - モーリタニア
   - Mauritanië
+  vehicle_registration_code: RIM
   world_region: EMEA

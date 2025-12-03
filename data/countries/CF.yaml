@@ -5,6 +5,7 @@ CF:
   continent: Africa
   country_code: '236'
   currency_code: XAF
+  distance_unit: KM
   gec: CT
   geo:
     latitude: 6.611110999999999
@@ -24,6 +25,7 @@ CF:
   ioc: CAF
   iso_long_name: The Central African Republic
   iso_short_name: Central African Republic
+  iso_short_name_lower_case: Central African Republic (the)
   languages_official:
   - fr
   - sg
@@ -42,6 +44,7 @@ CF:
   start_of_week: monday
   subregion: Middle Africa
   un_locode: CF
+  un_member: true
   unofficial_names:
   - Central African Republic
   - Zentralafrikanische Republik
@@ -49,4 +52,5 @@ CF:
   - República Centroafricana
   - 中央アフリカ共和国
   - Centraal-Afrikaanse Republiek
+  vehicle_registration_code: RCA
   world_region: EMEA

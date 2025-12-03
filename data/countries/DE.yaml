@@ -10,10 +10,11 @@ DE:
   continent: Europe
   country_code: '49'
   currency_code: EUR
+  distance_unit: KM
   eea_member: true
   eu_member: true
-  g7_member: true
   g20_member: true
+  g7_member: true
   gec: GM
   geo:
     latitude: 51.165691
@@ -58,6 +59,7 @@ DE:
   start_of_week: monday
   subregion: Western Europe
   un_locode: DE
+  un_member: true
   unofficial_names:
   - Germany
   - Deutschland
@@ -71,4 +73,5 @@ DE:
     - 7
     super_reduced:
     parking:
+  vehicle_registration_code: D
   world_region: EMEA

@@ -6,6 +6,7 @@ PS:
   continent: Asia
   country_code: '970'
   currency_code: ILS
+  distance_unit: KM
   gec: WE
   geo:
     latitude: 31.952162
@@ -36,7 +37,9 @@ PS:
   national_destination_code_lengths:
   - 2
   national_number_lengths:
+  - 7
   - 8
+  - 9
   national_prefix: '0'
   nationality: Palestinian
   number: '275'
@@ -45,6 +48,7 @@ PS:
   start_of_week: sunday
   subregion: Western Asia
   un_locode: PS
+  un_member: false
   unofficial_names:
   - Palestine
   - فلسطين
@@ -55,4 +59,5 @@ PS:
   - Palestijnse gebieden
   - Palestinian Territory Occupied
   - Palestinian Authority
+  vehicle_registration_code: WB
   world_region: EMEA

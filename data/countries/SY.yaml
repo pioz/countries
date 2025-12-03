@@ -10,6 +10,7 @@ SY:
   continent: Asia
   country_code: '963'
   currency_code: SYP
+  distance_unit: KM
   gec: SY
   geo:
     latitude: 34.80207499999999
@@ -46,6 +47,7 @@ SY:
   start_of_week: monday
   subregion: Western Asia
   un_locode: SY
+  un_member: true
   unofficial_names:
   - Syria
   - سوريا
@@ -55,4 +57,5 @@ SY:
   - Siria
   - シリア・アラブ共和国
   - Syrië
+  vehicle_registration_code: SYR
   world_region: EMEA

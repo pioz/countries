@@ -11,6 +11,7 @@ ES:
   continent: Europe
   country_code: '34'
   currency_code: EUR
+  distance_unit: KM
   eea_member: true
   eu_member: true
   gec: SP
@@ -36,6 +37,14 @@ ES:
   - es
   languages_spoken:
   - es
+  - ca
+  - gl
+  - eu
+  - an
+  - ast
+  - fax
+  - rif
+  - rmq
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -49,6 +58,7 @@ ES:
   start_of_week: monday
   subregion: Southern Europe
   un_locode: ES
+  un_member: true
   unofficial_names:
   - Spain
   - Spanien
@@ -62,4 +72,5 @@ ES:
     - 10
     super_reduced: 4
     parking:
+  vehicle_registration_code: E
   world_region: EMEA

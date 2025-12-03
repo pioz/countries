@@ -5,6 +5,7 @@ FK:
   continent: South America
   country_code: '500'
   currency_code: FKP
+  distance_unit: MI
   gec: FK
   geo:
     latitude: -51.796253
@@ -24,6 +25,7 @@ FK:
   ioc:
   iso_long_name: The Falkland Islands
   iso_short_name: Falkland Islands (Malvinas)
+  iso_short_name_lower_case: Falkland Islands (the) [Malvinas]
   languages_official:
   - en
   languages_spoken:
@@ -41,8 +43,10 @@ FK:
   start_of_week: monday
   subregion: South America
   un_locode: FK
+  un_member: false
   unofficial_names:
   - Falkland Islands
+  - Falkland Islands [Malvinas]
   - Falklandinseln
   - Îles Malouines
   - Islas Malvinas

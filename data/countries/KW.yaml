@@ -11,6 +11,7 @@ KW:
   continent: Asia
   country_code: '965'
   currency_code: KWD
+  distance_unit: KM
   gec: KU
   geo:
     latitude: 29.31166
@@ -47,10 +48,12 @@ KW:
   start_of_week: sunday
   subregion: Western Asia
   un_locode: KW
+  un_member: true
   unofficial_names:
   - Kuwait
   - الكويت
   - Koweït
   - クウェート
   - Koeweit
+  vehicle_registration_code: KWT
   world_region: EMEA

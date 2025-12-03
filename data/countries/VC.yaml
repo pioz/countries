@@ -5,6 +5,7 @@ VC:
   continent: North America
   country_code: '1'
   currency_code: XCD
+  distance_unit: MI
   gec: VC
   geo:
     latitude: 12.984305
@@ -42,6 +43,7 @@ VC:
   start_of_week: monday
   subregion: Caribbean
   un_locode: VC
+  un_member: true
   unofficial_names:
   - Saint Vincent and the Grenadines
   - Saint Vincent und die Grenadinen
@@ -51,4 +53,5 @@ VC:
   - Saint Vincent en de Grenadines
   - St. Vincent Grenadines
   - St Vincent Grenadines
+  vehicle_registration_code: WV
   world_region: AMER

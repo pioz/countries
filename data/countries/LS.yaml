@@ -6,6 +6,7 @@ LS:
   continent: Africa
   country_code: '266'
   currency_code: LSL
+  distance_unit: KM
   gec: LT
   geo:
     latitude: -29.609988
@@ -44,7 +45,9 @@ LS:
   start_of_week: monday
   subregion: Southern Africa
   un_locode: LS
+  un_member: true
   unofficial_names:
   - Lesotho
   - レソト
+  vehicle_registration_code: LS
   world_region: EMEA

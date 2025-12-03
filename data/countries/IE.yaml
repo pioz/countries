@@ -10,6 +10,7 @@ IE:
   continent: Europe
   country_code: '353'
   currency_code: EUR
+  distance_unit: KM
   eea_member: true
   eu_member: true
   gec: EI
@@ -50,6 +51,7 @@ IE:
   start_of_week: monday
   subregion: Northern Europe
   un_locode: IE
+  un_member: true
   unofficial_names:
   - Ireland
   - Irland
@@ -64,4 +66,5 @@ IE:
     - 13.5
     super_reduced: 4.8
     parking: 13.5
+  vehicle_registration_code: IRL
   world_region: EMEA

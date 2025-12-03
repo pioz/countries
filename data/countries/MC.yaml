@@ -5,6 +5,7 @@ MC:
   continent: Europe
   country_code: '377'
   currency_code: EUR
+  distance_unit: KM
   eu_member: false
   euvat_member: true
   gec: MN
@@ -44,8 +45,10 @@ MC:
   start_of_week: monday
   subregion: Western Europe
   un_locode: MC
+  un_member: true
   unofficial_names:
   - Monaco
   - Mónaco
   - モナコ
+  vehicle_registration_code: MC
   world_region: EMEA

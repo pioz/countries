@@ -10,6 +10,7 @@ JO:
   continent: Asia
   country_code: '962'
   currency_code: JOD
+  distance_unit: KM
   gec: JO
   geo:
     latitude: 30.585164
@@ -47,6 +48,7 @@ JO:
   start_of_week: sunday
   subregion: Western Asia
   un_locode: JO
+  un_member: true
   unofficial_names:
   - Jordan
   - الأردن
@@ -55,4 +57,5 @@ JO:
   - Jordania
   - ヨルダン
   - Jordanië
+  vehicle_registration_code: JOR
   world_region: EMEA

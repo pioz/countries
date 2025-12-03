@@ -5,6 +5,7 @@ VG:
   continent: North America
   country_code: '1'
   currency_code: USD
+  distance_unit: MI
   gec: VI
   geo:
     latitude: 18.420695
@@ -42,6 +43,7 @@ VG:
   start_of_week: monday
   subregion: Caribbean
   un_locode: VG
+  un_member: false
   unofficial_names:
   - British Virgin Islands
   - Britische Jungferninseln
@@ -50,4 +52,5 @@ VG:
   - イギリス領ヴァージン諸島
   - Britse Maagdeneilanden
   - Virgin Islands (British)
+  vehicle_registration_code: BVI
   world_region: AMER

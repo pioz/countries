@@ -5,6 +5,7 @@ KG:
   continent: Asia
   country_code: '996'
   currency_code: KGS
+  distance_unit: KM
   gec: KG
   geo:
     latitude: 41.20438
@@ -43,6 +44,7 @@ KG:
   start_of_week: monday
   subregion: Central Asia
   un_locode: KG
+  un_member: true
   unofficial_names:
   - Kyrgyzstan
   - Kirgisistan
@@ -51,4 +53,5 @@ KG:
   - キルギス
   - Kirgizië
   - Kyrgzstan
+  vehicle_registration_code: KG
   world_region: EMEA

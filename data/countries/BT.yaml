@@ -5,6 +5,7 @@ BT:
   continent: Asia
   country_code: '975'
   currency_code: BTN
+  distance_unit: KM
   gec: BT
   geo:
     latitude: 27.514162
@@ -42,9 +43,11 @@ BT:
   start_of_week: monday
   subregion: Southern Asia
   un_locode: BT
+  un_member: true
   unofficial_names:
   - Bhutan
   - Bhoutan
   - Bután
   - ブータン
+  vehicle_registration_code: BHT
   world_region: APAC

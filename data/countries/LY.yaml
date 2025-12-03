@@ -5,6 +5,7 @@ LY:
   continent: Africa
   country_code: '218'
   currency_code: LYD
+  distance_unit: KM
   gec: LY
   geo:
     latitude: 26.3351
@@ -41,6 +42,7 @@ LY:
   start_of_week: sunday
   subregion: Northern Africa
   un_locode: LY
+  un_member: true
   unofficial_names:
   - Libya
   - ليبيا
@@ -50,4 +52,5 @@ LY:
   - リビア
   - Libië
   - Libyan Arab Jamahiriya
+  vehicle_registration_code: LAR
   world_region: EMEA

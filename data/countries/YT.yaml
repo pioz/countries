@@ -5,6 +5,7 @@ YT:
   continent: Africa
   country_code: '262'
   currency_code: EUR
+  distance_unit: KM
   eu_member: true
   euvat_member: false
   gec: MF
@@ -43,6 +44,7 @@ YT:
   start_of_week: monday
   subregion: Eastern Africa
   un_locode: YT
+  un_member: false
   unofficial_names:
   - Mayotte
   - マヨット

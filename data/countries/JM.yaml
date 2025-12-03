@@ -5,6 +5,7 @@ JM:
   continent: North America
   country_code: '1'
   currency_code: JMD
+  distance_unit: KM
   gec: JM
   geo:
     latitude: 18.109581
@@ -41,9 +42,11 @@ JM:
   start_of_week: monday
   subregion: Caribbean
   un_locode: JM
+  un_member: true
   unofficial_names:
   - Jamaica
   - Jamaika
   - Jamaïque
   - ジャマイカ
+  vehicle_registration_code: JA
   world_region: AMER

@@ -5,6 +5,7 @@ GT:
   continent: North America
   country_code: '502'
   currency_code: GTQ
+  distance_unit: KM
   gec: GT
   geo:
     latitude: 15.783471
@@ -41,7 +42,9 @@ GT:
   start_of_week: monday
   subregion: Central America
   un_locode: GT
+  un_member: true
   unofficial_names:
   - Guatemala
   - グアテマラ
+  vehicle_registration_code: GCA
   world_region: AMER

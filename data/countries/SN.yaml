@@ -5,6 +5,7 @@ SN:
   continent: Africa
   country_code: '221'
   currency_code: XOF
+  distance_unit: KM
   gec: SG
   geo:
     latitude: 14.497401
@@ -41,8 +42,10 @@ SN:
   start_of_week: monday
   subregion: Western Africa
   un_locode: SN
+  un_member: true
   unofficial_names:
   - Senegal
   - Sénégal
   - セネガル
+  vehicle_registration_code: SN
   world_region: EMEA

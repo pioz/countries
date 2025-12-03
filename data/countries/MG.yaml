@@ -5,6 +5,7 @@ MG:
   continent: Africa
   country_code: '261'
   currency_code: MGA
+  distance_unit: KM
   gec: MA
   geo:
     latitude: -18.766947
@@ -43,9 +44,11 @@ MG:
   start_of_week: monday
   subregion: Eastern Africa
   un_locode: MG
+  un_member: true
   unofficial_names:
   - Madagascar
   - Madagaskar
   - the Republic of Madagascar
   - マダガスカル
+  vehicle_registration_code: RM
   world_region: EMEA

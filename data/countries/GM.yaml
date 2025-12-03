@@ -5,6 +5,7 @@ GM:
   continent: Africa
   country_code: '220'
   currency_code: GMD
+  distance_unit: KM
   gec: GA
   geo:
     latitude: 13.443182
@@ -24,6 +25,7 @@ GM:
   ioc: GAM
   iso_long_name: The Republic of The Gambia
   iso_short_name: Gambia
+  iso_short_name_lower_case: Gambia (the)
   languages_official:
   - en
   languages_spoken:
@@ -40,7 +42,10 @@ GM:
   start_of_week: monday
   subregion: Western Africa
   un_locode: GM
+  un_member: true
   unofficial_names:
+  - Gambia
   - The Gambia
   - ガンビア
+  vehicle_registration_code: WAG
   world_region: EMEA

@@ -5,6 +5,7 @@ MV:
   continent: Asia
   country_code: '960'
   currency_code: MVR
+  distance_unit: KM
   gec: MV
   geo:
     latitude: 3.202778
@@ -41,10 +42,12 @@ MV:
   start_of_week: sunday
   subregion: Southern Asia
   un_locode: MV
+  un_member: true
   unofficial_names:
   - Maldives
   - Malediven
   - Maldivas
   - モルディブ
   - Maldiven
+  vehicle_registration_code: MV
   world_region: APAC

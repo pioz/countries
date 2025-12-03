@@ -5,6 +5,7 @@ BL:
   continent: North America
   country_code: '590'
   currency_code: EUR
+  distance_unit: KM
   gec: TB
   geo:
     latitude: 17.9
@@ -39,6 +40,7 @@ BL:
   start_of_week: monday
   subregion: Caribbean
   un_locode: BL
+  un_member: false
   unofficial_names:
   - Saint Barthélemy
   - Saint-Barthélemy

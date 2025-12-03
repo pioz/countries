@@ -10,6 +10,7 @@ AU:
   continent: Australia
   country_code: '61'
   currency_code: AUD
+  distance_unit: KM
   g20_member: true
   gec: AS
   geo:
@@ -47,6 +48,7 @@ AU:
   start_of_week: monday
   subregion: Australia and New Zealand
   un_locode: AU
+  un_member: true
   unofficial_names:
   - Australia
   - Australien
@@ -59,4 +61,5 @@ AU:
     reduced: []
     super_reduced:
     parking:
+  vehicle_registration_code: AUS
   world_region: APAC

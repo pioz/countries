@@ -5,6 +5,7 @@ AZ:
   continent: Asia
   country_code: '994'
   currency_code: AZN
+  distance_unit: KM
   gec: AJ
   geo:
     latitude: 40.143105
@@ -44,6 +45,7 @@ AZ:
   start_of_week: monday
   subregion: Western Asia
   un_locode: AZ
+  un_member: true
   unofficial_names:
   - Azerbaijan
   - Aserbaidschan
@@ -51,4 +53,5 @@ AZ:
   - Azerbaiyán
   - アゼルバイジャン
   - Azerbeidzjan
+  vehicle_registration_code: AZ
   world_region: EMEA

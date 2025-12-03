@@ -5,6 +5,7 @@ TV:
   continent: Australia
   country_code: '688'
   currency_code: AUD
+  distance_unit: KM
   gec: TV
   geo:
     latitude: -7.109534999999999
@@ -40,7 +41,9 @@ TV:
   start_of_week: monday
   subregion: Polynesia
   un_locode: TV
+  un_member: true
   unofficial_names:
   - Tuvalu
   - ツバル
+  vehicle_registration_code: TUV
   world_region: APAC

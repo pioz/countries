@@ -5,6 +5,7 @@ IQ:
   continent: Asia
   country_code: '964'
   currency_code: IQD
+  distance_unit: KM
   gec: IZ
   geo:
     latitude: 33.223191
@@ -43,9 +44,11 @@ IQ:
   start_of_week: sunday
   subregion: Western Asia
   un_locode: IQ
+  un_member: true
   unofficial_names:
   - Iraq
   - العراق
   - Irak
   - イラク
+  vehicle_registration_code: IRQ
   world_region: EMEA

@@ -5,6 +5,7 @@ GU:
   continent: Australia
   country_code: '1'
   currency_code: USD
+  distance_unit: MI
   gec: GQ
   geo:
     latitude: 13.444304
@@ -46,6 +47,7 @@ GU:
   start_of_week: monday
   subregion: Micronesia
   un_locode: GU
+  un_member: false
   unofficial_names:
   - Guam
   - グアム

@@ -5,6 +5,7 @@ PW:
   continent: Australia
   country_code: '680'
   currency_code: USD
+  distance_unit: KM
   gec: PS
   geo:
     latitude: 7.514979999999999
@@ -41,7 +42,9 @@ PW:
   start_of_week: monday
   subregion: Micronesia
   un_locode: PW
+  un_member: true
   unofficial_names:
   - Palau
   - パラオ
+  vehicle_registration_code: PAL
   world_region: APAC

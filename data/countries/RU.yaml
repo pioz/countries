@@ -10,6 +10,7 @@ RU:
   continent: Europe
   country_code: '7'
   currency_code: RUB
+  distance_unit: KM
   g20_member: true
   gec: RS
   geo:
@@ -30,6 +31,7 @@ RU:
   ioc: RUS
   iso_long_name: The Russian Federation
   iso_short_name: Russian Federation
+  iso_short_name_lower_case: Russian Federation (the)
   languages_official:
   - ru
   languages_spoken:
@@ -47,8 +49,10 @@ RU:
   start_of_week: monday
   subregion: Eastern Europe
   un_locode: RU
+  un_member: true
   unofficial_names:
   - Russia
+  - Russian Federation
   - Russland
   - Russie
   - Rusia
@@ -56,4 +60,5 @@ RU:
   - Rusland
   - Россия
   - Расія
+  vehicle_registration_code: RUS
   world_region: EMEA

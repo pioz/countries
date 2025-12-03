@@ -10,6 +10,7 @@ SG:
   continent: Asia
   country_code: '65'
   currency_code: SGD
+  distance_unit: KM
   gec: SN
   geo:
     latitude: 1.352083
@@ -51,9 +52,11 @@ SG:
   start_of_week: monday
   subregion: South-Eastern Asia
   un_locode: SG
+  un_member: true
   unofficial_names:
   - Singapore
   - Singapur
   - Singapour
   - シンガポール
+  vehicle_registration_code: SGP
   world_region: APAC

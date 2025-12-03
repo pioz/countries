@@ -5,6 +5,7 @@ BB:
   continent: North America
   country_code: '1'
   currency_code: BBD
+  distance_unit: KM
   gec: BB
   geo:
     latitude: 13.193887
@@ -42,8 +43,10 @@ BB:
   start_of_week: monday
   subregion: Caribbean
   un_locode: BB
+  un_member: true
   unofficial_names:
   - Barbade
   - Barbados
   - バルバドス
+  vehicle_registration_code: BDS
   world_region: AMER

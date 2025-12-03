@@ -5,6 +5,7 @@ TD:
   continent: Africa
   country_code: '235'
   currency_code: XAF
+  distance_unit: KM
   gec: CD
   geo:
     latitude: 15.454166
@@ -42,6 +43,7 @@ TD:
   start_of_week: monday
   subregion: Middle Africa
   un_locode: TD
+  un_member: true
   unofficial_names:
   - Chad
   - تشاد
@@ -49,4 +51,5 @@ TD:
   - Tchad
   - チャド
   - Tsjaad
+  vehicle_registration_code: TD
   world_region: EMEA

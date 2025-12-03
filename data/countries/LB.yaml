@@ -10,6 +10,7 @@ LB:
   continent: Asia
   country_code: '961'
   currency_code: LBP
+  distance_unit: KM
   gec: LE
   geo:
     latitude: 33.854721
@@ -26,7 +27,7 @@ LB:
         lat: 33.0550256
         lng: 35.0711001
   international_prefix: '00'
-  ioc: LIB
+  ioc: LBN
   iso_long_name: The Lebanese Republic
   iso_short_name: Lebanon
   languages_official:
@@ -48,6 +49,7 @@ LB:
   start_of_week: monday
   subregion: Western Asia
   un_locode: LB
+  un_member: true
   unofficial_names:
   - Lebanon
   - لبنان
@@ -55,4 +57,5 @@ LB:
   - Liban
   - Líbano
   - レバノン
+  vehicle_registration_code: RL
   world_region: EMEA

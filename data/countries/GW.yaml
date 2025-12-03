@@ -5,6 +5,7 @@ GW:
   continent: Africa
   country_code: '245'
   currency_code: XOF
+  distance_unit: KM
   gec: PU
   geo:
     latitude: 11.803749
@@ -41,10 +42,12 @@ GW:
   start_of_week: monday
   subregion: Western Africa
   un_locode: GW
+  un_member: true
   unofficial_names:
   - Guinea-Bissau
   - Guinée-Bissau
   - ギニアビサウ
   - Guinee-Bissau
   - Guinea Bissau
+  vehicle_registration_code: GUB
   world_region: EMEA

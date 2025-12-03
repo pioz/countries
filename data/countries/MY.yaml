@@ -5,6 +5,7 @@ MY:
   continent: Asia
   country_code: '60'
   currency_code: MYR
+  distance_unit: KM
   gec: MY
   geo:
     latitude: 4.210484
@@ -44,10 +45,12 @@ MY:
   start_of_week: sunday
   subregion: South-Eastern Asia
   un_locode: MY
+  un_member: true
   unofficial_names:
   - Malaysia
   - Malaisie
   - Malasia
   - マレーシア
   - Maleisië
+  vehicle_registration_code: MAL
   world_region: APAC

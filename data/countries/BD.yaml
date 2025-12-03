@@ -5,6 +5,7 @@ BD:
   continent: Asia
   country_code: '880'
   currency_code: BDT
+  distance_unit: KM
   gec: BG
   geo:
     latitude: 23.684994
@@ -41,8 +42,10 @@ BD:
   start_of_week: sunday
   subregion: Southern Asia
   un_locode: BD
+  un_member: true
   unofficial_names:
   - Bangladesh
   - Bangladesch
   - バングラデシュ
+  vehicle_registration_code: BD
   world_region: APAC

@@ -10,6 +10,7 @@ SA:
   continent: Asia
   country_code: '966'
   currency_code: SAR
+  distance_unit: KM
   g20_member: true
   gec: SA
   geo:
@@ -48,11 +49,7 @@ SA:
   start_of_week: sunday
   subregion: Western Asia
   un_locode: SA
-  vat_rates:
-    standard: 15
-    reduced: []
-    super_reduced:
-    parking:
+  un_member: true
   unofficial_names:
   - Saudi Arabia
   - Kingdom of Saudi Arabia
@@ -62,4 +59,10 @@ SA:
   - Arabia Saudí
   - サウジアラビア
   - Saoedi-Arabië
+  vat_rates:
+    standard: 15
+    reduced: []
+    super_reduced:
+    parking:
+  vehicle_registration_code: KSA
   world_region: EMEA

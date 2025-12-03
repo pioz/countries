@@ -5,6 +5,7 @@ DZ:
   continent: Africa
   country_code: '213'
   currency_code: DZD
+  distance_unit: KM
   gec: AG
   geo:
     latitude: 28.033886
@@ -41,6 +42,7 @@ DZ:
   start_of_week: sunday
   subregion: Northern Africa
   un_locode: DZ
+  un_member: true
   unofficial_names:
   - Algeria
   - الجزائر
@@ -49,4 +51,5 @@ DZ:
   - Argelia
   - アルジェリア
   - Algerije
+  vehicle_registration_code: DZ
   world_region: EMEA

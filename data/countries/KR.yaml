@@ -11,6 +11,7 @@ KR:
   continent: Asia
   country_code: '82'
   currency_code: KRW
+  distance_unit: KM
   g20_member: true
   gec: KS
   geo:
@@ -31,6 +32,7 @@ KR:
   ioc: KOR
   iso_long_name: The Republic of Korea
   iso_short_name: Korea (Republic of)
+  iso_short_name_lower_case: Korea (the Republic of)
   languages_official:
   - ko
   languages_spoken:
@@ -49,6 +51,7 @@ KR:
   start_of_week: monday
   subregion: Eastern Asia
   un_locode: KR
+  un_member: true
   unofficial_names:
   - South Korea
   - Korea (South)
@@ -58,4 +61,5 @@ KR:
   - 大韓民国
   - Zuid-Korea
   - Korea (Republic of)
+  vehicle_registration_code: ROK
   world_region: APAC

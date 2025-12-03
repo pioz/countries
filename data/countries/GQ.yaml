@@ -5,6 +5,7 @@ GQ:
   continent: Africa
   country_code: '240'
   currency_code: XAF
+  distance_unit: KM
   gec: EK
   geo:
     latitude: 1.650801
@@ -42,6 +43,7 @@ GQ:
   start_of_week: monday
   subregion: Middle Africa
   un_locode: GQ
+  un_member: true
   unofficial_names:
   - Equatorial Guinea
   - Äquatorial-Guinea
@@ -49,4 +51,5 @@ GQ:
   - Guinea Ecuatorial
   - 赤道ギニア
   - Equatoriaal-Guinea
+  vehicle_registration_code: GQ
   world_region: EMEA

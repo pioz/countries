@@ -5,6 +5,7 @@ UZ:
   continent: Asia
   country_code: '998'
   currency_code: UZS
+  distance_unit: KM
   gec: UZ
   geo:
     latitude: 41.377491
@@ -26,7 +27,6 @@ UZ:
   iso_short_name: Uzbekistan
   languages_official:
   - uz
-  - ru
   languages_spoken:
   - uz
   - ru
@@ -43,6 +43,7 @@ UZ:
   start_of_week: monday
   subregion: Central Asia
   un_locode: UZ
+  un_member: true
   unofficial_names:
   - Uzbekistan
   - Usbekistan
@@ -50,4 +51,5 @@ UZ:
   - Uzbekistán
   - ウズベキスタン
   - Oezbekistan
+  vehicle_registration_code: UZ
   world_region: EMEA

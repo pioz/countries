@@ -5,6 +5,7 @@ BZ:
   continent: North America
   country_code: '501'
   currency_code: BZD
+  distance_unit: MI
   gec: BH
   geo:
     latitude: 17.189877
@@ -42,8 +43,10 @@ BZ:
   start_of_week: monday
   subregion: Central America
   un_locode: BZ
+  un_member: true
   unofficial_names:
   - Belize
   - Belice
   - ベリーズ
+  vehicle_registration_code: BZ
   world_region: AMER

@@ -5,6 +5,7 @@ DO:
   continent: North America
   country_code: '1'
   currency_code: DOP
+  distance_unit: KM
   gec: DR
   geo:
     latitude: 18.735693
@@ -24,10 +25,12 @@ DO:
   ioc: DOM
   iso_long_name: The Dominican Republic
   iso_short_name: Dominican Republic
+  iso_short_name_lower_case: Dominican Republic (the)
   languages_official:
   - es
   languages_spoken:
   - es
+  nanp_prefix: '1809'
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -41,6 +44,7 @@ DO:
   start_of_week: monday
   subregion: Caribbean
   un_locode: DO
+  un_member: true
   unofficial_names:
   - Dominican Republic
   - Dominikanische Republik
@@ -48,4 +52,5 @@ DO:
   - República Dominicana
   - ドミニカ共和国
   - Dominicaanse Republiek
+  vehicle_registration_code: DOM
   world_region: AMER

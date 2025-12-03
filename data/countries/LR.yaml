@@ -5,6 +5,7 @@ LR:
   continent: Africa
   country_code: '231'
   currency_code: LRD
+  distance_unit: MI
   gec: LI
   geo:
     latitude: 6.428055
@@ -43,7 +44,9 @@ LR:
   start_of_week: monday
   subregion: Western Africa
   un_locode: LR
+  un_member: true
   unofficial_names:
   - Liberia
   - リベリア
+  vehicle_registration_code: LB
   world_region: EMEA

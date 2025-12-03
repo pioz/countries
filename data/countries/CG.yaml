@@ -5,6 +5,7 @@ CG:
   continent: Africa
   country_code: '242'
   currency_code: XAF
+  distance_unit: KM
   gec: CF
   geo:
     latitude: -0.228021
@@ -24,6 +25,7 @@ CG:
   ioc: CGO
   iso_long_name: The Republic of the Congo
   iso_short_name: Congo
+  iso_short_name_lower_case: Congo (the)
   languages_official:
   - fr
   - ln
@@ -42,10 +44,13 @@ CG:
   start_of_week: monday
   subregion: Middle Africa
   un_locode: CG
+  un_member: true
   unofficial_names:
   - Congo
   - Kongo
   - コンゴ共和国
   - Congo [Republiek]
   - Congo, Republic of
+  - Congo (Brazzaville)
+  vehicle_registration_code: RCB
   world_region: EMEA

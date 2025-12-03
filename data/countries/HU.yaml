@@ -11,6 +11,7 @@ HU:
   continent: Europe
   country_code: '36'
   currency_code: HUF
+  distance_unit: KM
   eea_member: true
   eu_member: true
   gec: HU
@@ -50,6 +51,7 @@ HU:
   start_of_week: monday
   subregion: Eastern Europe
   un_locode: HU
+  un_member: true
   unofficial_names:
   - Hungary
   - Ungarn
@@ -64,4 +66,5 @@ HU:
     - 18
     super_reduced:
     parking:
+  vehicle_registration_code: H
   world_region: EMEA

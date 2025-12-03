@@ -98,7 +98,7 @@ func ExampleGet_readmeNamesAndTranslations() {
 	// Output:
 	// The United States of America
 	// United States of America
-	// [United States USA Vereinigte Staaten von Amerika États-Unis Estados Unidos アメリカ合衆国 Verenigde Staten Соединенные Штаты Америки]
+	// [United States United States of America USA Vereinigte Staaten von Amerika États-Unis Estados Unidos アメリカ合衆国 Verenigde Staten Соединенные Штаты Америки]
 	// United States
 	// Stati Uniti
 	// Vereinigte Staaten

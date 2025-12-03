@@ -5,6 +5,7 @@ SD:
   continent: Africa
   country_code: '249'
   currency_code: SDG
+  distance_unit: KM
   gec: SU
   geo:
     latitude: 12.862807
@@ -24,6 +25,7 @@ SD:
   ioc: SUD
   iso_long_name: The Republic of the Sudan
   iso_short_name: Sudan
+  iso_short_name_lower_case: Sudan (the)
   languages_official:
   - ar
   - en
@@ -43,6 +45,7 @@ SD:
   start_of_week: monday
   subregion: Northern Africa
   un_locode: SD
+  un_member: true
   unofficial_names:
   - Sudan
   - السودان
@@ -50,4 +53,5 @@ SD:
   - Sudán
   - スーダン
   - Soedan
+  vehicle_registration_code: SUD
   world_region: EMEA

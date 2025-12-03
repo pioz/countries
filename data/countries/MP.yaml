@@ -5,6 +5,7 @@ MP:
   continent: Australia
   country_code: '1'
   currency_code: USD
+  distance_unit: MI
   gec: CQ
   geo:
     latitude: 15.0979
@@ -24,12 +25,14 @@ MP:
   ioc:
   iso_long_name: The Commonwealth of the Northern Mariana Islands
   iso_short_name: Northern Mariana Islands
+  iso_short_name_lower_case: Northern Mariana Islands (the)
   languages_official:
   - en
   - ch
   languages_spoken:
   - en
   - ch
+  nanp_prefix: '1670'
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -43,6 +46,7 @@ MP:
   start_of_week: monday
   subregion: Micronesia
   un_locode: MP
+  un_member: false
   unofficial_names:
   - Northern Mariana Islands
   - Nördliche Marianen

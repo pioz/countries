@@ -5,6 +5,7 @@ NE:
   continent: Africa
   country_code: '227'
   currency_code: XOF
+  distance_unit: KM
   gec: NG
   geo:
     latitude: 17.607789
@@ -24,6 +25,7 @@ NE:
   ioc: NIG
   iso_long_name: The Republic of the Niger
   iso_short_name: Niger
+  iso_short_name_lower_case: Niger (the)
   languages_official:
   - fr
   languages_spoken:
@@ -41,8 +43,10 @@ NE:
   start_of_week: monday
   subregion: Western Africa
   un_locode: NE
+  un_member: true
   unofficial_names:
   - Niger
   - Níger
   - ニジェール
+  vehicle_registration_code: RN
   world_region: EMEA

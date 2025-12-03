@@ -5,6 +5,7 @@ AM:
   continent: Asia
   country_code: '374'
   currency_code: AMD
+  distance_unit: KM
   gec: AM
   geo:
     latitude: 40.069099
@@ -26,7 +27,6 @@ AM:
   iso_short_name: Armenia
   languages_official:
   - hy
-  - ru
   languages_spoken:
   - hy
   - ru
@@ -43,10 +43,12 @@ AM:
   start_of_week: monday
   subregion: Western Asia
   un_locode: AM
+  un_member: true
   unofficial_names:
   - Armenia
   - Armenien
   - Arménie
   - アルメニア
   - Armenië
+  vehicle_registration_code: AM
   world_region: EMEA

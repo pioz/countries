@@ -5,6 +5,7 @@ JE:
   continent: Europe
   country_code: '44'
   currency_code: GBP
+  distance_unit: KM
   gec: JE
   geo:
     latitude: 49.214439
@@ -41,7 +42,9 @@ JE:
   start_of_week: monday
   subregion: Northern Europe
   un_locode: JE
+  un_member: false
   unofficial_names:
   - Jersey
   - ジャージー
+  vehicle_registration_code: GBJ
   world_region: EMEA

@@ -5,6 +5,7 @@ NG:
   continent: Africa
   country_code: '234'
   currency_code: NGN
+  distance_unit: KM
   gec: NI
   geo:
     latitude: 9.081999
@@ -42,6 +43,7 @@ NG:
   start_of_week: monday
   subregion: Western Africa
   un_locode: NG
+  un_member: true
   unofficial_names:
   - Nigeria
   - Nigéria
@@ -52,4 +54,5 @@ NG:
     reduced: []
     super_reduced:
     parking:
+  vehicle_registration_code: NGR
   world_region: EMEA

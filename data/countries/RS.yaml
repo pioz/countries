@@ -5,6 +5,7 @@ RS:
   continent: Europe
   country_code: '381'
   currency_code: RSD
+  distance_unit: KM
   gec: RI
   geo:
     latitude: 44.016521
@@ -41,10 +42,12 @@ RS:
   start_of_week: monday
   subregion: Southern Europe
   un_locode: RS
+  un_member: true
   unofficial_names:
   - Serbia
   - Serbien
   - Serbie
   - セルビア
   - Servië
+  vehicle_registration_code: SRB
   world_region: EMEA

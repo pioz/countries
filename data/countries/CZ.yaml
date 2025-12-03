@@ -10,6 +10,7 @@ CZ:
   continent: Europe
   country_code: '420'
   currency_code: CZK
+  distance_unit: KM
   eea_member: true
   eu_member: true
   gec: EZ
@@ -33,10 +34,8 @@ CZ:
   iso_short_name: Czechia
   languages_official:
   - cs
-  - sk
   languages_spoken:
   - cs
-  - sk
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -50,6 +49,7 @@ CZ:
   start_of_week: monday
   subregion: Eastern Europe
   un_locode: CZ
+  un_member: true
   unofficial_names:
   - Czech Republic
   - Tschechische Republik
@@ -62,7 +62,8 @@ CZ:
   vat_rates:
     standard: 21
     reduced:
-    - 15
+    - 12
     super_reduced:
     parking:
+  vehicle_registration_code: CZ
   world_region: EMEA

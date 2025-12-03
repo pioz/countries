@@ -5,6 +5,7 @@ CK:
   continent: Australia
   country_code: '682'
   currency_code: NZD
+  distance_unit: KM
   gec: CW
   geo:
     latitude: -21.236736
@@ -24,6 +25,7 @@ CK:
   ioc: COK
   iso_long_name: The Cook Islands
   iso_short_name: Cook Islands
+  iso_short_name_lower_case: Cook Islands (the)
   languages_official:
   - en
   languages_spoken:
@@ -40,6 +42,7 @@ CK:
   start_of_week: monday
   subregion: Polynesia
   un_locode: CK
+  un_member: false
   unofficial_names:
   - Cook Islands
   - Cookinseln

@@ -11,6 +11,7 @@ IN:
   continent: Asia
   country_code: '91'
   currency_code: INR
+  distance_unit: KM
   g20_member: true
   gec: IN
   geo:
@@ -50,9 +51,11 @@ IN:
   start_of_week: monday
   subregion: Southern Asia
   un_locode: IN
+  un_member: true
   unofficial_names:
   - India
   - Indien
   - Inde
   - インド
+  vehicle_registration_code: IND
   world_region: APAC

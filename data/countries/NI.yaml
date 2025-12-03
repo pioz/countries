@@ -5,6 +5,7 @@ NI:
   continent: North America
   country_code: '505'
   currency_code: NIO
+  distance_unit: KM
   gec: NU
   geo:
     latitude: 12.865416
@@ -41,7 +42,9 @@ NI:
   start_of_week: monday
   subregion: Central America
   un_locode: NI
+  un_member: true
   unofficial_names:
   - Nicaragua
   - ニカラグア
+  vehicle_registration_code: NIC
   world_region: AMER

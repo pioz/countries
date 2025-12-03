@@ -5,6 +5,7 @@ FJ:
   continent: Australia
   country_code: '679'
   currency_code: FJD
+  distance_unit: KM
   gec: FJ
   geo:
     latitude: -17.713371
@@ -28,7 +29,6 @@ FJ:
   - en
   - fj
   - hi
-  - ur
   languages_spoken:
   - en
   - fj
@@ -46,9 +46,11 @@ FJ:
   start_of_week: monday
   subregion: Melanesia
   un_locode: FJ
+  un_member: true
   unofficial_names:
   - Fiji
   - Fidschi
   - Fidji
   - フィジー
+  vehicle_registration_code: FJI
   world_region: APAC

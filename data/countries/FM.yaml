@@ -5,6 +5,7 @@ FM:
   continent: Australia
   country_code: '691'
   currency_code: USD
+  distance_unit: KM
   gec: FM
   geo:
     latitude: 7.425554
@@ -41,10 +42,12 @@ FM:
   start_of_week: monday
   subregion: Micronesia
   un_locode: FM
+  un_member: true
   unofficial_names:
   - Micronesia
   - Mikronesien
   - Micronésie
   - ミクロネシア連邦
   - Micronesië
+  vehicle_registration_code: FSM
   world_region: APAC

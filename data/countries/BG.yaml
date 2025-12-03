@@ -10,6 +10,7 @@ BG:
   continent: Europe
   country_code: '359'
   currency_code: BGN
+  distance_unit: KM
   eea_member: true
   eu_member: true
   gec: BU
@@ -50,8 +51,10 @@ BG:
   start_of_week: monday
   subregion: Eastern Europe
   un_locode: BG
+  un_member: true
   unofficial_names:
   - Bulgaria
+  - България
   - Bulgarien
   - Bulgarie
   - ブルガリア
@@ -62,4 +65,5 @@ BG:
     - 9
     super_reduced:
     parking:
+  vehicle_registration_code: BG
   world_region: EMEA

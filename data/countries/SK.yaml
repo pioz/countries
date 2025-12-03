@@ -10,6 +10,7 @@ SK:
   continent: Europe
   country_code: '421'
   currency_code: EUR
+  distance_unit: KM
   eea_member: true
   eu_member: true
   gec: LO
@@ -48,6 +49,7 @@ SK:
   start_of_week: monday
   subregion: Eastern Europe
   un_locode: SK
+  un_member: true
   unofficial_names:
   - Slovakia
   - Slowakei
@@ -56,9 +58,10 @@ SK:
   - スロバキア
   - Slowakije
   vat_rates:
-    standard: 20
+    standard: 23
     reduced:
-    - 10
-    super_reduced:
+    - 19
+    super_reduced: 5
     parking:
+  vehicle_registration_code: SK
   world_region: EMEA

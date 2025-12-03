@@ -10,6 +10,7 @@ GL:
   continent: North America
   country_code: '299'
   currency_code: DKK
+  distance_unit: KM
   gec: GL
   geo:
     latitude: 71.706936
@@ -46,10 +47,12 @@ GL:
   start_of_week: monday
   subregion: Northern America
   un_locode: GL
+  un_member: false
   unofficial_names:
   - Greenland
   - Grönland
   - Groenland
   - Groenlandia
   - グリーンランド
+  vehicle_registration_code: KN
   world_region: EMEA

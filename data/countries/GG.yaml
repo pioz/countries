@@ -5,6 +5,7 @@ GG:
   continent: Europe
   country_code: '44'
   currency_code: GBP
+  distance_unit: KM
   gec: GK
   geo:
     latitude: 49.4481982
@@ -41,6 +42,7 @@ GG:
   start_of_week: monday
   subregion: Northern Europe
   un_locode: GG
+  un_member: false
   unofficial_names:
   - Guernsey and Alderney
   - Guernsey und Alderney
@@ -48,4 +50,5 @@ GG:
   - Guernsey y Alderney
   - ガーンジー
   - Guernsey
+  vehicle_registration_code: GBA
   world_region: EMEA

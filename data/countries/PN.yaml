@@ -5,6 +5,7 @@ PN:
   continent: Australia
   country_code: '64'
   currency_code: NZD
+  distance_unit: KM
   gec: PC
   geo:
     latitude: -24.3767537
@@ -40,6 +41,7 @@ PN:
   start_of_week: monday
   subregion: Polynesia
   un_locode: PN
+  un_member: false
   unofficial_names:
   - Pitcairn
   - ピトケアン

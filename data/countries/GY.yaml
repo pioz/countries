@@ -5,6 +5,7 @@ GY:
   continent: South America
   country_code: '592'
   currency_code: GYD
+  distance_unit: KM
   gec: GY
   geo:
     latitude: 4.860416
@@ -41,7 +42,9 @@ GY:
   start_of_week: monday
   subregion: South America
   un_locode: GY
+  un_member: true
   unofficial_names:
   - Guyana
   - ガイアナ
+  vehicle_registration_code: GUY
   world_region: AMER

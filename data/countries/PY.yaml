@@ -5,6 +5,7 @@ PY:
   continent: South America
   country_code: '595'
   currency_code: PYG
+  distance_unit: KM
   gec: PA
   geo:
     latitude: -23.442503
@@ -38,12 +39,14 @@ PY:
   nationality: Paraguayan
   number: '600'
   postal_code: true
-  postal_code_format: "\\d{4}"
+  postal_code_format: "\\d{6}"
   region: Americas
   start_of_week: monday
   subregion: South America
   un_locode: PY
+  un_member: true
   unofficial_names:
   - Paraguay
   - パラグアイ
+  vehicle_registration_code: PY
   world_region: AMER

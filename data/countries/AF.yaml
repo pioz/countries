@@ -5,6 +5,7 @@ AF:
   continent: Asia
   country_code: '93'
   currency_code: AFN
+  distance_unit: KM
   gec: AF
   geo:
     latitude: 33.93911
@@ -46,8 +47,10 @@ AF:
   start_of_week: monday
   subregion: Southern Asia
   un_locode: AF
+  un_member: true
   unofficial_names:
   - Afghanistan
   - Afganistán
   - アフガニスタン
+  vehicle_registration_code: AFG
   world_region: APAC

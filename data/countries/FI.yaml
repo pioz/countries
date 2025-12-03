@@ -10,6 +10,7 @@ FI:
   continent: Europe
   country_code: '358'
   currency_code: EUR
+  distance_unit: KM
   eea_member: true
   eu_member: true
   gec: FI
@@ -50,6 +51,7 @@ FI:
   start_of_week: monday
   subregion: Northern Europe
   un_locode: FI
+  un_member: true
   unofficial_names:
   - Finland
   - Finnland
@@ -57,10 +59,11 @@ FI:
   - Finlandia
   - フィンランド
   vat_rates:
-    standard: 24
+    standard: 25.5
     reduced:
     - 10
     - 14
     super_reduced:
     parking:
+  vehicle_registration_code: FIN
   world_region: EMEA

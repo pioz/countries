@@ -5,6 +5,7 @@ IO:
   continent: Asia
   country_code: '246'
   currency_code: USD
+  distance_unit: KM
   gec: IO
   geo:
     latitude: -6.343194
@@ -24,6 +25,7 @@ IO:
   ioc:
   iso_long_name: The British Indian Ocean Territory
   iso_short_name: British Indian Ocean Territory
+  iso_short_name_lower_case: British Indian Ocean Territory (the)
   languages_official:
   - en
   languages_spoken:
@@ -39,6 +41,7 @@ IO:
   start_of_week: monday
   subregion: Eastern Africa
   un_locode: IO
+  un_member: false
   unofficial_names:
   - British Indian Ocean Territory
   - Britisches Territorium im Indischen Ozean

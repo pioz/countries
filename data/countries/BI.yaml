@@ -5,6 +5,7 @@ BI:
   continent: Africa
   country_code: '257'
   currency_code: BIF
+  distance_unit: KM
   gec: BY
   geo:
     latitude: -3.373056
@@ -42,7 +43,9 @@ BI:
   start_of_week: monday
   subregion: Eastern Africa
   un_locode: BI
+  un_member: true
   unofficial_names:
   - Burundi
   - ブルンジ
+  vehicle_registration_code: RU
   world_region: EMEA

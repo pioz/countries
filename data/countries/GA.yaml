@@ -5,6 +5,7 @@ GA:
   continent: Africa
   country_code: '241'
   currency_code: XAF
+  distance_unit: KM
   gec: GB
   geo:
     latitude: -0.803689
@@ -42,9 +43,11 @@ GA:
   start_of_week: monday
   subregion: Middle Africa
   un_locode: GA
+  un_member: true
   unofficial_names:
   - Gabon
   - Gabun
   - Gabón
   - ガボン
+  vehicle_registration_code: G
   world_region: EMEA

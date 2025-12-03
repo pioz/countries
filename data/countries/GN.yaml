@@ -5,6 +5,7 @@ GN:
   continent: Africa
   country_code: '224'
   currency_code: GNF
+  distance_unit: KM
   gec: GV
   geo:
     latitude: 9.945587
@@ -43,9 +44,11 @@ GN:
   start_of_week: monday
   subregion: Western Africa
   un_locode: GN
+  un_member: true
   unofficial_names:
   - Guinea
   - Guinée
   - ギニア
   - Guinee
+  vehicle_registration_code: RG
   world_region: EMEA

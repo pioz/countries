@@ -10,6 +10,7 @@ BA:
   continent: Europe
   country_code: '387'
   currency_code: BAM
+  distance_unit: KM
   gec: BK
   geo:
     latitude: 43.915886
@@ -50,6 +51,7 @@ BA:
   start_of_week: monday
   subregion: Southern Europe
   un_locode: BA
+  un_member: true
   unofficial_names:
   - Bosnia and Herzegovina
   - Bosnien und Herzegowina
@@ -58,4 +60,5 @@ BA:
   - ボスニア・ヘルツェゴビナ
   - Bosnië en Herzegovina
   - Bosnia Herzegovina
+  vehicle_registration_code: BIH
   world_region: EMEA

@@ -5,6 +5,7 @@ BS:
   continent: North America
   country_code: '1'
   currency_code: BSD
+  distance_unit: MI
   gec: BF
   geo:
     latitude: 25.03428
@@ -24,6 +25,7 @@ BS:
   ioc: BAH
   iso_long_name: The Commonwealth of The Bahamas
   iso_short_name: Bahamas
+  iso_short_name_lower_case: Bahamas (the)
   languages_official:
   - en
   languages_spoken:
@@ -41,7 +43,10 @@ BS:
   start_of_week: monday
   subregion: Caribbean
   un_locode: BS
+  un_member: true
   unofficial_names:
+  - Bahamas
   - The Bahamas
   - バハマ
+  vehicle_registration_code: BS
   world_region: AMER

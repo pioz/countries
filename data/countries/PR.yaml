@@ -5,6 +5,7 @@ PR:
   continent: North America
   country_code: '1'
   currency_code: USD
+  distance_unit: KM
   gec: RQ
   geo:
     latitude: 18.220833
@@ -30,6 +31,7 @@ PR:
   languages_spoken:
   - es
   - en
+  nanp_prefix: '1787'
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -43,7 +45,9 @@ PR:
   start_of_week: monday
   subregion: Caribbean
   un_locode: PR
+  un_member: false
   unofficial_names:
   - Puerto Rico
   - プエルトリコ
+  vehicle_registration_code: PRI
   world_region: AMER

@@ -5,6 +5,7 @@ LT:
   continent: Europe
   country_code: '370'
   currency_code: EUR
+  distance_unit: KM
   eea_member: true
   eu_member: true
   gec: LH
@@ -43,6 +44,7 @@ LT:
   start_of_week: monday
   subregion: Northern Europe
   un_locode: LT
+  un_member: true
   unofficial_names:
   - Lithuania
   - Litauen
@@ -59,4 +61,5 @@ LT:
     - 9
     super_reduced:
     parking:
+  vehicle_registration_code: LT
   world_region: EMEA

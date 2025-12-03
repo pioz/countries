@@ -5,6 +5,7 @@ VU:
   continent: Australia
   country_code: '678'
   currency_code: VUV
+  distance_unit: KM
   gec: NH
   geo:
     latitude: -15.376706
@@ -46,7 +47,9 @@ VU:
   start_of_week: monday
   subregion: Melanesia
   un_locode: VU
+  un_member: true
   unofficial_names:
   - Vanuatu
   - バヌアツ
+  vehicle_registration_code: VAN
   world_region: APAC

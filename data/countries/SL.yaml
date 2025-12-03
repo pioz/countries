@@ -4,7 +4,8 @@ SL:
   alpha3: SLE
   continent: Africa
   country_code: '232'
-  currency_code: SLL
+  currency_code: SLE
+  distance_unit: KM
   gec: SL
   geo:
     latitude: 8.460555
@@ -40,7 +41,9 @@ SL:
   start_of_week: monday
   subregion: Western Africa
   un_locode: SL
+  un_member: true
   unofficial_names:
   - Sierra Leone
   - シエラレオネ
+  vehicle_registration_code: SLE
   world_region: EMEA

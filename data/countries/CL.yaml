@@ -5,6 +5,7 @@ CL:
   continent: South America
   country_code: '56'
   currency_code: CLP
+  distance_unit: KM
   gec: CI
   geo:
     latitude: -35.675147
@@ -42,6 +43,7 @@ CL:
   start_of_week: monday
   subregion: South America
   un_locode: CL
+  un_member: true
   unofficial_names:
   - Chile
   - チリ
@@ -51,4 +53,5 @@ CL:
     reduced: []
     super_reduced:
     parking:
+  vehicle_registration_code: RCH
   world_region: AMER

@@ -10,6 +10,7 @@ YE:
   continent: Asia
   country_code: '967'
   currency_code: YER
+  distance_unit: KM
   gec: YM
   geo:
     latitude: 15.552727
@@ -47,10 +48,12 @@ YE:
   start_of_week: sunday
   subregion: Western Asia
   un_locode: YE
+  un_member: true
   unofficial_names:
   - Yemen
   - اليمن
   - Jemen
   - Yémen
   - イエメン
+  vehicle_registration_code: YEM
   world_region: EMEA

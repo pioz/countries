@@ -5,6 +5,7 @@ HT:
   continent: North America
   country_code: '509'
   currency_code: HTG
+  distance_unit: KM
   gec: HA
   geo:
     latitude: 18.971187
@@ -43,8 +44,10 @@ HT:
   start_of_week: monday
   subregion: Caribbean
   un_locode: HT
+  un_member: true
   unofficial_names:
   - Haiti
   - ハイチ
   - Haïti
+  vehicle_registration_code: RH
   world_region: AMER

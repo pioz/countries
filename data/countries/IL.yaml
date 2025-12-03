@@ -10,6 +10,7 @@ IL:
   continent: Asia
   country_code: '972'
   currency_code: ILS
+  distance_unit: KM
   gec: IS
   geo:
     latitude: 31.046051
@@ -50,13 +51,15 @@ IL:
   start_of_week: sunday
   subregion: Western Asia
   un_locode: IL
+  un_member: true
+  unofficial_names:
+  - Israel
+  - Israël
+  - イスラエル
   vat_rates:
     standard: 17
     reduced: []
     super_reduced:
     parking:
-  unofficial_names:
-  - Israel
-  - Israël
-  - イスラエル
+  vehicle_registration_code: IL
   world_region: EMEA

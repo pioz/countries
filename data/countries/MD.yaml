@@ -5,6 +5,7 @@ MD:
   continent: Europe
   country_code: '373'
   currency_code: MDL
+  distance_unit: KM
   gec: MD
   geo:
     latitude: 47.411631
@@ -24,6 +25,7 @@ MD:
   ioc: MDA
   iso_long_name: The Republic of Moldova
   iso_short_name: Moldova (Republic of)
+  iso_short_name_lower_case: Moldova (the Republic of)
   languages_official:
   - ro
   languages_spoken:
@@ -41,12 +43,15 @@ MD:
   start_of_week: monday
   subregion: Eastern Europe
   un_locode: MD
+  un_member: true
   unofficial_names:
   - Moldova
   - Moldawien
   - Moldavie
   - Moldavia
+  - Moldova (Republic of)
   - the Republic of Moldova
   - モルドバ共和国
   - Moldavië
+  vehicle_registration_code: MD
   world_region: EMEA

@@ -5,6 +5,7 @@ SR:
   continent: South America
   country_code: '597'
   currency_code: SRD
+  distance_unit: KM
   gec: NS
   geo:
     latitude: 3.919305
@@ -40,8 +41,10 @@ SR:
   start_of_week: monday
   subregion: South America
   un_locode: SR
+  un_member: true
   unofficial_names:
   - Suriname
   - Surinam
   - スリナム
+  vehicle_registration_code: SME
   world_region: AMER

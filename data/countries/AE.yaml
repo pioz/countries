@@ -10,6 +10,7 @@ AE:
   continent: Asia
   country_code: '971'
   currency_code: AED
+  distance_unit: KM
   gec: AE
   geo:
     latitude: 23.424076
@@ -29,6 +30,7 @@ AE:
   ioc: UAE
   iso_long_name: The United Arab Emirates
   iso_short_name: United Arab Emirates
+  iso_short_name_lower_case: United Arab Emirates (the)
   languages_official:
   - ar
   languages_spoken:
@@ -47,6 +49,7 @@ AE:
   start_of_week: monday
   subregion: Western Asia
   un_locode: AE
+  un_member: true
   unofficial_names:
   - United Arab Emirates
   - الإمارات العربية المتحدة
@@ -60,4 +63,5 @@ AE:
     reduced: []
     super_reduced:
     parking:
+  vehicle_registration_code: UAE
   world_region: EMEA

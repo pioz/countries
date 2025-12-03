@@ -11,6 +11,7 @@ AR:
   continent: South America
   country_code: '54'
   currency_code: ARS
+  distance_unit: KM
   g20_member: true
   gec: AR
   geo:
@@ -37,6 +38,7 @@ AR:
   languages_spoken:
   - es
   - gn
+  - qu
   national_destination_code_lengths:
   - 2
   national_number_lengths:
@@ -51,10 +53,12 @@ AR:
   start_of_week: monday
   subregion: South America
   un_locode: AR
+  un_member: true
   unofficial_names:
   - Argentina
   - Argentinien
   - Argentine
   - アルゼンチン
   - Argentinië
+  vehicle_registration_code: RA
   world_region: AMER

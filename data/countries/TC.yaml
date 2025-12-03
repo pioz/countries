@@ -5,6 +5,7 @@ TC:
   continent: North America
   country_code: '1'
   currency_code: USD
+  distance_unit: MI
   gec: TK
   geo:
     latitude: 21.694025
@@ -24,6 +25,7 @@ TC:
   ioc:
   iso_long_name: The Turks and Caicos Islands
   iso_short_name: Turks and Caicos Islands
+  iso_short_name_lower_case: Turks and Caicos Islands (the)
   languages_official:
   - en
   languages_spoken:
@@ -42,6 +44,7 @@ TC:
   start_of_week: monday
   subregion: Caribbean
   un_locode: TC
+  un_member: false
   unofficial_names:
   - Turks and Caicos Islands
   - Turks- und Caicosinseln

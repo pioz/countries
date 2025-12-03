@@ -10,8 +10,9 @@ US:
   continent: North America
   country_code: '1'
   currency_code: USD
-  g7_member: true
+  distance_unit: MI
   g20_member: true
+  g7_member: true
   gec: US
   geo:
     latitude: 37.09024
@@ -31,6 +32,7 @@ US:
   ioc: USA
   iso_long_name: The United States of America
   iso_short_name: United States of America
+  iso_short_name_lower_case: United States of America (the)
   languages_official:
   - en
   languages_spoken:
@@ -48,8 +50,10 @@ US:
   start_of_week: sunday
   subregion: Northern America
   un_locode: US
+  un_member: true
   unofficial_names:
   - United States
+  - United States of America
   - USA
   - Vereinigte Staaten von Amerika
   - États-Unis
@@ -57,4 +61,5 @@ US:
   - アメリカ合衆国
   - Verenigde Staten
   - Соединенные Штаты Америки
+  vehicle_registration_code: USA
   world_region: AMER

@@ -4,7 +4,8 @@ ST:
   alpha3: STP
   continent: Africa
   country_code: '239'
-  currency_code: STD
+  currency_code: STN
+  distance_unit: KM
   gec: TP
   geo:
     latitude: 0.18636
@@ -41,6 +42,7 @@ ST:
   start_of_week: monday
   subregion: Middle Africa
   un_locode: ST
+  un_member: true
   unofficial_names:
   - São Tomé and Príncipe
   - São Tomé und Príncipe
@@ -48,4 +50,5 @@ ST:
   - Santo Tomé y Príncipe
   - サントメ・プリンシペ
   - Sao Tomé en Principe
+  vehicle_registration_code: STP
   world_region: EMEA

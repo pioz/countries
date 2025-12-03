@@ -5,6 +5,7 @@ UY:
   continent: South America
   country_code: '598'
   currency_code: UYU
+  distance_unit: KM
   gec: UY
   geo:
     latitude: -32.522779
@@ -42,7 +43,9 @@ UY:
   start_of_week: monday
   subregion: South America
   un_locode: UY
+  un_member: true
   unofficial_names:
   - Uruguay
   - ウルグアイ
+  vehicle_registration_code: ROU
   world_region: AMER

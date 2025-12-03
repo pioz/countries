@@ -5,6 +5,7 @@ MH:
   continent: Australia
   country_code: '692'
   currency_code: USD
+  distance_unit: KM
   gec: RM
   geo:
     latitude: 7.131474
@@ -24,6 +25,7 @@ MH:
   ioc: MHL
   iso_long_name: The Republic of the Marshall Islands
   iso_short_name: Marshall Islands
+  iso_short_name_lower_case: Marshall Islands (the)
   languages_official:
   - en
   - mh
@@ -43,6 +45,7 @@ MH:
   start_of_week: monday
   subregion: Micronesia
   un_locode: MH
+  un_member: true
   unofficial_names:
   - Marshall Islands
   - Marshallinseln
@@ -50,4 +53,5 @@ MH:
   - Islas Marshall
   - マーシャル諸島
   - Marshalleilanden
+  vehicle_registration_code: MH
   world_region: APAC

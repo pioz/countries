@@ -5,6 +5,7 @@ VE:
   continent: South America
   country_code: '58'
   currency_code: VES
+  distance_unit: KM
   gec: VE
   geo:
     latitude: 6.42375
@@ -41,7 +42,9 @@ VE:
   start_of_week: monday
   subregion: South America
   un_locode: VE
+  un_member: true
   unofficial_names:
   - Venezuela
   - ベネズエラ・ボリバル共和国
+  vehicle_registration_code: YV
   world_region: AMER

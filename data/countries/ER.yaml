@@ -4,7 +4,8 @@ ER:
   alpha3: ERI
   continent: Africa
   country_code: '291'
-  currency_code: ETB
+  currency_code: ERN
+  distance_unit: KM
   gec: ER
   geo:
     latitude: 15.179384
@@ -44,9 +45,11 @@ ER:
   start_of_week: monday
   subregion: Eastern Africa
   un_locode: ER
+  un_member: true
   unofficial_names:
   - Eritrea
   - إريتريا
   - Érythrée
   - エリトリア
+  vehicle_registration_code: ER
   world_region: EMEA

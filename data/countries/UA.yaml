@@ -11,6 +11,7 @@ UA:
   continent: Europe
   country_code: '380'
   currency_code: UAH
+  distance_unit: KM
   gec: UP
   geo:
     latitude: 48.379433
@@ -48,6 +49,7 @@ UA:
   start_of_week: monday
   subregion: Eastern Europe
   un_locode: UA
+  un_member: true
   unofficial_names:
   - Ukraine
   - Ucrania
@@ -62,4 +64,5 @@ UA:
     - 7
     super_reduced:
     parking:
+  vehicle_registration_code: UA
   world_region: EMEA

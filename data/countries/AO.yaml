@@ -5,6 +5,7 @@ AO:
   continent: Africa
   country_code: '244'
   currency_code: AOA
+  distance_unit: KM
   gec: AO
   geo:
     latitude: -11.202692
@@ -40,7 +41,9 @@ AO:
   start_of_week: monday
   subregion: Middle Africa
   un_locode: AO
+  un_member: true
   unofficial_names:
   - Angola
   - アンゴラ
+  vehicle_registration_code: ANG
   world_region: EMEA

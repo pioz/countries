@@ -5,6 +5,7 @@ VA:
   continent: Europe
   country_code: '39'
   currency_code: EUR
+  distance_unit: KM
   gec: VT
   geo:
     latitude: 41.902916
@@ -24,12 +25,14 @@ VA:
   ioc:
   iso_long_name: The Holy See
   iso_short_name: Holy See
+  iso_short_name_lower_case: Holy See (the)
   languages_official:
   - it
   - la
   languages_spoken:
   - it
   - la
+  nanp_prefix: '379'
   national_destination_code_lengths:
   - 3
   national_number_lengths:
@@ -43,12 +46,15 @@ VA:
   start_of_week: monday
   subregion: Southern Europe
   un_locode: VA
+  un_member: false
   unofficial_names:
   - Vatican City
+  - Holy See
   - Vatikan
   - Cité du Vatican
   - Ciudad del Vaticano
   - バチカン市国
   - Vaticaanstad
   - Vatican City State (Holy See)
+  vehicle_registration_code: V
   world_region: EMEA

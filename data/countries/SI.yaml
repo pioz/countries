@@ -10,6 +10,7 @@ SI:
   continent: Europe
   country_code: '386'
   currency_code: EUR
+  distance_unit: KM
   eea_member: true
   eu_member: true
   gec: SI
@@ -48,6 +49,7 @@ SI:
   start_of_week: monday
   subregion: Southern Europe
   un_locode: SI
+  un_member: true
   unofficial_names:
   - Slovenia
   - Slowenien
@@ -61,4 +63,5 @@ SI:
     - 9.5
     super_reduced:
     parking:
+  vehicle_registration_code: SLO
   world_region: EMEA

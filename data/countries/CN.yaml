@@ -10,6 +10,7 @@ CN:
   continent: Asia
   country_code: '86'
   currency_code: CNY
+  distance_unit: KM
   g20_member: true
   gec: CH
   geo:
@@ -51,8 +52,10 @@ CN:
   start_of_week: monday
   subregion: Eastern Asia
   un_locode: CN
+  un_member: true
   unofficial_names:
   - China
   - Chine
   - 中国
+  vehicle_registration_code: CHN*
   world_region: APAC

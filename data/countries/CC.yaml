@@ -5,6 +5,7 @@ CC:
   continent: Asia
   country_code: '61'
   currency_code: AUD
+  distance_unit: KM
   gec: CK
   geo:
     latitude: -12.164165
@@ -24,6 +25,7 @@ CC:
   ioc:
   iso_long_name: The Territory of Cocos (Keeling) Islands
   iso_short_name: Cocos (Keeling) Islands
+  iso_short_name_lower_case: Cocos (Keeling) Islands (the)
   languages_official:
   - en
   languages_spoken:
@@ -41,6 +43,7 @@ CC:
   start_of_week: monday
   subregion: Australia and New Zealand
   un_locode: CC
+  un_member: false
   unofficial_names:
   - Cocos (Keeling) Islands
   - Kokosinseln

@@ -10,6 +10,7 @@ HR:
   continent: Europe
   country_code: '385'
   currency_code: EUR
+  distance_unit: KM
   eea_member: true
   eu_member: true
   gec: HR
@@ -48,6 +49,7 @@ HR:
   start_of_week: monday
   subregion: Southern Europe
   un_locode: HR
+  un_member: true
   unofficial_names:
   - Croatia
   - Kroatien
@@ -63,4 +65,5 @@ HR:
     - 13
     super_reduced:
     parking:
+  vehicle_registration_code: HR
   world_region: EMEA

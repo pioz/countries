@@ -5,6 +5,7 @@ MW:
   continent: Africa
   country_code: '265'
   currency_code: MWK
+  distance_unit: KM
   gec: MI
   geo:
     latitude: -13.254308
@@ -42,7 +43,9 @@ MW:
   start_of_week: monday
   subregion: Eastern Africa
   un_locode: MW
+  un_member: true
   unofficial_names:
   - Malawi
   - マラウイ
+  vehicle_registration_code: MW
   world_region: EMEA

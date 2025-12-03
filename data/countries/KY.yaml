@@ -5,6 +5,7 @@ KY:
   continent: North America
   country_code: '1'
   currency_code: KYD
+  distance_unit: MI
   gec: CJ
   geo:
     latitude: 19.3133
@@ -24,6 +25,7 @@ KY:
   ioc: CAY
   iso_long_name: The Cayman Islands
   iso_short_name: Cayman Islands
+  iso_short_name_lower_case: Cayman Islands (the)
   languages_official:
   - en
   languages_spoken:
@@ -42,6 +44,7 @@ KY:
   start_of_week: monday
   subregion: Caribbean
   un_locode: KY
+  un_member: false
   unofficial_names:
   - Cayman Islands
   - Kaimaninseln

@@ -12,6 +12,7 @@ ZA:
   continent: Africa
   country_code: '27'
   currency_code: ZAR
+  distance_unit: KM
   g20_member: true
   gec: SF
   geo:
@@ -67,6 +68,7 @@ ZA:
   start_of_week: monday
   subregion: Southern Africa
   un_locode: ZA
+  un_member: true
   unofficial_names:
   - South Africa
   - Republik Südafrika
@@ -74,4 +76,5 @@ ZA:
   - República de Sudáfrica
   - 南アフリカ
   - Zuid-Afrika
+  vehicle_registration_code: ZA
   world_region: EMEA

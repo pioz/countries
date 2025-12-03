@@ -5,6 +5,7 @@ BF:
   continent: Africa
   country_code: '226'
   currency_code: XOF
+  distance_unit: KM
   gec: UV
   geo:
     latitude: 12.238333
@@ -42,7 +43,9 @@ BF:
   start_of_week: monday
   subregion: Western Africa
   un_locode: BF
+  un_member: true
   unofficial_names:
   - Burkina Faso
   - ブルキナファソ
+  vehicle_registration_code: BF
   world_region: EMEA

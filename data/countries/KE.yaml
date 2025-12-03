@@ -5,6 +5,7 @@ KE:
   continent: Africa
   country_code: '254'
   currency_code: KES
+  distance_unit: KM
   gec: KE
   geo:
     latitude: -0.023559
@@ -43,8 +44,10 @@ KE:
   start_of_week: monday
   subregion: Eastern Africa
   un_locode: KE
+  un_member: true
   unofficial_names:
   - Kenya
   - Kenia
   - ケニア
+  vehicle_registration_code: EAK
   world_region: EMEA

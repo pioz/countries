@@ -10,6 +10,7 @@ PT:
   continent: Europe
   country_code: '351'
   currency_code: EUR
+  distance_unit: KM
   eea_member: true
   eu_member: true
   gec: PO
@@ -48,6 +49,7 @@ PT:
   start_of_week: monday
   subregion: Southern Europe
   un_locode: PT
+  un_member: true
   unofficial_names:
   - Portugal
   - ポルトガル
@@ -58,4 +60,5 @@ PT:
     - 13
     super_reduced:
     parking: 13
+  vehicle_registration_code: P
   world_region: EMEA

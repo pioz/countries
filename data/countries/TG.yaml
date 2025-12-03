@@ -5,6 +5,7 @@ TG:
   continent: Africa
   country_code: '228'
   currency_code: XOF
+  distance_unit: KM
   gec: TO
   geo:
     latitude: 8.619543
@@ -40,7 +41,9 @@ TG:
   start_of_week: monday
   subregion: Western Africa
   un_locode: TG
+  un_member: true
   unofficial_names:
   - Togo
   - トーゴ
+  vehicle_registration_code: RT
   world_region: EMEA

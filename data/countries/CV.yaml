@@ -5,6 +5,7 @@ CV:
   continent: Africa
   country_code: '238'
   currency_code: CVE
+  distance_unit: KM
   gec: CV
   geo:
     latitude: 16.5388
@@ -41,6 +42,7 @@ CV:
   start_of_week: monday
   subregion: Western Africa
   un_locode: CV
+  un_member: true
   unofficial_names:
   - Cape Verde
   - Kap Verde
@@ -48,4 +50,5 @@ CV:
   - Cabo Verde
   - カーボベルデ
   - Kaapverdië
+  vehicle_registration_code: CV
   world_region: EMEA

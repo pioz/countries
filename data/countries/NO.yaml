@@ -10,6 +10,7 @@
   continent: Europe
   country_code: '47'
   currency_code: NOK
+  distance_unit: KM
   eea_member: true
   gec: 'NO'
   geo:
@@ -49,6 +50,7 @@
   start_of_week: monday
   subregion: Northern Europe
   un_locode: 'NO'
+  un_member: true
   unofficial_names:
   - Norway
   - Norwegen
@@ -61,4 +63,5 @@
     reduced: []
     super_reduced:
     parking:
+  vehicle_registration_code: N
   world_region: EMEA

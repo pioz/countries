@@ -4,13 +4,13 @@ DK:
     {{recipient}}
     {{street}}
     {{postalcode}} {{city}}
-    {{region}}
     {{country}}
   alpha2: DK
   alpha3: DNK
   continent: Europe
   country_code: '45'
   currency_code: DKK
+  distance_unit: KM
   eea_member: true
   eu_member: true
   gec: DA
@@ -49,6 +49,7 @@ DK:
   start_of_week: monday
   subregion: Northern Europe
   un_locode: DK
+  un_member: true
   unofficial_names:
   - Denmark
   - Dänemark
@@ -61,4 +62,5 @@ DK:
     reduced: []
     super_reduced:
     parking:
+  vehicle_registration_code: DK
   world_region: EMEA

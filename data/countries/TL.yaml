@@ -5,6 +5,7 @@ TL:
   continent: Asia
   country_code: '670'
   currency_code: IDR
+  distance_unit: KM
   gec: TT
   geo:
     latitude: -8.874217
@@ -40,6 +41,7 @@ TL:
   start_of_week: monday
   subregion: South-Eastern Asia
   un_locode: TL
+  un_member: true
   unofficial_names:
   - East Timor
   - Timor-Leste
@@ -47,4 +49,5 @@ TL:
   - Timor Oriental
   - 東ティモール
   - Oost-Timor
+  vehicle_registration_code: TL
   world_region: APAC

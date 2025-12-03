@@ -5,6 +5,7 @@ CI:
   continent: Africa
   country_code: '225'
   currency_code: XOF
+  distance_unit: KM
   gec: IV
   geo:
     latitude: 7.539988999999999
@@ -40,6 +41,7 @@ CI:
   start_of_week: monday
   subregion: Western Africa
   un_locode: CI
+  un_member: true
   unofficial_names:
   - Côte D'Ivoire
   - Elfenbeinküste
@@ -48,4 +50,5 @@ CI:
   - Cote D'Ivoire (Ivory Coast)
   - Cote d Ivoire (Ivory Coast)
   - Ivory Coast
+  vehicle_registration_code: CI
   world_region: EMEA

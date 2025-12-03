@@ -5,6 +5,7 @@ TN:
   continent: Africa
   country_code: '216'
   currency_code: TND
+  distance_unit: KM
   gec: TS
   geo:
     latitude: 33.886917
@@ -43,6 +44,7 @@ TN:
   start_of_week: monday
   subregion: Northern Africa
   un_locode: TN
+  un_member: true
   unofficial_names:
   - Tunisia
   - تونس
@@ -51,4 +53,5 @@ TN:
   - Túnez
   - チュニジア
   - Tunesië
+  vehicle_registration_code: TN
   world_region: EMEA

@@ -5,6 +5,7 @@ BY:
   continent: Europe
   country_code: '375'
   currency_code: BYN
+  distance_unit: KM
   gec: BO
   geo:
     latitude: 53.709807
@@ -43,6 +44,7 @@ BY:
   start_of_week: monday
   subregion: Eastern Europe
   un_locode: BY
+  un_member: true
   unofficial_names:
   - Belarus
   - Weißrussland
@@ -51,4 +53,5 @@ BY:
   - ベラルーシ
   - Wit-Rusland
   - Беларусь
+  vehicle_registration_code: BY
   world_region: EMEA

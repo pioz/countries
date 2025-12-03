@@ -11,6 +11,7 @@ OM:
   continent: Asia
   country_code: '968'
   currency_code: OMR
+  distance_unit: KM
   gec: MU
   geo:
     latitude: 21.4735329
@@ -47,9 +48,11 @@ OM:
   start_of_week: sunday
   subregion: Western Asia
   un_locode: OM
+  un_member: true
   unofficial_names:
   - Oman
   - عمان
   - Omán
   - オマーン
+  vehicle_registration_code: OM
   world_region: EMEA

@@ -10,6 +10,7 @@ EG:
   continent: Africa
   country_code: '20'
   currency_code: EGP
+  distance_unit: KM
   gec: EG
   geo:
     latitude: 26.820553
@@ -46,6 +47,7 @@ EG:
   start_of_week: sunday
   subregion: Northern Africa
   un_locode: EG
+  un_member: true
   unofficial_names:
   - Egypt
   - مصر
@@ -54,4 +56,5 @@ EG:
   - Egipto
   - エジプト
   - Egypte
+  vehicle_registration_code: EG
   world_region: EMEA

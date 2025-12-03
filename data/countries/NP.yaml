@@ -11,6 +11,7 @@ NP:
   continent: Asia
   country_code: '977'
   currency_code: NPR
+  distance_unit: KM
   gec: NP
   geo:
     latitude: 28.394857
@@ -52,9 +53,11 @@ NP:
   start_of_week: sunday
   subregion: Southern Asia
   un_locode: NP
+  un_member: true
   unofficial_names:
   - Nepal
   - Népal
   - the Federal Democratic Republic of Nepal
   - ネパール
+  vehicle_registration_code: NEP*
   world_region: APAC
