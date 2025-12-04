@@ -44,6 +44,7 @@ fmt.Println(c.GEC)
 c := countries.Get("US")
 fmt.Println(c.ISOLongName)
 fmt.Println(c.ISOShortName)
+fmt.Println(c.ISOShortNameLowerCase)
 fmt.Println(c.UnofficialNames)
 fmt.Println(c.Translations["en"])
 fmt.Println(c.Translations["it"])
@@ -54,6 +55,7 @@ fmt.Println(c.EmojiFlag())
 // Output:
 // The United States of America
 // United States of America
+// United States of America (the)
 // [United States USA Vereinigte Staaten von Amerika États-Unis Estados Unidos アメリカ合衆国 Verenigde Staten Соединенные Штаты Америки]
 // United States
 // Stati Uniti
