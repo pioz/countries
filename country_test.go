@@ -42,6 +42,7 @@ func TestCountry(t *testing.T) {
 	assert.Equal(t, "ITA", c.IOC)
 	assert.Equal(t, "The Italian Republic", c.ISOLongName)
 	assert.Equal(t, "Italy", c.ISOShortName)
+	assert.Equal(t, "Italy", c.ISOShortNameLowerCase)
 	assert.Equal(t, []string{"it"}, c.LanguagesOfficial)
 	assert.Equal(t, []string{"it"}, c.LanguagesSpoken)
 	assert.Equal(t, []int{3}, c.NationalDestinationCodeLengths)
@@ -88,6 +89,7 @@ func ExampleGet_readmeNamesAndTranslations() {
 	c := countries.Get("US")
 	fmt.Println(c.ISOLongName)
 	fmt.Println(c.ISOShortName)
+	fmt.Println(c.ISOShortNameLowerCase)
 	fmt.Println(c.UnofficialNames)
 	fmt.Println(c.Translations["en"])
 	fmt.Println(c.Translations["it"])
@@ -98,6 +100,7 @@ func ExampleGet_readmeNamesAndTranslations() {
 	// Output:
 	// The United States of America
 	// United States of America
+	// United States of America (the)
 	// [United States United States of America USA Vereinigte Staaten von Amerika États-Unis Estados Unidos アメリカ合衆国 Verenigde Staten Соединенные Штаты Америки]
 	// United States
 	// Stati Uniti

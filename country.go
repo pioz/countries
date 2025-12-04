@@ -59,6 +59,7 @@ type Country struct {
 	IOC                            string                 `yaml:"ioc"`
 	ISOLongName                    string                 `yaml:"iso_long_name"`
 	ISOShortName                   string                 `yaml:"iso_short_name"`
+	ISOShortNameLowerCase          string                 `yaml:"iso_short_name_lower_case"`
 	LanguagesOfficial              []string               `yaml:"languages_official"`
 	LanguagesSpoken                []string               `yaml:"languages_spoken"`
 	NationalDestinationCodeLengths []int                  `yaml:"national_destination_code_lengths"`

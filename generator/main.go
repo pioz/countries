@@ -49,6 +49,13 @@ func main() {
 	if err != nil {
 		log.Fatalf("writing output: %s", err)
 	}
+	// Adjust values
+	for alpha2, data := range allCountries {
+		if allCountries[alpha2].ISOShortNameLowerCase == "" {
+			data.ISOShortNameLowerCase = data.ISOShortName
+			allCountries[alpha2] = data
+		}
+	}
 	// Load subdivisions data from yaml data files
 	allSubdivisions := make(map[string]map[string]*countries.Subdivision)
 	err = loadSubdivisions(filepath.Join(dataPath, "subdivisions"), allSubdivisions)
